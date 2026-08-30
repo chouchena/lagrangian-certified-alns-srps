@@ -1,0 +1,76 @@
+================================================================================
+Adaptive ALNS full run — 4 instances  |  6 workers
+Arm     : H0 (full adaptive loop)
+Start   : COLD (greedy)
+Stop    : after 3 consecutive non-improving phase(s)
+Families: ['B', 'C', 'D', 'EB', 'EC', 'ED']
+Subset  : results/stall_smoke4.csv
+Certs   : off
+Inc dir : write → results\beta_incumbents_branchref  (cold, no read)
+Phase RT: 300s | Abs cap: 3600s | Gap threshold: 0.3%
+Destroy tiers: ['25%', '33%', '40%']  | EC depth=3
+Sorted by master RT desc (longest first) for load balancing
+Output: results\adaptive_full_20260827_0532_branchref.csv
+================================================================================
+
+================================================================================
+  B_n120_014_a25_040  |  master=3242  BKS=3242.0  init_UB=3294  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    0      3242     3294 1.579%     4   301s    301s  OBJ+250 tier->0
+   2    1      3242     3333 2.730%     4   300s    604s  STALL→tier0→1 d_max=14
+   3    2      3242     3299 1.728%     4   300s    908s  STALL→tier1→2 d_max=18
+   4    3      3242     3294 1.579%     4   300s   1211s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=3242  EC+0  gap=1.579%  vs_BKS=+0  vs_master=+0  RT=1212s  stop=TIERS_EXHAUSTED  phases=4
+  [  1/4]  wall=20.2min  ETA≈1.0h  stop=TIERS_EXHAUSTED  phases=4  gap=1.5786%
+
+================================================================================
+  B_n120_012_a25_034  |  master=2871  BKS=2871.0  init_UB=2885  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    0      2871     2885 0.485%     4   301s    301s  OBJ+142 tier->0
+   2    1      2871     2900 1.000%     3   300s    610s  STALL→tier0→1 d_max=15
+   3    2      2871     2883 0.416%     3   300s    917s  STALL→tier1→2 d_max=21
+   4    3      2871     2883 0.416%     3   300s   1221s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2871  EC+0  gap=0.416%  vs_BKS=+0  vs_master=+0  RT=1222s  stop=TIERS_EXHAUSTED  phases=4
+  [  2/4]  wall=20.4min  ETA≈0.3h  stop=TIERS_EXHAUSTED  phases=4  gap=0.4162%
+
+================================================================================
+  B_n110_006_a25_016  |  master=2434  BKS=2434.0  init_UB=2473  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    0      2434     2473 1.577%     6   300s    300s  OBJ+143 tier->0
+   2    1      2434     2477 1.736%     5   300s    609s  STALL→tier0→1 d_max=12
+   3    2      2434     2474 1.617%     5   300s    918s  STALL→tier1→2 d_max=16
+   4    3      2434     2473 1.577%     5   300s   1227s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2434  EC+0  gap=1.577%  vs_BKS=+0  vs_master=+0  RT=1227s  stop=TIERS_EXHAUSTED  phases=4
+  [  3/4]  wall=20.5min  ETA≈0.1h  stop=TIERS_EXHAUSTED  phases=4  gap=1.5770%
+
+================================================================================
+  B_n120_011_a25_031  |  master=2526  BKS=2526.0  init_UB=2572  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    0      2526     2572 1.788%     5   301s    301s  OBJ+24 tier->0
+   2    1      2526     2597 2.734%     5   300s    619s  STALL→tier0→1 d_max=12
+   3    2      2526     2574 1.865%     5   300s    939s  STALL→tier1→2 d_max=17
+   4    3      2526     2574 1.865%     5   300s   1254s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2526  EC+0  gap=1.865%  vs_BKS=+0  vs_master=+0  RT=1255s  stop=TIERS_EXHAUSTED  phases=4
+  [  4/4]  wall=20.9min  ETA≈0.0h  stop=TIERS_EXHAUSTED  phases=4  gap=1.8648%
+
+================================================================================
+  FULL RUN SUMMARY — 4 instances  |  wall RT: 0.35h
+  Improved vs master    :    0 / 4
+  Regressed vs master   :    0 / 4
+  Still below BKS       :    0 / 4 (with BKS)
+  Stop reasons: {'TIERS_EXHAUSTED': 4}
+  Cert gap — mean=1.359%  median=1.578%  max=1.865%
+  Within 0.3%: 0/4
+  Within 1.0%: 1/4
+  Within 2.0%: 4/4
+  Summary → results\adaptive_full_20260827_0532_branchref.csv
+  Phases  → results\adaptive_full_20260827_0532_branchref_phases.csv
+================================================================================

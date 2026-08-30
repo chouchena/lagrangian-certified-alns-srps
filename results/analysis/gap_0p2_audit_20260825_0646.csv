@@ -1,0 +1,13 @@
+category_type,category,n_instances,n_gap_ge_0p2,pct_gap_ge_0p2,n_gap_lt_0p2,pct_gap_lt_0p2,max_gap_pct
+overall,all,660,143,21.67,517,78.33,1.965
+bpc_class,optimal,245,26,10.61,219,89.39,1.577
+bpc_class,incumbent,115,30,26.09,85,73.91,1.965
+bpc_class,not_reported,300,87,29.0,213,71.0,1.8446
+bpc_status,bpc_proven_optimal,245,26,10.61,219,89.39,1.577
+bpc_status,bpc_not_proven_optimal,415,117,28.19,298,71.81,1.965
+family,B,90,22,24.44,68,75.56,1.965
+family,C,105,7,6.67,98,93.33,0.3883
+family,D,135,27,20.0,108,80.0,0.8643
+family,EB,90,26,28.89,64,71.11,0.7521
+family,EC,105,20,19.05,85,80.95,0.4962
+family,ED,135,41,30.37,94,69.63,1.6421

@@ -1,0 +1,5 @@
+instance,family,n,alpha,group_id,bks,master_obj,master_rt_s,master_cert_gap_pct,master_status,beta_obj,beta_ub,beta_gap_pct,beta_ec_gain,beta_phases,beta_stop_reason,beta_total_rt_s,beta_raw_ub,beta_num_ub_refreshes,beta_num_lag_iters,beta_no_refresh,beta_stop_at_stall,beta_lag_max_iter,beta_lag_max_time,beta_vs_master,beta_vs_bks,beta_status
+B_n120_014_a25_040,B,120,0.25,014,3242.0,3242.0,586.0,1.581616,TIE,3242.0,3333,2.7303,0,2,STALL_STOP_1,605.0,3333.8866,0,200,0,1,200,60.0,0.0,0.0,TIE
+B_n110_006_a25_016,B,110,0.25,006,2434.0,2434.0,374.0,1.577032,TIE,2434.0,2477,1.7360,0,2,STALL_STOP_1,608.7,2477.9125,0,200,0,1,200,60.0,0.0,0.0,TIE
+B_n120_012_a25_034,B,120,0.25,012,2871.0,2871.0,633.0,0.485269,TIE,2871.0,2900,1.0000,0,2,STALL_STOP_1,611.6,2900.7419,0,200,0,1,200,60.0,0.0,0.0,TIE
+B_n120_011_a25_031,B,120,0.25,011,2526.0,2526.0,560.0,1.796128,TIE,2526.0,2597,2.7339,0,2,STALL_STOP_1,616.2,2597.0006,0,200,0,1,200,60.0,0.0,0.0,TIE

@@ -1,0 +1,31 @@
+======================================================================
+STATISTICAL VALIDITY TESTS FOR COR SUBMISSION
+Timestamp: 20260826_2259
+======================================================================
+Loaded 660 study instances.
+
+--- TEST 1: Wilcoxon signed-rank  (our obj vs BKS) ---
+  Instances with BKS: 461
+  Improved: 24  Matched: 425  Below: 12
+  Wilcoxon stat=78.00  p=0.000058
+  SIGNIFICANT (p<0.05)
+
+--- TEST 2: Bootstrap 95% CI on mean certified gap ---
+  N=660
+  Mean   = 0.0657%
+  Median = 0.0000%
+  Max    = 1.6135%
+  95% CI = [0.0516%, 0.0814%]
+  Paper text: mean 0.066% (95% CI [0.052%, 0.081%])
+  Within 0.3%: 93.8%
+  Within 0.5%: 96.8%
+  Within 1.0%: 98.6%
+  Within 2.0%: 100.0%
+
+--- TEST 3: Reproducibility (Run 2 vs Run 1) ---
+  SKIPPED. After Experiment 1, re-run:
+    python scripts/run_stats_tests.py --repro results/repro_run2_summary.csv
+
+======================================================================
+Output saved: results/analysis/stats_tests_20260826_2259.txt
+======================================================================

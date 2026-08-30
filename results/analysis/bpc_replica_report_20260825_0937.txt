@@ -1,0 +1,16 @@
+BPC replica 29-run suite report (20260825_0937)
+Runs completed: 29
+Total wall-clock: 127.9 min
+
+Top-5 by gap objective:
+  A1_control (stage A): dGap=+0.4558pp, maxGap=6.3957%, dRT=-387.3s, dObj=-3.300
+  B09 (stage B): dGap=+0.4688pp, maxGap=6.7244%, dRT=-387.2s, dObj=-3.300
+  C07 (stage C): dGap=+0.4718pp, maxGap=6.7244%, dRT=-390.4s, dObj=-3.300
+  B11 (stage B): dGap=+0.4718pp, maxGap=6.7244%, dRT=-387.9s, dObj=-3.300
+  B08 (stage B): dGap=+0.4762pp, maxGap=6.7244%, dRT=-387.7s, dObj=-3.300
+
+Stage winners:
+  Stage A: A1_control (dGap=+0.4558pp, maxGap=6.3957%, dRT=-387.3s)
+  Stage B: B09 (dGap=+0.4688pp, maxGap=6.7244%, dRT=-387.2s)
+  Stage C: C07 (dGap=+0.4718pp, maxGap=6.7244%, dRT=-390.4s)
+  Stage D: D04 (dGap=+0.4852pp, maxGap=6.7244%, dRT=-393.0s)

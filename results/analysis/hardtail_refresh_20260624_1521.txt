@@ -1,0 +1,19 @@
+Hard-tail in-loop UB-refresh evidence — 20260624_1521
+H0  (full)       : results\adaptive_full_20260624_0844_hardtail_H0.csv
+H1a (no refresh) : results\adaptive_full_20260624_1214_hardtail_H1a.csv
+Instances compared: 70
+
+Mean certified gap  — full 0.691%   no-refresh 0.955%
+Mean   Δgap (reduction by refresh): +0.2643 pp
+Median Δgap                        : +0.1961 pp
+Max    Δgap                        : +1.4565 pp
+Min    Δgap                        : -0.1777 pp
+
+Improved by refresh  : 53 / 70
+Unchanged            : 11 / 70
+Worsened             : 6 / 70
+
+Threshold crossings (no-refresh -> full):
+  → below 1.0% : 22
+  → below 0.5% : 16
+  → exact (0%) : 0

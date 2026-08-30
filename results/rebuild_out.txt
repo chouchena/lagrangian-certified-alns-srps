@@ -1,0 +1,55 @@
+rebuilding 660 bounds | init 200 iters | refine 3000 iters | 6 workers
+
+  [ 20/660]   4.3 min elapsed, ETA 136.6 min
+  [ 40/660]  10.6 min elapsed, ETA 163.9 min
+  [ 60/660]  19.4 min elapsed, ETA 193.8 min
+  [ 80/660]  38.0 min elapsed, ETA 275.5 min
+  [100/660]  44.1 min elapsed, ETA 246.7 min
+  [120/660]  44.1 min elapsed, ETA 198.3 min
+  [140/660]  44.1 min elapsed, ETA 163.7 min
+  [160/660]  44.9 min elapsed, ETA 140.4 min
+  [180/660]  48.1 min elapsed, ETA 128.2 min
+  [200/660]  50.9 min elapsed, ETA 117.0 min
+  [220/660]  51.0 min elapsed, ETA 102.0 min
+  [240/660]  51.9 min elapsed, ETA  90.7 min
+  [260/660]  53.7 min elapsed, ETA  82.6 min
+  [280/660]  56.6 min elapsed, ETA  76.8 min
+  [300/660]  63.0 min elapsed, ETA  75.6 min
+  [320/660]  80.0 min elapsed, ETA  85.0 min
+  [340/660]  86.0 min elapsed, ETA  80.9 min
+  [360/660]  87.6 min elapsed, ETA  73.0 min
+  [380/660] 101.9 min elapsed, ETA  75.1 min
+  [400/660] 116.1 min elapsed, ETA  75.5 min
+  [420/660] 129.8 min elapsed, ETA  74.2 min
+  [440/660] 129.8 min elapsed, ETA  64.9 min
+  [460/660] 129.8 min elapsed, ETA  56.4 min
+  [480/660] 130.5 min elapsed, ETA  48.9 min
+  [500/660] 133.4 min elapsed, ETA  42.7 min
+  [520/660] 137.3 min elapsed, ETA  37.0 min
+  [540/660] 137.3 min elapsed, ETA  30.5 min
+  [560/660] 137.7 min elapsed, ETA  24.6 min
+  [580/660] 138.8 min elapsed, ETA  19.1 min
+  [600/660] 141.1 min elapsed, ETA  14.1 min
+  [620/660] 144.8 min elapsed, ETA   9.3 min
+  [640/660] 154.2 min elapsed, ETA   4.8 min
+  [660/660] 179.4 min elapsed, ETA   0.0 min
+
+============================================================
+CERTIFIED REBUILD — no external value in the bound chain
+============================================================
+                            as reported      rebuilt
+  proven optimal                    446          446
+  proven optimal %                67.6%        67.6%
+  mean gap %                     0.0657       0.0658
+  median gap %                   0.0000       0.0000
+  max gap %                      1.6135       1.6135
+  within 0.5%                       639          639
+  above 2%                            0            0
+
+  binding bound: initial 216, refined 444
+  refinement converged: 56/660
+  VALIDITY violations (ub < incumbent): 0
+  certificates written: 660
+  errors: 0
+
+written: results/bounds_certified.csv

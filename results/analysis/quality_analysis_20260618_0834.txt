@@ -1,0 +1,151 @@
+Quality analysis  —  run 20260618_0834
+Dataset: 660 instances (study set: B/C/D/EB/EC/ED, K=2,3,4)
+  gap=0: 111 (16.8%)  |  gap>0: 549
+  gap (all):   mean=0.4940%  median=0.2428%  max=2.4317%
+  gap (gap>0): mean=0.5938%  median=0.4231%
+
+==========================================================================
+PART 1 — Univariate non-parametric tests
+==========================================================================
+
+1. Spearman rho  (n vs gap):         rho = +0.2259   p = 4.4313e-09
+   Note: negative rho is a K confound (large n = K=1 family)
+
+2. Kruskal-Wallis  (K vs gap):        H = nan   p = nan
+   mean gap by K: K=1: nan%  K=2: 0.6252%  K=3: 0.4174%  K=4: 0.4661%
+   Pairwise Mann-Whitney (Bonferroni corrected, alpha=0.0083):
+     K=1 vs K=2: U=nan  p=nan 
+     K=1 vs K=3: U=nan  p=nan 
+     K=1 vs K=4: U=nan  p=nan 
+     K=2 vs K=3: U=22230  p=2.6406e-03 **
+     K=2 vs K=4: U=26768  p=6.7348e-02 
+     K=3 vs K=4: U=25354  p=4.6269e-02 *
+
+3. Mann-Whitney  (distance):          U = 53462.5   p = 6.8625e-01
+   mean gap: Line=0.4916%   Euclidean=0.4963%
+
+4. Kruskal-Wallis  (alpha vs gap):    H = 191.779   p = 2.2680e-42
+   mean gap by alpha: a=0.25: 0.6771%  a=0.5: 0.6828%  a=0.75: 0.1220%
+   Pairwise Mann-Whitney (Bonferroni corrected, alpha=0.0167):
+     a=0.25 vs a=0.5: U=23703  p=7.0965e-01 
+     a=0.25 vs a=0.75: U=39619  p=2.5730e-31 **
+     a=0.5 vs a=0.75: U=40661  p=2.8934e-35 **
+
+==========================================================================
+PART 2 — Tobit regression  (left-censored at 0,  n=780,  n_censored=202)
+==========================================================================
+
+Fitting Model 0 (null — intercept only)...
+Fitting Model 1 (main effects only)...
+Fitting Model 2 (main effects + all interactions)...
+Fitting Model 3 (main effects, no distance)...
+Fitting Model 4 (parsimonious: n+K+alpha+n*K+K*alpha)...
+
+--- Model 1: Main effects only ---
+  sigma = 0.5539   log-likelihood = -543.3409
+
+  Predictor                       Coef        SE        z           p  Sig
+  ------------------------------------------------------------------------
+  const                         0.4135    0.0317   13.044  6.8426e-39  ***
+  n_std                         0.2320    0.0374    6.206  5.4243e-10  ***
+  K_std                         0.1236    0.0373    3.313  9.2420e-04  ***
+  alpha_std                    -0.2833    0.0226  -12.535  4.8227e-36  ***
+  distance                      0.0250    0.0444    0.565  5.7229e-01  
+  Significance: *** p<0.001  ** p<0.01  * p<0.05  . p<0.10
+  McKelvey-Zavoina R² = 0.2517
+
+--- Model 2: Main effects + all pairwise interactions ---
+  sigma = 0.5353   log-likelihood = -514.9006
+
+  Predictor                       Coef        SE        z           p  Sig
+  ------------------------------------------------------------------------
+  const                         0.4785    0.0412   11.609  3.7091e-31  ***
+  n_std                         0.4084    0.0610    6.698  2.1117e-11  ***
+  K_std                         0.2107    0.0525    4.015  5.9431e-05  ***
+  alpha_std                    -0.3826    0.0318  -12.015  2.9558e-33  ***
+  distance                      0.0397    0.0433    0.919  3.5827e-01  
+  n_std:K_std                   0.0973    0.0347    2.800  5.1144e-03  **
+  n_std:alpha_std               0.0888    0.0370    2.398  1.6468e-02  *
+  n_std:distance               -0.1629    0.0726   -2.244  2.4841e-02  *
+  K_std:alpha_std               0.1727    0.0370    4.670  3.0089e-06  ***
+  K_std:distance               -0.1132    0.0725   -1.561  1.1861e-01  
+  alpha_std:distance            0.1879    0.0440    4.268  1.9739e-05  ***
+  Significance: *** p<0.001  ** p<0.01  * p<0.05  . p<0.10
+  McKelvey-Zavoina R² = 0.3212
+
+--- Model 4: Parsimonious (n + K + alpha + n*K + K*alpha) [REPORTING MODEL] ---
+  sigma = 0.5430   log-likelihood = -528.7830
+
+  Predictor                       Coef        SE        z           p  Sig
+  ------------------------------------------------------------------------
+  const                         0.5032    0.0352   14.307  1.9656e-46  ***
+  n_std                         0.3181    0.0485    6.552  5.6847e-11  ***
+  K_std                         0.1477    0.0374    3.949  7.8516e-05  ***
+  alpha_std                    -0.2824    0.0222  -12.724  4.3344e-37  ***
+  n_std:K_std                   0.0970    0.0351    2.762  5.7395e-03  **
+  K_std:alpha_std               0.1018    0.0220    4.618  3.8665e-06  ***
+  Significance: *** p<0.001  ** p<0.01  * p<0.05  . p<0.10
+  McKelvey-Zavoina R² = 0.2827
+
+==========================================================================
+PART 3 — Likelihood Ratio (LR) tests
+==========================================================================
+  H0: restricted model sufficient  vs  H1: unrestricted model better
+  LR = 2*(LL_full - LL_restricted)  ~  chi2(df_diff)
+
+  Test  Comparison                                  dof        LR            p  Decision
+  --------------------------------------------------------------------------------
+  A   Null vs Main effects                          4   182.877   1.7969e-38  Reject H0 ***
+  B   Main effects vs +Interactions                 6    56.881   1.9314e-10  Reject H0 ***
+  C   Null vs Full model                           10   239.758   7.7010e-46  Reject H0 ***
+  D   Drop distance (main effects)                  1     0.319   5.7224e-01  Fail to reject H0
+  E   Parsimonious vs Full (dropped terms = 0)      5    27.765   4.0459e-05  Reject H0 ***
+
+  Interpretation:
+  A: Instance characteristics collectively explain significant variation in cert gap.
+  B: Interaction terms add significant explanatory power beyond main effects.
+     The n x K cross-effect is structurally present within the study set.
+  C: Full model strongly preferred over null.
+  D: Distance can be dropped from main-effects model without significant loss.
+  E: Parsimonious model (n+K+alpha+n*K+K*alpha) is not significantly worse than
+     the full model — justifies using Model 4 as the reporting model.
+     p(E)=0.000: WARNING: dropped terms may matter.
+
+==========================================================================
+CROSS-IMPACT — mean cert gap % by (K x alpha)
+==========================================================================
+alpha    0.25    0.50    0.75
+K                            
+2      0.9729  0.8343  0.0683
+3      0.5895  0.5735  0.0890
+4      0.5480  0.6667  0.1835
+
+==========================================================================
+CROSS-IMPACT — mean cert gap % by (K x distance)
+==========================================================================
+distance  Euclidean    Line
+K                          
+2            0.6048  0.6456
+3            0.4326  0.4022
+4            0.4736  0.4586
+
+==========================================================================
+CROSS-IMPACT — mean cert gap % by (n x K)  [K=1 omitted, near-zero]
+==========================================================================
+K         2       3       4
+n                          
+40      NaN     NaN  0.2570
+45      NaN     NaN  0.2469
+50      NaN  0.3615  0.3597
+55      NaN  0.3872  0.4554
+60      NaN  0.4065  0.5786
+65      NaN  0.4305  0.5965
+70      NaN  0.4397  0.6221
+75      NaN  0.4036  0.5111
+80      NaN  0.4926  0.5676
+100  0.6794     NaN     NaN
+110  0.4647     NaN     NaN
+120  0.5773     NaN     NaN
+130  0.5728     NaN     NaN
+140  0.6894     NaN     NaN
+150  0.7675     NaN     NaN

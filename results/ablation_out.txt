@@ -1,0 +1,92 @@
+================================================================================
+Ablation study — adaptive-loop ALNS  —  20260827_1325
+Instances    : 30  (same 30-instance stratified subset as sensitivity)
+Arms         : 6  (A0 baseline + A1–A5 ablation)
+ABS_CAP      : 1800s per instance per arm
+Cert thresh  : 2.0%  (warm-mu triggered if A0 cert_gap >= this)
+Cores        : 6
+Output CSV   : results\analysis\ablation_warmmu_20260827_1325.csv
+Output TXT   : results\analysis\ablation_warmmu_20260827_1325.txt
+
+================================================================================
+
+Phase 1: 30 jobs  (A0 full adaptive loop + warm-mu if cert >= 2.0%)
+  [P1  1/30] C_n050_001_a25_001                   cert=0.0000%   rt=     0s  stop=UB
+  [P1  2/30] C_n060_011_a50_032                   cert=0.0000%   rt=    68s  stop=UB
+  [P1  3/30] B_n100_001_a25_001                   cert=0.0933%   rt=   301s  stop=GAP<threshold
+  [P1  4/30] B_n110_006_a50_017                   cert=0.2878%   rt=   308s  stop=GAP<threshold
+  [P1  5/30] B_n120_011_a75_033                   cert=0.0245%   rt=   309s  stop=GAP<threshold
+  [P1  6/30] D_n040_001_a25_001                   cert=0.0000%   rt=     0s  stop=UB
+  [P1  7/30] B_n150_026_a50_077                   cert=0.2208%   rt=   326s  stop=GAP<threshold
+  [P1  8/30] C_n065_016_a75_048                   cert=0.0520%   rt=   306s  stop=GAP<threshold
+  [P1  9/30] D_n050_011_a50_032                   cert=0.0000%   rt=    65s  stop=UB
+  [P1 10/30] C_n070_021_a25_061                   cert=0.2278%   rt=   301s  stop=GAP<threshold
+  [P1 11/30] C_n080_031_a50_092                   cert=0.1311%   rt=   311s  stop=GAP<threshold
+  [P1 12/30] D_n060_021_a75_063                   cert=0.1176%   rt=   344s  stop=GAP<threshold
+  [P1 13/30] D_n070_031_a25_091                   cert=0.0784%   rt=   307s  stop=GAP<threshold
+  [P1 14/30] EB_n100_001_a25_001                  cert=0.1241%   rt=   301s  stop=GAP<threshold
+  [P1 15/30] EB_n110_006_a50_017                  cert=0.2148%   rt=   305s  stop=GAP<threshold
+  [P1 16/30] EC_n050_001_a25_001                  cert=0.0000%   rt=     0s  stop=UB
+  [P1 17/30] EC_n060_011_a50_032                  cert=0.0000%   rt=    49s  stop=UB
+  [P1 18/30] EB_n120_011_a75_033                  cert=0.0246%   rt=   306s  stop=GAP<threshold
+  [P1 19/30] EB_n140_021_a25_061                  cert=0.2358%   rt=   303s  stop=GAP<threshold
+  [P1 20/30] EB_n150_026_a50_077                  cert=0.2696%   rt=   319s  stop=GAP<threshold
+  [P1 21/30] ED_n040_001_a25_001                  cert=0.0000%   rt=     0s  stop=UB
+  [P1 22/30] EC_n070_021_a25_061                  cert=0.1151%   rt=   300s  stop=GAP<threshold
+  [P1 23/30] EC_n065_016_a75_048                  cert=0.0520%   rt=   306s  stop=GAP<threshold
+  [P1 24/30] EC_n080_031_a50_092                  cert=0.0459%   rt=   311s  stop=GAP<threshold
+  [P1 25/30] B_n140_021_a25_061                   cert=1.6588%   rt=  1360s  stop=TIERS_EXHAUSTED
+  [P1 26/30] ED_n070_031_a25_091                  cert=0.0000%   rt=   114s  stop=UB
+  [P1 27/30] ED_n050_011_a50_032                  cert=0.0765%   rt=   304s  stop=GAP<threshold
+  [P1 28/30] ED_n060_021_a75_063                  cert=0.0589%   rt=   318s  stop=GAP<threshold
+  [P1 29/30] D_n080_041_a50_122                   cert=0.2237%   rt=  1707s  stop=TIERS_EXHAUSTED
+  [P1 30/30] ED_n080_041_a50_122                  cert=0.2240%   rt=   949s  stop=GAP<threshold
+
+Phase 1 done — 37.5 min  (0/30 warm-mu passes, 0 errors)
+
+Phase 2: 150 jobs  (A1–A5 adaptive loops against fixed best_ub per instance)
+  [P2   1/150] A1  B_n100_001_a25_001                   cert=0.0933%   rt=   301s  stop=GAP<threshold
+  [P2   2/150] A2  B_n100_001_a25_001                   cert=0.0933%   rt=   301s  stop=GAP<threshold
+  [P2   3/150] A5  B_n100_001_a25_001                   cert=0.0933%   rt=   301s  stop=GAP<threshold
+  [P2   4/150] A3  B_n100_001_a25_001                   cert=0.0933%   rt=   301s  stop=GAP<threshold
+  [P2   5/150] A4  B_n100_001_a25_001                   cert=0.0933%   rt=   301s  stop=GAP<threshold
+  [P2   6/150] A1  B_n110_006_a50_017                   cert=0.2878%   rt=   304s  stop=GAP<threshold
+  [P2   7/150] A2  B_n120_011_a75_033                   cert=0.0000%   rt=   259s  stop=UB
+  [P2   8/150] A1  B_n120_011_a75_033                   cert=0.0245%   rt=   304s  stop=GAP<threshold
+  [P2   9/150] A2  B_n110_006_a50_017                   cert=0.2878%   rt=   304s  stop=GAP<threshold
+  [P2  10/150] A3  B_n110_006_a50_017                   cert=0.2878%   rt=   304s  stop=GAP<threshold
+  [P2  11/150] A4  B_n110_006_a50_017                   cert=0.2878%   rt=   305s  stop=GAP<threshold
+  [P2  12/150] A5  B_n110_006_a50_017                   cert=0.2878%   rt=   305s  stop=GAP<threshold
+  [P2  13/150] A3  B_n120_011_a75_033                   cert=0.0000%   rt=   256s  stop=UB
+  [P2  14/150] A5  B_n120_011_a75_033                   cert=0.0000%   rt=   256s  stop=UB
+  [P2  15/150] A4  B_n120_011_a75_033                   cert=0.0245%   rt=   303s  stop=GAP<threshold
+  [P2  16/150] A1  B_n150_026_a50_077                   cert=0.2409%   rt=   308s  stop=GAP<threshold
+  [P2  17/150] A2  B_n150_026_a50_077                   cert=0.2208%   rt=   313s  stop=GAP<threshold
+  [P2  18/150] A3  B_n140_021_a25_061                   cert=1.6588%   rt=  1206s  stop=TIERS_EXHAUSTED
+  [P2  19/150] A3  B_n150_026_a50_077                   cert=0.2208%   rt=   308s  stop=GAP<threshold
+  [P2  20/150] A4  B_n140_021_a25_061                   cert=1.6588%   rt=  1291s  stop=TIERS_EXHAUSTED
+  [P2  21/150] A1  C_n050_001_a25_001                   cert=0.0000%   rt=     5s  stop=UB
+  [P2  22/150] A2  C_n050_001_a25_001                   cert=0.0000%   rt=     0s  stop=UB
+  [P2  23/150] A3  C_n050_001_a25_001                   cert=0.0000%   rt=     0s  stop=UB
+  [P2  24/150] A4  C_n050_001_a25_001                   cert=0.0000%   rt=     0s  stop=UB
+  [P2  25/150] A5  C_n050_001_a25_001                   cert=0.0000%   rt=     0s  stop=UB
+  [P2  26/150] A4  B_n150_026_a50_077                   cert=0.2208%   rt=   314s  stop=GAP<threshold
+  [P2  27/150] A5  B_n150_026_a50_077                   cert=0.2208%   rt=   309s  stop=GAP<threshold
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=27092, pipe_handle=760)
+                                                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\multiprocessing\spawn.py", line 108, in spawn_main
+    source_process = _winapi.OpenProcess(
+        _winapi.SYNCHRONIZE | _winapi.PROCESS_DUP_HANDLE,
+        False, parent_pid)
+OSError: [WinError 87] The parameter is incorrect
+  File "<string>", line 1, in <module>
+    from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=27092, pipe_handle=792)
+                                                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\multiprocessing\spawn.py", line 108, in spawn_main
+    source_process = _winapi.OpenProcess(
+        _winapi.SYNCHRONIZE | _winapi.PROCESS_DUP_HANDLE,
+        False, parent_pid)
+OSError: [WinError 87] The parameter is incorrect

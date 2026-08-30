@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Benchmark instance files (large, publicly available from OPS-Benchmark-master repo)
+benchmarks/ops_raw/OPS-Benchmark-master/input/
+benchmarks/ops_raw/OPS-Benchmark-master/output/
+benchmarks/ops_raw/OPS-Benchmark-master.zip
+benchmarks/campbell_raw/
+
+# Session/dev scratch tooling (not part of the reproducible result)
+launch_*.vbs
+monitor_evidence.py
+nag_prompt*.ps1
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.code-workspace
+
+# Verbose per-run console logs (regenerable; structured CSVs are the evidence)
+results/*_console.txt
+
+# Local archive of superseded scripts/results (kept on disk, out of git)
+archive/
+
+# Solution incumbents (large binary PKLs, regenerable; consumed by run_validate_adaptive.py)
+# Trailing glob also covers experiment-arm dirs from --save-suffix (e.g. _h1a).
+results/beta_incumbents/
+results/beta_incumbents_*/
+
+# Dual certificates from superseded campaigns (regenerable; not used by any
+# reported number). The CURRENT certificates in results/certificates/ are
+# tracked deliberately: every reported bound must be re-derivable from a clean
+# clone, and excluding them is what made the previous verification claim
+# uncheckable by anyone but us.
+results/beta_certificates/
+results/beta_certificates_*/
+
+# Course material - lecturer's slides, not ours to redistribute
+Course Lectures/
+
+# Stray duplicate of a publisher PDF at repo root
+/OPS_Riera-Ledesma_Salazar-Gonzalez_2021_COR (1).pdf
+
+# Build artifact
+overleaf_submission.zip
+
+# Scratch
+lint_tex.py
+
+# Course-project material — belongs to the SRPS-Coupling-Falsification repo,
+# not to the COR solver repo. Kept on disk for convenience, untracked here.
+COURSE_PROJECT.md
+reproduce.py
+build_exact_fragments.py
+build_extra_fragments.py
+build_falsification_fragments.py
+dev_bpc_replica/
+dev_cut_guided/
+dev_dual_guided/
+dev_exact/
+
+# build artifacts
+paper_overleaf.zip
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.pdf
+paper/*.synctex.gz
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.spl
+paper/supplementary.aux
+paper/supplementary.log
+paper/supplementary.out
+paper/supplementary.pdf

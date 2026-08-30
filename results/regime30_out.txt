@@ -1,0 +1,357 @@
+================================================================================
+Adaptive ALNS full run — 30 instances  |  6 workers
+Arm     : H0 (full adaptive loop)
+Start   : warm (saved incumbents)
+Stop    : after 3 consecutive non-improving phase(s)
+Families: ['B', 'C', 'D', 'EB', 'EC', 'ED']
+Subset  : results/regime_sample30.csv
+Certs   : off
+Phase RT: 300s | Abs cap: 3600s | Gap threshold: 0.3%
+Destroy tiers: ['25%', '33%', '40%']  | EC depth=3
+Sorted by master RT desc (longest first) for load balancing
+Output: results\adaptive_full_20260827_0604_regime30.csv
+================================================================================
+
+================================================================================
+  B_n140_023_a25_067  |  master=3781  BKS=3781.0  init_UB=3805  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      3781     3821 1.047%     2   300s    316s  STALL→tier0→1 d_max=16
+   2    2      3781     3804 0.605%     2   302s    634s  STALL→tier1→2 d_max=21
+   3    3      3781     3798 0.448%     2   301s    951s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=3781  EC+0  gap=0.448%  vs_BKS=+0  vs_master=+0  RT=952s  stop=TIERS_EXHAUSTED  phases=3
+  [  1/30]  wall=15.9min  ETA≈7.7h  stop=TIERS_EXHAUSTED  phases=3  gap=0.4476%
+
+================================================================================
+  D_n075_039_a50_116  |  master=3071  BKS=N/A  init_UB=3093  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      3071     3082 0.357%     1   301s    308s  STALL→tier0→1 d_max=14
+   2    2      3071     3082 0.357%     1   305s    620s  STALL→tier1→2 d_max=18
+   3    3      3071     3082 0.357%     1   302s    928s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=3071  EC+0  gap=0.357%  vs_BKS=N/A  vs_master=+0  RT=980s  stop=TIERS_EXHAUSTED  phases=3
+  [  2/30]  wall=16.4min  ETA≈3.8h  stop=TIERS_EXHAUSTED  phases=3  gap=0.3569%
+
+================================================================================
+  D_n080_044_a50_131  |  master=3261  BKS=N/A  init_UB=3286  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      3252     3273 0.642%     1   302s    310s  STALL→tier0→1 d_max=14
+   2    2      3252     3272 0.611%     1   300s    618s  STALL→tier1→2 d_max=19
+   3    3      3252     3272 0.611%     1   301s    928s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=3252  EC+0  gap=0.611%  vs_BKS=N/A  vs_master=-9  RT=984s  stop=TIERS_EXHAUSTED  phases=3
+  [  3/30]  wall=16.4min  ETA≈2.5h  stop=TIERS_EXHAUSTED  phases=3  gap=0.6112%
+
+================================================================================
+  EB_n140_022_a50_065  |  master=4898  BKS=4503.0  init_UB=4985  master_status=BEAT
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      4900     4939 0.790%     1   300s    325s  STALL→tier0→1 d_max=25
+   2    2      4900     4926 0.528%     1   304s    656s  STALL→tier1→2 d_max=34
+   3    3      4900     4925 0.508%     1   305s    987s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=4900  EC+0  gap=0.508%  vs_BKS=+397  vs_master=+2  RT=993s  stop=TIERS_EXHAUSTED  phases=3
+  [  4/30]  wall=16.6min  ETA≈1.8h  stop=TIERS_EXHAUSTED  phases=3  gap=0.5076%
+
+================================================================================
+  ED_n080_045_a75_135  |  master=2932  BKS=N/A  init_UB=2952  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      2933     2943 0.340%     1   301s    320s  STALL→tier0→1 d_max=17
+   2    2      2933     2942 0.306%     1   300s    641s  STALL→tier1→2 d_max=23
+   3    3      2933     2942 0.306%     1   300s    963s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2933  EC+0  gap=0.306%  vs_BKS=N/A  vs_master=+1  RT=1004s  stop=TIERS_EXHAUSTED  phases=3
+  [  5/30]  wall=16.8min  ETA≈1.4h  stop=TIERS_EXHAUSTED  phases=3  gap=0.3059%
+
+================================================================================
+  ED_n075_040_a75_120  |  master=2730  BKS=N/A  init_UB=2750  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      2731     2741 0.365%     1   308s    324s  STALL→tier0→1 d_max=16
+   2    2      2731     2740 0.328%     1   315s    657s  STALL→tier1→2 d_max=22
+   3    3      2731     2740 0.328%     1   300s    976s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2731  EC+0  gap=0.328%  vs_BKS=N/A  vs_master=+1  RT=1011s  stop=TIERS_EXHAUSTED  phases=3
+  [  6/30]  wall=16.9min  ETA≈1.1h  stop=TIERS_EXHAUSTED  phases=3  gap=0.3285%
+
+================================================================================
+  ED_n070_032_a75_096  |  master=2083  BKS=N/A  init_UB=2102  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      2083     2097 0.668%     1   301s    307s  STALL→tier0→1 d_max=14
+   2    2      2083     2096 0.620%     1   301s    614s  STALL→tier1→2 d_max=19
+   3    3      2083     2094 0.525%     1   301s    920s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2083  EC+0  gap=0.525%  vs_BKS=N/A  vs_master=+0  RT=955s  stop=TIERS_EXHAUSTED  phases=3
+  [  7/30]  wall=31.8min  ETA≈1.7h  stop=TIERS_EXHAUSTED  phases=3  gap=0.5253%
+
+================================================================================
+  ED_n060_025_a50_074  |  master=2014  BKS=2014.0  init_UB=2042  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      2014     2057 2.090%     1   303s    305s  STALL→tier0→1 d_max=10
+   2    2      2014     2043 1.419%     1   300s    608s  STALL→tier1→2 d_max=14
+   3    3      2014     2033 0.935%     1   304s    915s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2014  EC+0  gap=0.935%  vs_BKS=+0  vs_master=+0  RT=931s  stop=TIERS_EXHAUSTED  phases=3
+  [  8/30]  wall=31.9min  ETA≈1.5h  stop=TIERS_EXHAUSTED  phases=3  gap=0.9346%
+
+================================================================================
+  D_n070_032_a75_096  |  master=2105  BKS=N/A  init_UB=2108  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      2098     2106 0.380%     1   317s    323s  STALL→tier0→1 d_max=16
+   2    2      2098     2106 0.380%     1   309s    638s  STALL→tier1→2 d_max=21
+   3    3      2098     2106 0.380%     1   307s    951s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2098  EC+0  gap=0.380%  vs_BKS=N/A  vs_master=-7  RT=977s  stop=TIERS_EXHAUSTED  phases=3
+  [  9/30]  wall=32.7min  ETA≈1.3h  stop=TIERS_EXHAUSTED  phases=3  gap=0.3799%
+
+================================================================================
+  D_n065_030_a50_089  |  master=2337  BKS=N/A  init_UB=2358  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      2337     2387 2.095%     1   303s    309s  STALL→tier0→1 d_max=12
+   2    2      2337     2365 1.184%     1   305s    620s  STALL→tier1→2 d_max=17
+   3    3      2337     2348 0.468%     1   308s    936s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2337  EC+0  gap=0.468%  vs_BKS=N/A  vs_master=+0  RT=956s  stop=TIERS_EXHAUSTED  phases=3
+  [ 10/30]  wall=32.8min  ETA≈1.1h  stop=TIERS_EXHAUSTED  phases=3  gap=0.4685%
+
+================================================================================
+  D_n075_040_a25_118  |  master=1820  BKS=N/A  init_UB=1840  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      1820     1861 2.203%     1   303s    319s  STALL→tier0→1 d_max=9
+   2    2      1820     1835 0.817%     1   304s    644s  STALL→tier1→2 d_max=12
+   3    3      1820     1828 0.438%     1   300s    967s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=1820  EC+0  gap=0.438%  vs_BKS=N/A  vs_master=+0  RT=987s  stop=TIERS_EXHAUSTED  phases=3
+  [ 11/30]  wall=33.0min  ETA≈1.0h  stop=TIERS_EXHAUSTED  phases=3  gap=0.4376%
+
+================================================================================
+  D_n080_045_a25_133  |  master=1910  BKS=N/A  init_UB=1933  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      1910     1956 2.352%     1   301s    322s  STALL→tier0→1 d_max=9
+   2    2      1910     1932 1.139%     1   300s    643s  STALL→tier1→2 d_max=12
+   3    3      1910     1923 0.676%     1   302s    966s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=1910  EC+0  gap=0.676%  vs_BKS=N/A  vs_master=+0  RT=983s  stop=TIERS_EXHAUSTED  phases=3
+  [ 12/30]  wall=33.2min  ETA≈0.8h  stop=TIERS_EXHAUSTED  phases=3  gap=0.6760%
+
+================================================================================
+  ED_n075_040_a25_118  |  master=1588  BKS=N/A  init_UB=1602  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      1588     1615 1.672%     1   300s    314s  STALL→tier0→1 d_max=7
+   2    2      1588     1601 0.812%     2   300s    630s  STALL→tier1→2 d_max=10
+   3    3      1588     1597 0.564%     1   300s    946s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=1588  EC+0  gap=0.564%  vs_BKS=N/A  vs_master=+0  RT=955s  stop=TIERS_EXHAUSTED  phases=3
+  [ 13/30]  wall=47.8min  ETA≈1.0h  stop=TIERS_EXHAUSTED  phases=3  gap=0.5636%
+
+================================================================================
+  ED_n055_019_a50_056  |  master=1897  BKS=1897.0  init_UB=1913  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      1897     1908 0.577%     2   301s    302s  STALL→tier0→1 d_max=8
+   2    2      1897     1907 0.524%     2   300s    603s  STALL→tier1→2 d_max=11
+   3    3      1897     1907 0.524%     2   302s    905s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=1897  EC+0  gap=0.524%  vs_BKS=+0  vs_master=+0  RT=912s  stop=TIERS_EXHAUSTED  phases=3
+  [ 14/30]  wall=47.9min  ETA≈0.9h  stop=TIERS_EXHAUSTED  phases=3  gap=0.5244%
+
+================================================================================
+  ED_n065_030_a25_088  |  master=1478  BKS=N/A  init_UB=1494  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      1478     1509 2.054%     2   300s    307s  STALL→tier0→1 d_max=7
+   2    2      1478     1492 0.938%     2   300s    614s  STALL→tier1→2 d_max=9
+   3    3      1478     1489 0.739%     2   300s    921s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=1478  EC+0  gap=0.739%  vs_BKS=N/A  vs_master=+0  RT=926s  stop=TIERS_EXHAUSTED  phases=3
+  [ 15/30]  wall=48.3min  ETA≈0.8h  stop=TIERS_EXHAUSTED  phases=3  gap=0.7388%
+
+================================================================================
+  B_n140_021_a25_061  |  master=3142  BKS=3142.0  init_UB=3194  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      3142     3226 2.604%     3   301s    327s  STALL→tier0→1 d_max=13
+   2    2      3142     3197 1.720%     3   301s    659s  STALL→tier1→2 d_max=18
+   3    3      3142     3195 1.659%     3   300s    990s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=3142  EC+0  gap=1.659%  vs_BKS=+0  vs_master=+0  RT=991s  stop=TIERS_EXHAUSTED  phases=3
+  [ 16/30]  wall=48.3min  ETA≈0.7h  stop=TIERS_EXHAUSTED  phases=3  gap=1.6588%
+
+================================================================================
+  D_n060_022_a50_065  |  master=1777  BKS=1778.0  init_UB=1793  master_status=GAP
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      1777     1815 2.094%     1   303s    305s  STALL→tier0→1 d_max=10
+   2    2      1777     1792 0.837%     1   301s    609s  STALL→tier1→2 d_max=13
+   3    3      1777     1790 0.726%     1   303s    914s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=1777  EC+0  gap=0.726%  vs_BKS=-1  vs_master=+0  RT=925s  stop=TIERS_EXHAUSTED  phases=3
+  [ 17/30]  wall=48.6min  ETA≈0.6h  stop=TIERS_EXHAUSTED  phases=3  gap=0.7263%
+
+================================================================================
+  EB_n150_027_a25_079  |  master=2770  BKS=N/A  init_UB=2799  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      2771     2817 1.633%     3   301s    328s  STALL→tier0→1 d_max=13
+   2    2      2771     2802 1.106%     3   301s    656s  STALL→tier1→2 d_max=17
+   3    3      2771     2792 0.752%     3   301s    985s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2771  EC+0  gap=0.752%  vs_BKS=N/A  vs_master=+1  RT=986s  stop=TIERS_EXHAUSTED  phases=3
+  [ 18/30]  wall=49.5min  ETA≈0.5h  stop=TIERS_EXHAUSTED  phases=3  gap=0.7521%
+
+================================================================================
+  ED_n060_022_a50_065  |  master=1737  BKS=1728.0  init_UB=1768  master_status=BEAT
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      1737     1770 1.864%     2   302s    304s  STALL→tier0→1 d_max=9
+   2    2      1737     1768 1.753%     2   300s    606s  STALL→tier1→2 d_max=12
+   3    3      1737     1766 1.642%     2   300s    908s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=1737  EC+0  gap=1.642%  vs_BKS=+9  vs_master=+0  RT=915s  stop=TIERS_EXHAUSTED  phases=3
+  [ 19/30]  wall=63.2min  ETA≈0.6h  stop=TIERS_EXHAUSTED  phases=3  gap=1.6421%
+
+================================================================================
+  ED_n050_014_a50_041  |  master=1787  BKS=1787.0  init_UB=1807  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      1787     1799 0.667%     2   300s    301s  STALL→tier0→1 d_max=8
+   2    2      1787     1797 0.556%     2   301s    603s  STALL→tier1→2 d_max=10
+   3    3      1787     1797 0.556%     2   301s    904s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=1787  EC+0  gap=0.556%  vs_BKS=+0  vs_master=+0  RT=908s  stop=TIERS_EXHAUSTED  phases=3
+  [ 20/30]  wall=63.5min  ETA≈0.5h  stop=TIERS_EXHAUSTED  phases=3  gap=0.5565%
+
+================================================================================
+  EC_n080_033_a25_097  |  master=1806  BKS=N/A  init_UB=1813  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      1806     1822 0.878%     4   300s    305s  STALL→tier0→1 d_max=8
+   2    2      1806     1813 0.386%     4   301s    610s  STALL→tier1→2 d_max=11
+   3    3      1806     1812 0.331%     4   300s    914s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=1806  EC+0  gap=0.331%  vs_BKS=N/A  vs_master=+0  RT=915s  stop=TIERS_EXHAUSTED  phases=3
+  [ 21/30]  wall=63.5min  ETA≈0.5h  stop=TIERS_EXHAUSTED  phases=3  gap=0.3311%
+
+================================================================================
+  ED_n065_027_a75_081  |  master=1972  BKS=1972.0  init_UB=1986  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      1972     1983 0.555%     1   300s    303s  STALL→tier0→1 d_max=13
+   2    2      1972     1982 0.505%     1   300s    606s  STALL→tier1→2 d_max=18
+   3    3      1972     1982 0.505%     1   304s    914s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=1972  EC+0  gap=0.505%  vs_BKS=+0  vs_master=+0  RT=937s  stop=TIERS_EXHAUSTED  phases=3
+  [ 22/30]  wall=64.2min  ETA≈0.4h  stop=TIERS_EXHAUSTED  phases=3  gap=0.5045%
+
+================================================================================
+  EB_n150_026_a25_076  |  master=2550  BKS=2550.0  init_UB=2569  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      2550     2590 1.544%     4   300s    329s  STALL→tier0→1 d_max=12
+   2    2      2550     2570 0.778%     4   301s    663s  STALL→tier1→2 d_max=16
+   3    3      2550     2560 0.391%     3   300s    995s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2550  EC+0  gap=0.391%  vs_BKS=+0  vs_master=+0  RT=996s  stop=TIERS_EXHAUSTED  phases=3
+  [ 23/30]  wall=64.4min  ETA≈0.3h  stop=TIERS_EXHAUSTED  phases=3  gap=0.3906%
+
+================================================================================
+  C_n070_022_a50_065  |  master=2052  BKS=N/A  init_UB=2077  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      2052     2061 0.437%     2   302s    304s  STALL→tier0→1 d_max=13
+   2    2      2052     2060 0.388%     2   302s    608s  STALL→tier1→2 d_max=18
+   3    3      2052     2060 0.388%     2   301s    912s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2052  EC+0  gap=0.388%  vs_BKS=N/A  vs_master=+0  RT=916s  stop=TIERS_EXHAUSTED  phases=3
+  [ 24/30]  wall=64.7min  ETA≈0.3h  stop=TIERS_EXHAUSTED  phases=3  gap=0.3883%
+
+================================================================================
+  EC_n070_023_a50_068  |  master=2206  BKS=2206.0  init_UB=2218  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      2206     2235 1.298%     2   302s    304s  STALL→tier0→1 d_max=13
+   2    2      2206     2218 0.541%     2   302s    608s  STALL→tier1→2 d_max=18
+   3    3      2206     2217 0.496%     2   302s    912s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2206  EC+0  gap=0.496%  vs_BKS=+0  vs_master=+0  RT=917s  stop=TIERS_EXHAUSTED  phases=3
+  [ 25/30]  wall=78.5min  ETA≈0.3h  stop=TIERS_EXHAUSTED  phases=3  gap=0.4962%
+
+================================================================================
+  D_n055_019_a25_055  |  master=1147  BKS=1147.0  init_UB=1161  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      1147     1179 2.714%     5   300s    301s  STALL→tier0→1 d_max=5
+   2    2      1147     1164 1.460%     5   300s    603s  STALL→tier1→2 d_max=7
+   3    3      1147     1157 0.864%     5   300s    904s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=1147  EC+0  gap=0.864%  vs_BKS=+0  vs_master=+0  RT=904s  stop=TIERS_EXHAUSTED  phases=3
+  [ 26/30]  wall=78.5min  ETA≈0.2h  stop=TIERS_EXHAUSTED  phases=3  gap=0.8643%
+
+================================================================================
+  B_n130_017_a25_049  |  master=3061  BKS=3062.0  init_UB=3073  master_status=GAP
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      3062     3089 0.874%     2   301s    326s  STALL→tier0→1 d_max=16
+   2    2      3062     3074 0.390%     2   300s    639s  STALL→tier1→2 d_max=21
+   3    3      3062     3073 0.358%     2   300s    947s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=3062  EC+0  gap=0.358%  vs_BKS=+0  vs_master=+1  RT=948s  stop=TIERS_EXHAUSTED  phases=3
+  [ 27/30]  wall=79.3min  ETA≈0.1h  stop=TIERS_EXHAUSTED  phases=3  gap=0.3580%
+
+================================================================================
+  EC_n075_030_a50_089  |  master=2456  BKS=N/A  init_UB=2466  master_status=NA
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      2456     2482 1.048%     2   300s    302s  STALL→tier0→1 d_max=13
+   2    2      2456     2468 0.486%     2   302s    607s  STALL→tier1→2 d_max=17
+   3    3      2456     2465 0.365%     2   301s    910s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2456  EC+0  gap=0.365%  vs_BKS=N/A  vs_master=+0  RT=913s  stop=TIERS_EXHAUSTED  phases=3
+  [ 28/30]  wall=79.4min  ETA≈0.1h  stop=TIERS_EXHAUSTED  phases=3  gap=0.3651%
+
+================================================================================
+  B_n130_019_a25_055  |  master=3359  BKS=3359.0  init_UB=3410  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      3359     3441 2.383%     3   300s    305s  STALL→tier0→1 d_max=14
+   2    2      3359     3413 1.582%     3   300s    609s  STALL→tier1→2 d_max=18
+   3    3      3359     3410 1.496%     3   300s    912s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=3359  EC+0  gap=1.496%  vs_BKS=+0  vs_master=+0  RT=912s  stop=TIERS_EXHAUSTED  phases=3
+  [ 29/30]  wall=79.6min  ETA≈0.0h  stop=TIERS_EXHAUSTED  phases=3  gap=1.4956%
+
+================================================================================
+  B_n130_016_a25_046  |  master=2744  BKS=2744.0  init_UB=2796  master_status=TIE
+  Ph Tier      Obj       UB   Gap% Seeds   PhRT   CumRT  Event
+  ------------------------------------------------------------------------------
+   1    1      2744     2820 2.695%     4   300s    323s  STALL→tier0→1 d_max=13
+   2    2      2744     2800 2.000%     4   300s    652s  STALL→tier1→2 d_max=17
+   3    3      2744     2799 1.965%     4   300s    970s  TIERS_EXHAUSTED
+  ──────────────────────────────────────────────────────────────────────────────
+  FINAL: obj=2744  EC+0  gap=1.965%  vs_BKS=+0  vs_master=+0  RT=971s  stop=TIERS_EXHAUSTED  phases=3
+  [ 30/30]  wall=80.9min  ETA≈0.0h  stop=TIERS_EXHAUSTED  phases=3  gap=1.9650%
+
+================================================================================
+  FULL RUN SUMMARY — 30 instances  |  wall RT: 1.35h
+  Improved vs master    :    5 / 30
+  Regressed vs master   :    2 / 30
+  Still below BKS       :    1 / 15 (with BKS)
+  Stop reasons: {'TIERS_EXHAUSTED': 30}
+  Cert gap — mean=0.677%  median=0.516%  max=1.965%
+  Within 0.3%: 0/30
+  Within 1.0%: 26/30
+  Within 2.0%: 30/30
+  Summary → results\adaptive_full_20260827_0604_regime30.csv
+  Phases  → results\adaptive_full_20260827_0604_regime30_phases.csv
+================================================================================

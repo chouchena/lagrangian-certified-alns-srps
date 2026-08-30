@@ -1,0 +1,47 @@
+adaptivity A/B  |  70 instances x 6 seeds = 420 pairs  |  200 iters  |  6 workers
+commit 676215323  DIRTY
+
+  [ 10/420]   2.7 min elapsed, ETA 109.9 min
+  [ 20/420]   5.8 min elapsed, ETA 115.7 min
+  [ 30/420]   7.6 min elapsed, ETA  98.6 min
+  [ 40/420]  11.1 min elapsed, ETA 105.1 min
+  [ 50/420]  17.1 min elapsed, ETA 126.6 min
+  [ 60/420]  23.2 min elapsed, ETA 139.2 min
+  [ 70/420]  30.0 min elapsed, ETA 150.1 min
+  [ 80/420]  35.4 min elapsed, ETA 150.5 min
+  [ 90/420]  38.2 min elapsed, ETA 140.1 min
+  [100/420]  63.0 min elapsed, ETA 201.6 min
+  [110/420]  75.1 min elapsed, ETA 211.5 min
+  [120/420]  98.6 min elapsed, ETA 246.6 min
+  [130/420] 127.6 min elapsed, ETA 284.5 min
+  [140/420] 145.2 min elapsed, ETA 290.3 min
+  [150/420] 170.5 min elapsed, ETA 306.8 min
+  [160/420] 189.7 min elapsed, ETA 308.3 min
+  [170/420] 231.4 min elapsed, ETA 340.3 min
+  [180/420] 251.6 min elapsed, ETA 335.5 min
+  [190/420] 294.2 min elapsed, ETA 356.2 min
+  [200/420] 317.9 min elapsed, ETA 349.7 min
+  [210/420] 317.9 min elapsed, ETA 317.9 min
+  [220/420] 317.9 min elapsed, ETA 289.0 min
+  [230/420] 320.9 min elapsed, ETA 265.1 min
+  [240/420] 322.6 min elapsed, ETA 241.9 min
+  [250/420] 324.3 min elapsed, ETA 220.5 min
+  [260/420] 329.9 min elapsed, ETA 203.0 min
+  [270/420] 336.0 min elapsed, ETA 186.7 min
+  [280/420] 344.9 min elapsed, ETA 172.4 min
+  [290/420] 352.8 min elapsed, ETA 158.2 min
+  [300/420] 359.7 min elapsed, ETA 143.9 min
+  [310/420] 376.6 min elapsed, ETA 133.6 min
+  [320/420] 394.6 min elapsed, ETA 123.3 min
+  [330/420] 412.4 min elapsed, ETA 112.5 min
+  [340/420] 437.6 min elapsed, ETA 103.0 min
+  [350/420] 438.4 min elapsed, ETA  87.7 min
+  [360/420] 441.9 min elapsed, ETA  73.6 min
+  [370/420] 462.9 min elapsed, ETA  62.6 min
+  [380/420] 466.4 min elapsed, ETA  49.1 min
+  [390/420] 483.5 min elapsed, ETA  37.2 min
+  [400/420] 503.1 min elapsed, ETA  25.2 min
+  [410/420] 507.4 min elapsed, ETA  12.4 min
+  [420/420] 527.5 min elapsed, ETA   0.0 min
+
+written: results/analysis/adaptivity_ab_20260827_1611.csv   pairs 420   errors 0   isolation leaks 0

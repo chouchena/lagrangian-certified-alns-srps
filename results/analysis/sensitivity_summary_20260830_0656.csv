@@ -1,0 +1,14 @@
+trial,file,n,mean,median,max,obj_delta_mean,obj_reldelta_mean_pct,obj_reldelta_max_abs_pct,obj_n_worse_than_ref,delta_baseline,obj_reldelta_vs_baseline_pct
+baseline,sensitivity_baseline_20260620_1959.csv,30,0.1525,0.0677,1.6896,-0.3,-0.01127,0.08745,7,0.0,0.0
+destroy_fracs_tight,sensitivity_destroy_fracs_tight_20260620_2317.csv,30,0.1485,0.0677,1.6281,-0.1333,-0.00593,0.05889,6,-0.004,0.00534
+destroy_fracs_wide,sensitivity_destroy_fracs_wide_20260621_0007.csv,30,0.1487,0.0643,1.6588,-0.2,-0.00856,0.11779,4,-0.0038,0.00271
+gap_threshold_0.001,sensitivity_gap_threshold_0.001_20260620_2052.csv,30,0.1261,0.0489,1.6281,-0.1333,-0.00634,0.07837,5,-0.0264,0.00493
+gap_threshold_0.001,sensitivity_gap_threshold_0.001_20260620_2157.csv,30,0.1312,0.052,1.7204,-0.1667,-0.00784,0.07837,5,-0.0213,0.00343
+gap_threshold_0.005,sensitivity_gap_threshold_0.005_20260620_2214.csv,30,0.1543,0.0588,1.6896,-0.3333,-0.01165,0.08745,7,0.0018,-0.00038
+gap_threshold_0.010,sensitivity_gap_threshold_0.010_20260620_2250.csv,30,0.1505,0.0677,1.6588,-0.3333,-0.01188,0.11765,6,-0.002,-0.00061
+lag_max_iter_100,sensitivity_lag_max_iter_100_20260621_0158.csv,30,0.157,0.0677,1.7818,-0.3,-0.01127,0.08745,7,0.0045,0.0
+lag_max_iter_400,sensitivity_lag_max_iter_400_20260621_0242.csv,30,0.151,0.0677,1.6896,-0.3,-0.01127,0.08745,7,-0.0015,0.0
+lag_max_time_120,sensitivity_lag_max_time_120_20260621_0407.csv,30,0.1485,0.0677,1.6588,-0.3,-0.01127,0.08745,7,-0.004,0.0
+lag_max_time_30,sensitivity_lag_max_time_30_20260621_0323.csv,30,0.1566,0.0677,1.8125,-0.3,-0.01127,0.08745,7,0.0041,0.0
+phase_rt_150,sensitivity_phase_rt_150_20260621_0050.csv,30,0.1485,0.0677,1.6588,-0.3,-0.01127,0.08745,7,-0.004,0.0
+phase_rt_450,sensitivity_phase_rt_450_20260621_0114.csv,30,0.139,0.0554,1.6588,-0.0333,-0.00031,0.08973,2,-0.0135,0.01096

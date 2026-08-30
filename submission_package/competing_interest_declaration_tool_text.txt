@@ -1,0 +1,39 @@
+Text to enter in Elsevier's Declarations tool (declarations.elsevier.com)
+at the actual submission step, producing the signed .docx required as a
+separate uploaded file. This is reference text only — it does not replace
+using the tool itself, and the tool's own form fields/wording take precedence
+over this draft.
+
+Manuscript: "An Adaptive Large Neighborhood Search with Lagrangian
+Certification for the Selective Routing Problem with Synchronization"
+Authors: David Chouchena, Yuval Ben-Abu
+
+---
+
+Selection in the tool: "I have nothing to declare."
+
+If the tool requires or allows a free-text statement in addition to that
+selection, use the same wording already in the manuscript
+(paper/main.tex, section "Declaration of competing interest"):
+
+    The authors declare that they have no known competing financial
+    interests or personal relationships that could have appeared to
+    influence the work reported in this paper.
+
+---
+
+Funding to report in the same tool, if requested separately (matches the
+manuscript's "Funding" section):
+
+    This work was supported by the Sapir Applied Science Institute,
+    Faculty of Technology, Sapir Academic College, Israel. The funder
+    had no role in the study design; the collection, analysis, or
+    interpretation of data; the writing of this report; or the decision
+    to submit the article for publication.
+
+---
+
+After completing the tool, save the resulting signed .docx and upload it
+at the "attach/upload files" step of the COR submission portal
+(https://submit.elsevier.com/CAOR). Author signatures are not required
+per Elsevier's current guidance.

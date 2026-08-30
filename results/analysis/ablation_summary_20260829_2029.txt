@@ -1,0 +1,99 @@
+====================================================================================================
+1) NOISE FLOOR (Tier 2, hard-tail, n=70, A0 vs A0' disjoint seeds)
+====================================================================================================
+mean |delta| = 0.0360 pp   max |delta| = 0.9424 pp   sd(signed delta) = 0.1339 pp
+Minimum detectable effect at n=20/stratum (two-sided alpha=0.05, power=0.80): 0.0839 pp
+(Assumes the ablation's arm-vs-A0 run-to-run variance is comparable to the measured Tier-2 same-instance different-run variance; not re-derived from the ablation's own data because the ablation has no same-config replicate arm.)
+
+====================================================================================================
+2) POOLED MEAN DELTA vs A0, cert_gap_pct (pp) -- the primary ablation table
+====================================================================================================
+arm_id         B1      B2     B3      B4      B5      B6      B7   B8       S
+stratum                                                                      
+closing   -0.0055  0.0129  0.008  2.4970  0.0059  0.0167  0.0028  0.0  2.5313
+hard_tail  0.0227  0.0995 -0.011  2.4949  0.0010  0.0191  0.0000  0.0  2.5106
+
+====================================================================================================
+3) INSTANCES WITH |delta| > noise-floor mean (0.0360 pp), per arm
+====================================================================================================
+B1  : 11/40 instances above floor (strata: {'closing': np.int64(6), 'hard_tail': np.int64(5)})
+B2  :  7/40 instances above floor (strata: {'closing': np.int64(4), 'hard_tail': np.int64(3)})
+B3  :  8/40 instances above floor (strata: {'closing': np.int64(4), 'hard_tail': np.int64(4)})
+B4  : 31/40 instances above floor (strata: {'closing': np.int64(16), 'hard_tail': np.int64(15)})
+B5  :  2/40 instances above floor (strata: {'closing': np.int64(2)})
+B6  :  5/40 instances above floor (strata: {'hard_tail': np.int64(3), 'closing': np.int64(2)})
+B7  :  1/40 instances above floor (strata: {'closing': np.int64(1)})
+B8  :  0/40 instances above floor (strata: {})
+S   : 31/40 instances above floor (strata: {'hard_tail': np.int64(16), 'closing': np.int64(15)})
+
+====================================================================================================
+4) BY STRATUM x FAMILY -- EXPLORATORY (cells n=1..8; hypothesis-generating only)
+====================================================================================================
+arm_id                B1      B2      B3      B4      B5      B6     B7   B8       S
+stratum   family                                                                    
+closing   B      -0.0657 -0.0066 -0.0197  3.5111  0.0066  0.0000  0.000  0.0  3.5863
+          C       0.0000  0.0000  0.0000  0.0595  0.0000  0.0000  0.000  0.0  0.0595
+          D       0.0000  0.0000  0.0000  2.2842  0.0000  0.0000  0.000  0.0  2.3119
+          EB      0.0187  0.0000  0.0000  9.2311  0.0000  0.0000  0.000  0.0  9.2311
+          EC      0.0000  0.0000  0.0000  0.7395  0.0000  0.0000  0.000  0.0  0.7395
+          ED      0.0062  0.0346  0.0274  1.2836  0.0124  0.0417  0.007  0.0  1.3274
+hard_tail B       0.0000  0.0109  0.0000  4.6389  0.0000  0.0000  0.000  0.0  4.6389
+          D       0.0656  0.2231 -0.0325  0.3885  0.0000  0.0487  0.000  0.0  0.4335
+          EB      0.0011  0.0056 -0.0062  4.0627  0.0051  0.0113  0.000  0.0  4.0739
+          EC      0.0000  0.0000  0.0000  3.8602  0.0000  0.0226  0.000  0.0  3.8602
+          ED      0.0113  0.1191  0.0000  1.9359  0.0000  0.0000  0.000  0.0  1.9359
+
+cell sizes (n instances per stratum x family):
+stratum    family
+closing    B         3
+           C         1
+           D         4
+           EB        2
+           EC        2
+           ED        8
+hard_tail  B         3
+           D         6
+           EB        4
+           EC        2
+           ED        5
+
+BY STRATUM x SIZE BUCKET (median split within stratum) -- exploratory
+arm_id                  B1      B2      B3      B4      B5      B6      B7   B8       S
+stratum   n_bucket                                                                     
+closing   small    -0.0049 -0.0049 -0.0158  1.2205  0.0000  0.0056  0.0056  0.0  1.2260
+          large    -0.0061  0.0307  0.0318  3.7735  0.0119  0.0278  0.0000  0.0  3.8367
+hard_tail small    -0.0019  0.0473 -0.0177  0.9103  0.0000  0.0306  0.0000  0.0  0.9348
+          large     0.0528  0.1632 -0.0028  4.4316  0.0023  0.0050  0.0000  0.0  4.4366
+
+====================================================================================================
+5) B5/B7 CROSS-CHECK vs stronger census/identity measurements already in the paper
+====================================================================================================
+B5 (no ejection chain) sampled arm-level mean delta (this ablation, n=20/stratum):
+stratum
+closing      0.0059
+hard_tail    0.0010
+Reference (identity over all 660, from the paper's main text): hard_tail = 0.0000 pp (never fires there); closing (multi-phase) = 0.0011 pp.
+
+B7 (no in-loop re-bound): objective identical to A0, by stratum (primal channel):
+           sum  count
+stratum              
+closing     19     20
+hard_tail   20     20
+Reference (census over all 70 hard-tail instances, build_hardtail_refresh.py): objective identical on 70/70; mean CERTIFICATE (dual) gap reduction from the re-bound = 0.264 pp -- invisible to any fixed-common-bound ablation by construction, consistent with the sampled primal tie found here.
+
+--- re-bound census file (first 15 lines) ---
+Hard-tail in-loop UB-refresh evidence — 20260624_1521
+H0  (full)       : results\adaptive_full_20260624_0844_hardtail_H0.csv
+H1a (no refresh) : results\adaptive_full_20260624_1214_hardtail_H1a.csv
+Instances compared: 70
+
+Mean certified gap  — full 0.691%   no-refresh 0.955%
+Mean   Δgap (reduction by refresh): +0.2643 pp
+Median Δgap                        : +0.1961 pp
+Max    Δgap                        : +1.4565 pp
+Min    Δgap                        : -0.1777 pp
+
+Improved by refresh  : 53 / 70
+Unchanged            : 11 / 70
+Worsened             : 6 / 70
+

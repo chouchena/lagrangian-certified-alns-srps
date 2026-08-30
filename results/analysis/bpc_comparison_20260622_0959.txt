@@ -1,0 +1,19 @@
+BPC comparison — run 20260622_0959   source results/adaptive_master.csv
+Study set: 660 instances (B/C/D/EB/EC/ED)
+
+== (A) By BPC outcome class ==
+                 instances  bpc_mean_gap%  our_mean_cert%  our_exact  BEAT    TIE  GAP  no_BKS  mean_rt_s
+bpc_class_label                                                                                          
+optimal              245.0           0.00           0.067      150.0   0.0  241.0  4.0     0.0      295.0
+incumbent            115.0           0.19           0.198       34.0  15.0   93.0  4.0     3.0      519.0
+not_reported         300.0            NaN           0.163      100.0   9.0   91.0  4.0   196.0      546.0
+
+== (B) By family ==
+        instances  bpc_mean_gap%  our_mean_cert%  our_exact  BEAT   TIE  GAP  no_BKS  mean_rt_s
+family                                                                                         
+B            90.0          0.062           0.227       36.0   5.0  65.0  5.0    15.0      416.0
+C           105.0          0.008           0.050       63.0   0.0  74.0  0.0    31.0      287.0
+D           135.0          0.019           0.127       66.0   1.0  73.0  1.0    60.0      452.0
+EB           90.0          0.050           0.141       22.0  11.0  62.0  3.0    14.0      523.0
+EC          105.0          0.022           0.087       51.0   1.0  77.0  2.0    25.0      399.0
+ED          135.0          0.204           0.173       46.0   6.0  74.0  1.0    54.0      578.0

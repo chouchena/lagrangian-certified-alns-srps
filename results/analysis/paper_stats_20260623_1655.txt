@@ -1,0 +1,40 @@
+Paper headline statistics — run 20260623_1655
+Source: results/adaptive_master.csv  column=final_cert_gap_pct  (adaptive loop)
+Study set: 660 instances (B/C/D/EB/EC/ED, K=2,3,4)
+
+== Certified gap (%) ==
+  mean=0.1333  median=0.0459  max=1.965 (B_n130_016_a25_046)
+  proven optimal (gap=0): 283 (42.9%)
+
+== Certificate tiers ==
+  exact     283   42.9%
+  <0.5%     338   51.2%
+  0.5-1%     29    4.4%
+  1-2%       10    1.5%
+  >2%         0    0.0%
+  within 0.5% = 94.1%   within 2% = 100.0%
+
+== Comparison with published BKS ==
+  BEAT=24  TIE=425  GAP=12  first-ever(no BKS, BPC-unreported)=196  ambiguous(partial-group)=3
+  BEAT+TIE = 449/461 (97.4% of with-BKS)
+  BEAT magnitude %  min/median/max = [0.173, 0.504, 11.83]
+  GAP shortfall %   min/median/max = [0.018, 0.024, 0.068]
+  first-ever by family: {'B': 15, 'C': 30, 'D': 60, 'EB': 13, 'EC': 24, 'ED': 54}
+
+== Adaptive-loop stop reasons ==
+  GAP<0.3%           415
+  UB                 175
+  TIERS_EXHAUSTED    70
+
+== ALNS runtime (s) ==
+  median=304.7  mean=448.0  P75=605.9  max=2449.5
+
+== Per-family certified gap (%) ==
+        count    mean  median     max
+family                               
+B          90  0.2269  0.0444  1.9650
+C         105  0.0499  0.0000  0.3883
+D         135  0.1266  0.0365  0.8643
+EB         90  0.1407  0.1238  0.7521
+EC        105  0.0874  0.0310  0.4962
+ED        135  0.1733  0.0881  1.6421

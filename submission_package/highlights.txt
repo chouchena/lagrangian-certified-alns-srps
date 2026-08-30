@@ -1,0 +1,7 @@
+Highlights
+
+- First Lagrangian-certified ALNS heuristic for SRPS (selective routing with sync).
+- Synchronization-aware insertion enables destroy-repair search under coupling.
+- In-loop Lagrangian re-bounding tightens certificates on hard instances.
+- Post-search refinement raises proven-optimal share from 42.4% to 67.6%.
+- Certifies all 660 SRPS instances; 196 have no prior published solution.

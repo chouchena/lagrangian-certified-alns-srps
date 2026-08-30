@@ -1,0 +1,1352 @@
+[2026-08-28 15:56:46] Scheduler started. Waiting for Tier 2 (70/70), polling every 60s, max wait 30h.
+[2026-08-28 15:56:46] poll: tier2 ckpt=3/70  elapsed=0.00h
+[2026-08-28 15:57:46] poll: tier2 ckpt=3/70  elapsed=0.02h
+[2026-08-28 15:58:46] poll: tier2 ckpt=3/70  elapsed=0.03h
+[2026-08-28 15:59:46] poll: tier2 ckpt=3/70  elapsed=0.05h
+[2026-08-28 16:00:46] poll: tier2 ckpt=3/70  elapsed=0.07h
+[2026-08-28 16:01:46] poll: tier2 ckpt=3/70  elapsed=0.08h
+[2026-08-28 16:02:46] poll: tier2 ckpt=3/70  elapsed=0.10h
+[2026-08-28 16:03:46] poll: tier2 ckpt=3/70  elapsed=0.12h
+[2026-08-28 16:04:46] poll: tier2 ckpt=3/70  elapsed=0.13h
+[2026-08-28 16:05:46] poll: tier2 ckpt=3/70  elapsed=0.15h
+[2026-08-28 16:06:46] poll: tier2 ckpt=3/70  elapsed=0.17h
+[2026-08-28 16:07:46] poll: tier2 ckpt=3/70  elapsed=0.18h
+[2026-08-28 16:08:46] poll: tier2 ckpt=3/70  elapsed=0.20h
+[2026-08-28 16:09:47] poll: tier2 ckpt=3/70  elapsed=0.22h
+[2026-08-28 16:10:47] poll: tier2 ckpt=3/70  elapsed=0.23h
+[2026-08-28 16:11:47] poll: tier2 ckpt=3/70  elapsed=0.25h
+[2026-08-28 16:12:47] poll: tier2 ckpt=3/70  elapsed=0.27h
+[2026-08-28 16:13:47] poll: tier2 ckpt=3/70  elapsed=0.28h
+[2026-08-28 16:14:47] poll: tier2 ckpt=3/70  elapsed=0.30h
+[2026-08-28 16:15:47] poll: tier2 ckpt=3/70  elapsed=0.32h
+[2026-08-28 16:16:47] poll: tier2 ckpt=3/70  elapsed=0.33h
+[2026-08-28 16:17:47] poll: tier2 ckpt=3/70  elapsed=0.35h
+[2026-08-28 16:18:47] poll: tier2 ckpt=3/70  elapsed=0.37h
+[2026-08-28 16:19:47] poll: tier2 ckpt=3/70  elapsed=0.38h
+[2026-08-28 16:20:47] poll: tier2 ckpt=3/70  elapsed=0.40h
+[2026-08-28 16:21:47] poll: tier2 ckpt=3/70  elapsed=0.42h
+[2026-08-28 16:22:47] poll: tier2 ckpt=3/70  elapsed=0.43h
+[2026-08-28 16:23:47] poll: tier2 ckpt=3/70  elapsed=0.45h
+[2026-08-28 16:24:47] poll: tier2 ckpt=3/70  elapsed=0.47h
+[2026-08-28 16:25:47] poll: tier2 ckpt=3/70  elapsed=0.48h
+[2026-08-28 16:26:47] poll: tier2 ckpt=3/70  elapsed=0.50h
+[2026-08-28 16:27:47] poll: tier2 ckpt=3/70  elapsed=0.52h
+[2026-08-28 16:28:47] poll: tier2 ckpt=3/70  elapsed=0.53h
+[2026-08-28 16:29:47] poll: tier2 ckpt=3/70  elapsed=0.55h
+[2026-08-28 16:30:47] poll: tier2 ckpt=3/70  elapsed=0.57h
+[2026-08-28 16:31:47] poll: tier2 ckpt=3/70  elapsed=0.58h
+[2026-08-28 16:32:47] poll: tier2 ckpt=3/70  elapsed=0.60h
+[2026-08-28 16:33:47] poll: tier2 ckpt=3/70  elapsed=0.62h
+[2026-08-28 16:34:47] poll: tier2 ckpt=3/70  elapsed=0.63h
+[2026-08-28 16:35:47] poll: tier2 ckpt=3/70  elapsed=0.65h
+[2026-08-28 16:36:47] poll: tier2 ckpt=3/70  elapsed=0.67h
+[2026-08-28 16:37:47] poll: tier2 ckpt=3/70  elapsed=0.68h
+[2026-08-28 16:38:47] poll: tier2 ckpt=3/70  elapsed=0.70h
+[2026-08-28 16:39:47] poll: tier2 ckpt=3/70  elapsed=0.72h
+[2026-08-28 16:40:47] poll: tier2 ckpt=3/70  elapsed=0.73h
+[2026-08-28 16:41:47] poll: tier2 ckpt=3/70  elapsed=0.75h
+[2026-08-28 16:42:47] poll: tier2 ckpt=3/70  elapsed=0.77h
+[2026-08-28 16:43:47] poll: tier2 ckpt=3/70  elapsed=0.78h
+[2026-08-28 16:44:47] poll: tier2 ckpt=3/70  elapsed=0.80h
+[2026-08-28 16:45:47] poll: tier2 ckpt=3/70  elapsed=0.82h
+[2026-08-28 16:46:47] poll: tier2 ckpt=3/70  elapsed=0.83h
+[2026-08-28 16:47:47] poll: tier2 ckpt=3/70  elapsed=0.85h
+[2026-08-28 16:48:47] poll: tier2 ckpt=3/70  elapsed=0.87h
+[2026-08-28 16:49:47] poll: tier2 ckpt=3/70  elapsed=0.88h
+[2026-08-28 16:50:47] poll: tier2 ckpt=3/70  elapsed=0.90h
+[2026-08-28 16:51:47] poll: tier2 ckpt=3/70  elapsed=0.92h
+[2026-08-28 16:52:47] poll: tier2 ckpt=3/70  elapsed=0.93h
+[2026-08-28 16:53:47] poll: tier2 ckpt=3/70  elapsed=0.95h
+[2026-08-28 16:54:47] poll: tier2 ckpt=3/70  elapsed=0.97h
+[2026-08-28 16:55:47] poll: tier2 ckpt=3/70  elapsed=0.98h
+[2026-08-28 16:56:47] poll: tier2 ckpt=3/70  elapsed=1.00h
+[2026-08-28 16:57:41] Scheduler started. Waiting for Tier 2 (70/70), polling every 60s, max wait 30h.
+[2026-08-28 16:57:41] poll: tier2 ckpt=3/70  elapsed=0.00h
+[2026-08-28 16:58:41] poll: tier2 ckpt=3/70  elapsed=0.02h
+[2026-08-28 16:59:41] poll: tier2 ckpt=3/70  elapsed=0.03h
+[2026-08-28 17:00:41] poll: tier2 ckpt=3/70  elapsed=0.05h
+[2026-08-28 17:01:41] poll: tier2 ckpt=3/70  elapsed=0.07h
+[2026-08-28 17:02:41] poll: tier2 ckpt=3/70  elapsed=0.08h
+[2026-08-28 17:03:41] poll: tier2 ckpt=3/70  elapsed=0.10h
+[2026-08-28 17:04:41] poll: tier2 ckpt=3/70  elapsed=0.12h
+[2026-08-28 17:05:41] poll: tier2 ckpt=3/70  elapsed=0.13h
+[2026-08-28 17:06:41] poll: tier2 ckpt=3/70  elapsed=0.15h
+[2026-08-28 17:07:41] poll: tier2 ckpt=3/70  elapsed=0.17h
+[2026-08-28 17:08:41] poll: tier2 ckpt=3/70  elapsed=0.18h
+[2026-08-28 17:09:41] poll: tier2 ckpt=3/70  elapsed=0.20h
+[2026-08-28 17:10:42] poll: tier2 ckpt=3/70  elapsed=0.22h
+[2026-08-28 17:11:42] poll: tier2 ckpt=3/70  elapsed=0.23h
+[2026-08-28 17:12:42] poll: tier2 ckpt=3/70  elapsed=0.25h
+[2026-08-28 17:13:42] poll: tier2 ckpt=3/70  elapsed=0.27h
+[2026-08-28 17:14:42] poll: tier2 ckpt=3/70  elapsed=0.28h
+[2026-08-28 17:15:42] poll: tier2 ckpt=3/70  elapsed=0.30h
+[2026-08-28 17:16:42] poll: tier2 ckpt=3/70  elapsed=0.32h
+[2026-08-28 17:17:42] poll: tier2 ckpt=3/70  elapsed=0.33h
+[2026-08-28 17:18:42] poll: tier2 ckpt=3/70  elapsed=0.35h
+[2026-08-28 17:19:42] poll: tier2 ckpt=3/70  elapsed=0.37h
+[2026-08-28 17:20:42] poll: tier2 ckpt=3/70  elapsed=0.38h
+[2026-08-28 17:21:42] poll: tier2 ckpt=3/70  elapsed=0.40h
+[2026-08-28 17:22:42] poll: tier2 ckpt=3/70  elapsed=0.42h
+[2026-08-28 17:23:42] poll: tier2 ckpt=3/70  elapsed=0.43h
+[2026-08-28 17:24:42] poll: tier2 ckpt=3/70  elapsed=0.45h
+[2026-08-28 17:25:42] poll: tier2 ckpt=3/70  elapsed=0.47h
+[2026-08-28 17:26:42] poll: tier2 ckpt=3/70  elapsed=0.48h
+[2026-08-28 17:27:42] poll: tier2 ckpt=3/70  elapsed=0.50h
+[2026-08-28 17:28:42] poll: tier2 ckpt=3/70  elapsed=0.52h
+[2026-08-28 17:29:42] poll: tier2 ckpt=3/70  elapsed=0.53h
+[2026-08-28 17:30:42] poll: tier2 ckpt=3/70  elapsed=0.55h
+[2026-08-28 17:31:42] poll: tier2 ckpt=3/70  elapsed=0.57h
+[2026-08-28 17:32:42] poll: tier2 ckpt=3/70  elapsed=0.58h
+[2026-08-28 17:33:42] poll: tier2 ckpt=3/70  elapsed=0.60h
+[2026-08-28 17:34:42] poll: tier2 ckpt=3/70  elapsed=0.62h
+[2026-08-28 17:35:42] poll: tier2 ckpt=3/70  elapsed=0.63h
+[2026-08-28 17:36:42] poll: tier2 ckpt=3/70  elapsed=0.65h
+[2026-08-28 17:37:42] poll: tier2 ckpt=3/70  elapsed=0.67h
+[2026-08-28 17:38:42] poll: tier2 ckpt=3/70  elapsed=0.68h
+[2026-08-28 17:39:42] poll: tier2 ckpt=3/70  elapsed=0.70h
+[2026-08-28 17:40:42] poll: tier2 ckpt=3/70  elapsed=0.72h
+[2026-08-28 17:41:42] poll: tier2 ckpt=3/70  elapsed=0.73h
+[2026-08-28 17:42:42] poll: tier2 ckpt=3/70  elapsed=0.75h
+[2026-08-28 17:43:42] poll: tier2 ckpt=3/70  elapsed=0.77h
+[2026-08-28 17:44:42] poll: tier2 ckpt=3/70  elapsed=0.78h
+[2026-08-28 17:45:42] poll: tier2 ckpt=3/70  elapsed=0.80h
+[2026-08-28 17:46:42] poll: tier2 ckpt=3/70  elapsed=0.82h
+[2026-08-28 17:47:42] poll: tier2 ckpt=3/70  elapsed=0.83h
+[2026-08-28 17:48:42] poll: tier2 ckpt=4/70  elapsed=0.85h
+[2026-08-28 17:49:42] poll: tier2 ckpt=4/70  elapsed=0.87h
+[2026-08-28 17:50:42] poll: tier2 ckpt=4/70  elapsed=0.88h
+[2026-08-28 17:51:42] poll: tier2 ckpt=4/70  elapsed=0.90h
+[2026-08-28 17:52:42] poll: tier2 ckpt=4/70  elapsed=0.92h
+[2026-08-28 17:53:42] poll: tier2 ckpt=4/70  elapsed=0.93h
+[2026-08-28 17:54:42] poll: tier2 ckpt=4/70  elapsed=0.95h
+[2026-08-28 17:55:42] poll: tier2 ckpt=4/70  elapsed=0.97h
+[2026-08-28 17:56:42] poll: tier2 ckpt=4/70  elapsed=0.98h
+[2026-08-28 17:57:42] poll: tier2 ckpt=4/70  elapsed=1.00h
+[2026-08-28 17:58:42] poll: tier2 ckpt=4/70  elapsed=1.02h
+[2026-08-28 17:59:42] poll: tier2 ckpt=4/70  elapsed=1.03h
+[2026-08-28 18:00:42] poll: tier2 ckpt=4/70  elapsed=1.05h
+[2026-08-28 18:01:42] poll: tier2 ckpt=4/70  elapsed=1.07h
+[2026-08-28 18:02:42] poll: tier2 ckpt=4/70  elapsed=1.08h
+[2026-08-28 18:03:42] poll: tier2 ckpt=4/70  elapsed=1.10h
+[2026-08-28 18:04:42] poll: tier2 ckpt=4/70  elapsed=1.12h
+[2026-08-28 18:05:42] poll: tier2 ckpt=4/70  elapsed=1.13h
+[2026-08-28 18:06:42] poll: tier2 ckpt=4/70  elapsed=1.15h
+[2026-08-28 18:07:42] poll: tier2 ckpt=4/70  elapsed=1.17h
+[2026-08-28 18:08:42] poll: tier2 ckpt=4/70  elapsed=1.18h
+[2026-08-28 18:09:42] poll: tier2 ckpt=4/70  elapsed=1.20h
+[2026-08-28 18:10:42] poll: tier2 ckpt=4/70  elapsed=1.22h
+[2026-08-28 18:11:42] poll: tier2 ckpt=4/70  elapsed=1.23h
+[2026-08-28 18:12:42] poll: tier2 ckpt=4/70  elapsed=1.25h
+[2026-08-28 18:13:42] poll: tier2 ckpt=4/70  elapsed=1.27h
+[2026-08-28 18:14:42] poll: tier2 ckpt=4/70  elapsed=1.28h
+[2026-08-28 18:15:43] poll: tier2 ckpt=4/70  elapsed=1.30h
+[2026-08-28 18:16:43] poll: tier2 ckpt=4/70  elapsed=1.32h
+[2026-08-28 18:17:43] poll: tier2 ckpt=4/70  elapsed=1.33h
+[2026-08-28 18:18:43] poll: tier2 ckpt=4/70  elapsed=1.35h
+[2026-08-28 18:19:43] poll: tier2 ckpt=4/70  elapsed=1.37h
+[2026-08-28 18:20:43] poll: tier2 ckpt=4/70  elapsed=1.38h
+[2026-08-28 18:21:43] poll: tier2 ckpt=4/70  elapsed=1.40h
+[2026-08-28 18:22:43] poll: tier2 ckpt=4/70  elapsed=1.42h
+[2026-08-28 18:23:43] poll: tier2 ckpt=4/70  elapsed=1.43h
+[2026-08-28 18:24:43] poll: tier2 ckpt=4/70  elapsed=1.45h
+[2026-08-28 18:25:43] poll: tier2 ckpt=7/70  elapsed=1.47h
+[2026-08-28 18:26:43] poll: tier2 ckpt=8/70  elapsed=1.48h
+[2026-08-28 18:27:43] poll: tier2 ckpt=8/70  elapsed=1.50h
+[2026-08-28 18:28:43] poll: tier2 ckpt=8/70  elapsed=1.52h
+[2026-08-28 18:29:43] poll: tier2 ckpt=8/70  elapsed=1.53h
+[2026-08-28 18:30:43] poll: tier2 ckpt=8/70  elapsed=1.55h
+[2026-08-28 18:31:43] poll: tier2 ckpt=8/70  elapsed=1.57h
+[2026-08-28 18:32:43] poll: tier2 ckpt=8/70  elapsed=1.58h
+[2026-08-28 18:33:43] poll: tier2 ckpt=8/70  elapsed=1.60h
+[2026-08-28 18:34:43] poll: tier2 ckpt=8/70  elapsed=1.62h
+[2026-08-28 18:35:43] poll: tier2 ckpt=8/70  elapsed=1.63h
+[2026-08-28 18:36:43] poll: tier2 ckpt=9/70  elapsed=1.65h
+[2026-08-28 18:37:43] poll: tier2 ckpt=9/70  elapsed=1.67h
+[2026-08-28 18:38:43] poll: tier2 ckpt=9/70  elapsed=1.68h
+[2026-08-28 18:39:43] poll: tier2 ckpt=9/70  elapsed=1.70h
+[2026-08-28 18:40:43] poll: tier2 ckpt=9/70  elapsed=1.72h
+[2026-08-28 18:41:43] poll: tier2 ckpt=10/70  elapsed=1.73h
+[2026-08-28 18:42:43] poll: tier2 ckpt=10/70  elapsed=1.75h
+[2026-08-28 18:43:43] poll: tier2 ckpt=10/70  elapsed=1.77h
+[2026-08-28 18:44:43] poll: tier2 ckpt=10/70  elapsed=1.78h
+[2026-08-28 18:45:43] poll: tier2 ckpt=10/70  elapsed=1.80h
+[2026-08-28 18:46:43] poll: tier2 ckpt=10/70  elapsed=1.82h
+[2026-08-28 18:47:43] poll: tier2 ckpt=10/70  elapsed=1.83h
+[2026-08-28 18:48:43] poll: tier2 ckpt=10/70  elapsed=1.85h
+[2026-08-28 18:49:43] poll: tier2 ckpt=11/70  elapsed=1.87h
+[2026-08-28 18:50:43] poll: tier2 ckpt=11/70  elapsed=1.88h
+[2026-08-28 18:51:43] poll: tier2 ckpt=11/70  elapsed=1.90h
+[2026-08-28 18:52:43] poll: tier2 ckpt=11/70  elapsed=1.92h
+[2026-08-28 18:53:43] poll: tier2 ckpt=11/70  elapsed=1.93h
+[2026-08-28 18:54:43] poll: tier2 ckpt=11/70  elapsed=1.95h
+[2026-08-28 18:55:43] poll: tier2 ckpt=11/70  elapsed=1.97h
+[2026-08-28 18:56:43] poll: tier2 ckpt=11/70  elapsed=1.98h
+[2026-08-28 18:57:43] poll: tier2 ckpt=11/70  elapsed=2.00h
+[2026-08-28 18:58:43] poll: tier2 ckpt=11/70  elapsed=2.02h
+[2026-08-28 18:59:43] poll: tier2 ckpt=11/70  elapsed=2.03h
+[2026-08-28 19:00:43] poll: tier2 ckpt=11/70  elapsed=2.05h
+[2026-08-28 19:01:43] poll: tier2 ckpt=11/70  elapsed=2.07h
+[2026-08-28 19:02:43] poll: tier2 ckpt=11/70  elapsed=2.08h
+[2026-08-28 19:03:43] poll: tier2 ckpt=11/70  elapsed=2.10h
+[2026-08-28 19:04:43] poll: tier2 ckpt=11/70  elapsed=2.12h
+[2026-08-28 19:05:43] poll: tier2 ckpt=11/70  elapsed=2.13h
+[2026-08-28 19:06:43] poll: tier2 ckpt=11/70  elapsed=2.15h
+[2026-08-28 19:07:43] poll: tier2 ckpt=12/70  elapsed=2.17h
+[2026-08-28 19:08:43] poll: tier2 ckpt=12/70  elapsed=2.18h
+[2026-08-28 19:09:43] poll: tier2 ckpt=12/70  elapsed=2.20h
+[2026-08-28 19:10:43] poll: tier2 ckpt=12/70  elapsed=2.22h
+[2026-08-28 19:11:43] poll: tier2 ckpt=12/70  elapsed=2.23h
+[2026-08-28 19:12:43] poll: tier2 ckpt=12/70  elapsed=2.25h
+[2026-08-28 19:13:43] poll: tier2 ckpt=12/70  elapsed=2.27h
+[2026-08-28 19:14:43] poll: tier2 ckpt=12/70  elapsed=2.28h
+[2026-08-28 19:15:43] poll: tier2 ckpt=12/70  elapsed=2.30h
+[2026-08-28 19:16:43] poll: tier2 ckpt=12/70  elapsed=2.32h
+[2026-08-28 19:17:43] poll: tier2 ckpt=12/70  elapsed=2.33h
+[2026-08-28 19:18:43] poll: tier2 ckpt=12/70  elapsed=2.35h
+[2026-08-28 19:19:43] poll: tier2 ckpt=13/70  elapsed=2.37h
+[2026-08-28 19:20:43] poll: tier2 ckpt=13/70  elapsed=2.38h
+[2026-08-28 19:21:44] poll: tier2 ckpt=13/70  elapsed=2.40h
+[2026-08-28 19:22:44] poll: tier2 ckpt=13/70  elapsed=2.42h
+[2026-08-28 19:23:44] poll: tier2 ckpt=14/70  elapsed=2.43h
+[2026-08-28 19:24:44] poll: tier2 ckpt=15/70  elapsed=2.45h
+[2026-08-28 19:25:44] poll: tier2 ckpt=15/70  elapsed=2.47h
+[2026-08-28 19:26:44] poll: tier2 ckpt=15/70  elapsed=2.48h
+[2026-08-28 19:27:44] poll: tier2 ckpt=15/70  elapsed=2.50h
+[2026-08-28 19:28:44] poll: tier2 ckpt=15/70  elapsed=2.52h
+[2026-08-28 19:29:44] poll: tier2 ckpt=15/70  elapsed=2.53h
+[2026-08-28 19:30:44] poll: tier2 ckpt=15/70  elapsed=2.55h
+[2026-08-28 19:31:44] poll: tier2 ckpt=16/70  elapsed=2.57h
+[2026-08-28 19:32:44] poll: tier2 ckpt=16/70  elapsed=2.58h
+[2026-08-28 19:33:44] poll: tier2 ckpt=16/70  elapsed=2.60h
+[2026-08-28 19:34:44] poll: tier2 ckpt=16/70  elapsed=2.62h
+[2026-08-28 19:35:44] poll: tier2 ckpt=17/70  elapsed=2.63h
+[2026-08-28 19:36:44] poll: tier2 ckpt=17/70  elapsed=2.65h
+[2026-08-28 19:37:44] poll: tier2 ckpt=17/70  elapsed=2.67h
+[2026-08-28 19:38:44] poll: tier2 ckpt=17/70  elapsed=2.68h
+[2026-08-28 19:39:44] poll: tier2 ckpt=17/70  elapsed=2.70h
+[2026-08-28 19:40:44] poll: tier2 ckpt=17/70  elapsed=2.72h
+[2026-08-28 19:41:44] poll: tier2 ckpt=17/70  elapsed=2.73h
+[2026-08-28 19:42:44] poll: tier2 ckpt=17/70  elapsed=2.75h
+[2026-08-28 19:43:44] poll: tier2 ckpt=17/70  elapsed=2.77h
+[2026-08-28 19:44:44] poll: tier2 ckpt=17/70  elapsed=2.78h
+[2026-08-28 19:45:44] poll: tier2 ckpt=17/70  elapsed=2.80h
+[2026-08-28 19:46:44] poll: tier2 ckpt=17/70  elapsed=2.82h
+[2026-08-28 19:47:44] poll: tier2 ckpt=17/70  elapsed=2.83h
+[2026-08-28 19:48:44] poll: tier2 ckpt=17/70  elapsed=2.85h
+[2026-08-28 19:49:44] poll: tier2 ckpt=18/70  elapsed=2.87h
+[2026-08-28 19:50:44] poll: tier2 ckpt=18/70  elapsed=2.88h
+[2026-08-28 19:51:44] poll: tier2 ckpt=18/70  elapsed=2.90h
+[2026-08-28 19:52:44] poll: tier2 ckpt=18/70  elapsed=2.92h
+[2026-08-28 19:53:44] poll: tier2 ckpt=18/70  elapsed=2.93h
+[2026-08-28 19:54:44] poll: tier2 ckpt=18/70  elapsed=2.95h
+[2026-08-28 19:55:44] poll: tier2 ckpt=18/70  elapsed=2.97h
+[2026-08-28 19:56:44] poll: tier2 ckpt=18/70  elapsed=2.98h
+[2026-08-28 19:57:44] poll: tier2 ckpt=18/70  elapsed=3.00h
+[2026-08-28 19:58:44] poll: tier2 ckpt=18/70  elapsed=3.02h
+[2026-08-28 19:59:44] poll: tier2 ckpt=18/70  elapsed=3.03h
+[2026-08-28 20:00:44] poll: tier2 ckpt=18/70  elapsed=3.05h
+[2026-08-28 20:01:44] poll: tier2 ckpt=18/70  elapsed=3.07h
+[2026-08-28 20:02:44] poll: tier2 ckpt=18/70  elapsed=3.08h
+[2026-08-28 20:03:44] poll: tier2 ckpt=18/70  elapsed=3.10h
+[2026-08-28 20:04:44] poll: tier2 ckpt=19/70  elapsed=3.12h
+[2026-08-28 20:05:44] poll: tier2 ckpt=19/70  elapsed=3.13h
+[2026-08-28 20:06:44] poll: tier2 ckpt=19/70  elapsed=3.15h
+[2026-08-28 20:07:44] poll: tier2 ckpt=19/70  elapsed=3.17h
+[2026-08-28 20:08:44] poll: tier2 ckpt=19/70  elapsed=3.18h
+[2026-08-28 20:09:44] poll: tier2 ckpt=19/70  elapsed=3.20h
+[2026-08-28 20:10:44] poll: tier2 ckpt=19/70  elapsed=3.22h
+[2026-08-28 20:11:44] poll: tier2 ckpt=20/70  elapsed=3.23h
+[2026-08-28 20:12:44] poll: tier2 ckpt=20/70  elapsed=3.25h
+[2026-08-28 20:13:44] poll: tier2 ckpt=20/70  elapsed=3.27h
+[2026-08-28 20:14:44] poll: tier2 ckpt=20/70  elapsed=3.28h
+[2026-08-28 20:15:44] poll: tier2 ckpt=20/70  elapsed=3.30h
+[2026-08-28 20:16:44] poll: tier2 ckpt=20/70  elapsed=3.32h
+[2026-08-28 20:17:44] poll: tier2 ckpt=20/70  elapsed=3.33h
+[2026-08-28 20:18:44] poll: tier2 ckpt=20/70  elapsed=3.35h
+[2026-08-28 20:19:44] poll: tier2 ckpt=20/70  elapsed=3.37h
+[2026-08-28 20:20:44] poll: tier2 ckpt=20/70  elapsed=3.38h
+[2026-08-28 20:21:44] poll: tier2 ckpt=21/70  elapsed=3.40h
+[2026-08-28 20:22:45] poll: tier2 ckpt=21/70  elapsed=3.42h
+[2026-08-28 20:23:45] poll: tier2 ckpt=21/70  elapsed=3.43h
+[2026-08-28 20:24:45] poll: tier2 ckpt=21/70  elapsed=3.45h
+[2026-08-28 20:25:45] poll: tier2 ckpt=21/70  elapsed=3.47h
+[2026-08-28 20:26:45] poll: tier2 ckpt=21/70  elapsed=3.48h
+[2026-08-28 20:27:45] poll: tier2 ckpt=21/70  elapsed=3.50h
+[2026-08-28 20:28:45] poll: tier2 ckpt=21/70  elapsed=3.52h
+[2026-08-28 20:29:45] poll: tier2 ckpt=22/70  elapsed=3.53h
+[2026-08-28 20:30:45] poll: tier2 ckpt=22/70  elapsed=3.55h
+[2026-08-28 20:31:45] poll: tier2 ckpt=23/70  elapsed=3.57h
+[2026-08-28 20:32:45] poll: tier2 ckpt=23/70  elapsed=3.58h
+[2026-08-28 20:33:45] poll: tier2 ckpt=23/70  elapsed=3.60h
+[2026-08-28 20:34:45] poll: tier2 ckpt=23/70  elapsed=3.62h
+[2026-08-28 20:35:45] poll: tier2 ckpt=23/70  elapsed=3.63h
+[2026-08-28 20:36:45] poll: tier2 ckpt=23/70  elapsed=3.65h
+[2026-08-28 20:37:45] poll: tier2 ckpt=23/70  elapsed=3.67h
+[2026-08-28 20:38:45] poll: tier2 ckpt=23/70  elapsed=3.68h
+[2026-08-28 20:39:45] poll: tier2 ckpt=23/70  elapsed=3.70h
+[2026-08-28 20:40:45] poll: tier2 ckpt=23/70  elapsed=3.72h
+[2026-08-28 20:41:45] poll: tier2 ckpt=23/70  elapsed=3.73h
+[2026-08-28 20:42:45] poll: tier2 ckpt=23/70  elapsed=3.75h
+[2026-08-28 20:43:45] poll: tier2 ckpt=23/70  elapsed=3.77h
+[2026-08-28 20:44:45] poll: tier2 ckpt=23/70  elapsed=3.78h
+[2026-08-28 20:45:45] poll: tier2 ckpt=23/70  elapsed=3.80h
+[2026-08-28 20:46:45] poll: tier2 ckpt=23/70  elapsed=3.82h
+[2026-08-28 20:47:45] poll: tier2 ckpt=23/70  elapsed=3.83h
+[2026-08-28 20:48:45] poll: tier2 ckpt=23/70  elapsed=3.85h
+[2026-08-28 20:49:45] poll: tier2 ckpt=23/70  elapsed=3.87h
+[2026-08-28 20:50:45] poll: tier2 ckpt=23/70  elapsed=3.88h
+[2026-08-28 20:51:45] poll: tier2 ckpt=25/70  elapsed=3.90h
+[2026-08-28 20:52:45] poll: tier2 ckpt=25/70  elapsed=3.92h
+[2026-08-28 20:53:45] poll: tier2 ckpt=26/70  elapsed=3.93h
+[2026-08-28 20:54:45] poll: tier2 ckpt=26/70  elapsed=3.95h
+[2026-08-28 20:55:45] poll: tier2 ckpt=26/70  elapsed=3.97h
+[2026-08-28 20:56:45] poll: tier2 ckpt=26/70  elapsed=3.98h
+[2026-08-28 20:57:45] poll: tier2 ckpt=26/70  elapsed=4.00h
+[2026-08-28 20:58:45] poll: tier2 ckpt=26/70  elapsed=4.02h
+[2026-08-28 20:59:45] poll: tier2 ckpt=26/70  elapsed=4.03h
+[2026-08-28 21:00:45] poll: tier2 ckpt=26/70  elapsed=4.05h
+[2026-08-28 21:01:45] poll: tier2 ckpt=26/70  elapsed=4.07h
+[2026-08-28 21:02:45] poll: tier2 ckpt=27/70  elapsed=4.08h
+[2026-08-28 21:03:45] poll: tier2 ckpt=27/70  elapsed=4.10h
+[2026-08-28 21:04:45] poll: tier2 ckpt=27/70  elapsed=4.12h
+[2026-08-28 21:05:45] poll: tier2 ckpt=28/70  elapsed=4.13h
+[2026-08-28 21:06:45] poll: tier2 ckpt=29/70  elapsed=4.15h
+[2026-08-28 21:07:45] poll: tier2 ckpt=29/70  elapsed=4.17h
+[2026-08-28 21:08:45] poll: tier2 ckpt=29/70  elapsed=4.18h
+[2026-08-28 21:09:45] poll: tier2 ckpt=29/70  elapsed=4.20h
+[2026-08-28 21:10:45] poll: tier2 ckpt=29/70  elapsed=4.22h
+[2026-08-28 21:11:45] poll: tier2 ckpt=30/70  elapsed=4.23h
+[2026-08-28 21:12:45] poll: tier2 ckpt=30/70  elapsed=4.25h
+[2026-08-28 21:13:45] poll: tier2 ckpt=30/70  elapsed=4.27h
+[2026-08-28 21:14:45] poll: tier2 ckpt=30/70  elapsed=4.28h
+[2026-08-28 21:15:45] poll: tier2 ckpt=30/70  elapsed=4.30h
+[2026-08-28 21:16:45] poll: tier2 ckpt=30/70  elapsed=4.32h
+[2026-08-28 21:17:45] poll: tier2 ckpt=30/70  elapsed=4.33h
+[2026-08-28 21:18:45] poll: tier2 ckpt=30/70  elapsed=4.35h
+[2026-08-28 21:19:45] poll: tier2 ckpt=30/70  elapsed=4.37h
+[2026-08-28 21:20:45] poll: tier2 ckpt=30/70  elapsed=4.38h
+[2026-08-28 21:21:45] poll: tier2 ckpt=30/70  elapsed=4.40h
+[2026-08-28 21:22:45] poll: tier2 ckpt=30/70  elapsed=4.42h
+[2026-08-28 21:23:45] poll: tier2 ckpt=30/70  elapsed=4.43h
+[2026-08-28 21:24:45] poll: tier2 ckpt=30/70  elapsed=4.45h
+[2026-08-28 21:25:45] poll: tier2 ckpt=30/70  elapsed=4.47h
+[2026-08-28 21:26:45] poll: tier2 ckpt=30/70  elapsed=4.48h
+[2026-08-28 21:27:45] poll: tier2 ckpt=30/70  elapsed=4.50h
+[2026-08-28 21:28:46] poll: tier2 ckpt=30/70  elapsed=4.52h
+[2026-08-28 21:29:46] poll: tier2 ckpt=30/70  elapsed=4.53h
+[2026-08-28 21:30:46] poll: tier2 ckpt=30/70  elapsed=4.55h
+[2026-08-28 21:31:46] poll: tier2 ckpt=30/70  elapsed=4.57h
+[2026-08-28 21:32:46] poll: tier2 ckpt=30/70  elapsed=4.58h
+[2026-08-28 21:33:46] poll: tier2 ckpt=30/70  elapsed=4.60h
+[2026-08-28 21:34:46] poll: tier2 ckpt=30/70  elapsed=4.62h
+[2026-08-28 21:35:46] poll: tier2 ckpt=31/70  elapsed=4.63h
+[2026-08-28 21:36:46] poll: tier2 ckpt=31/70  elapsed=4.65h
+[2026-08-28 21:37:46] poll: tier2 ckpt=31/70  elapsed=4.67h
+[2026-08-28 21:38:46] poll: tier2 ckpt=31/70  elapsed=4.68h
+[2026-08-28 21:39:46] poll: tier2 ckpt=31/70  elapsed=4.70h
+[2026-08-28 21:40:46] poll: tier2 ckpt=31/70  elapsed=4.72h
+[2026-08-28 21:41:46] poll: tier2 ckpt=31/70  elapsed=4.73h
+[2026-08-28 21:42:46] poll: tier2 ckpt=31/70  elapsed=4.75h
+[2026-08-28 21:43:46] poll: tier2 ckpt=32/70  elapsed=4.77h
+[2026-08-28 21:44:46] poll: tier2 ckpt=33/70  elapsed=4.78h
+[2026-08-28 21:45:46] poll: tier2 ckpt=33/70  elapsed=4.80h
+[2026-08-28 21:46:46] poll: tier2 ckpt=34/70  elapsed=4.82h
+[2026-08-28 21:47:46] poll: tier2 ckpt=34/70  elapsed=4.83h
+[2026-08-28 21:48:46] poll: tier2 ckpt=34/70  elapsed=4.85h
+[2026-08-28 21:49:46] poll: tier2 ckpt=34/70  elapsed=4.87h
+[2026-08-28 21:50:46] poll: tier2 ckpt=34/70  elapsed=4.88h
+[2026-08-28 21:51:46] poll: tier2 ckpt=34/70  elapsed=4.90h
+[2026-08-28 21:52:46] poll: tier2 ckpt=35/70  elapsed=4.92h
+[2026-08-28 21:53:46] poll: tier2 ckpt=35/70  elapsed=4.93h
+[2026-08-28 21:54:46] poll: tier2 ckpt=35/70  elapsed=4.95h
+[2026-08-28 21:55:46] poll: tier2 ckpt=35/70  elapsed=4.97h
+[2026-08-28 21:56:46] poll: tier2 ckpt=35/70  elapsed=4.98h
+[2026-08-28 21:57:46] poll: tier2 ckpt=35/70  elapsed=5.00h
+[2026-08-28 21:58:46] poll: tier2 ckpt=35/70  elapsed=5.02h
+[2026-08-28 21:59:46] poll: tier2 ckpt=35/70  elapsed=5.03h
+[2026-08-28 22:00:46] poll: tier2 ckpt=35/70  elapsed=5.05h
+[2026-08-28 22:01:46] poll: tier2 ckpt=36/70  elapsed=5.07h
+[2026-08-28 22:02:46] poll: tier2 ckpt=36/70  elapsed=5.08h
+[2026-08-28 22:03:46] poll: tier2 ckpt=36/70  elapsed=5.10h
+[2026-08-28 22:04:46] poll: tier2 ckpt=36/70  elapsed=5.12h
+[2026-08-28 22:05:46] poll: tier2 ckpt=36/70  elapsed=5.13h
+[2026-08-28 22:06:46] poll: tier2 ckpt=36/70  elapsed=5.15h
+[2026-08-28 22:07:46] poll: tier2 ckpt=36/70  elapsed=5.17h
+[2026-08-28 22:08:46] poll: tier2 ckpt=36/70  elapsed=5.18h
+[2026-08-28 22:09:46] poll: tier2 ckpt=36/70  elapsed=5.20h
+[2026-08-28 22:10:46] poll: tier2 ckpt=36/70  elapsed=5.22h
+[2026-08-28 22:11:46] poll: tier2 ckpt=36/70  elapsed=5.23h
+[2026-08-28 22:12:46] poll: tier2 ckpt=36/70  elapsed=5.25h
+[2026-08-28 22:13:46] poll: tier2 ckpt=36/70  elapsed=5.27h
+[2026-08-28 22:14:46] poll: tier2 ckpt=36/70  elapsed=5.28h
+[2026-08-28 22:15:46] poll: tier2 ckpt=36/70  elapsed=5.30h
+[2026-08-28 22:16:46] poll: tier2 ckpt=37/70  elapsed=5.32h
+[2026-08-28 22:17:46] poll: tier2 ckpt=37/70  elapsed=5.33h
+[2026-08-28 22:18:46] poll: tier2 ckpt=37/70  elapsed=5.35h
+[2026-08-28 22:19:46] poll: tier2 ckpt=37/70  elapsed=5.37h
+[2026-08-28 22:20:46] poll: tier2 ckpt=37/70  elapsed=5.38h
+[2026-08-28 22:21:46] poll: tier2 ckpt=37/70  elapsed=5.40h
+[2026-08-28 22:22:46] poll: tier2 ckpt=37/70  elapsed=5.42h
+[2026-08-28 22:23:46] poll: tier2 ckpt=37/70  elapsed=5.43h
+[2026-08-28 22:24:46] poll: tier2 ckpt=37/70  elapsed=5.45h
+[2026-08-28 22:25:46] poll: tier2 ckpt=37/70  elapsed=5.47h
+[2026-08-28 22:26:46] poll: tier2 ckpt=37/70  elapsed=5.48h
+[2026-08-28 22:27:46] poll: tier2 ckpt=39/70  elapsed=5.50h
+[2026-08-28 22:28:46] poll: tier2 ckpt=39/70  elapsed=5.52h
+[2026-08-28 22:29:46] poll: tier2 ckpt=39/70  elapsed=5.53h
+[2026-08-28 22:30:46] poll: tier2 ckpt=40/70  elapsed=5.55h
+[2026-08-28 22:31:46] poll: tier2 ckpt=41/70  elapsed=5.57h
+[2026-08-28 22:32:46] poll: tier2 ckpt=41/70  elapsed=5.58h
+[2026-08-28 22:33:46] poll: tier2 ckpt=42/70  elapsed=5.60h
+[2026-08-28 22:34:46] poll: tier2 ckpt=42/70  elapsed=5.62h
+[2026-08-28 22:35:46] poll: tier2 ckpt=42/70  elapsed=5.63h
+[2026-08-28 22:36:47] poll: tier2 ckpt=42/70  elapsed=5.65h
+[2026-08-28 22:37:47] poll: tier2 ckpt=42/70  elapsed=5.67h
+[2026-08-28 22:38:47] poll: tier2 ckpt=42/70  elapsed=5.68h
+[2026-08-28 22:39:47] poll: tier2 ckpt=42/70  elapsed=5.70h
+[2026-08-28 22:40:47] poll: tier2 ckpt=42/70  elapsed=5.72h
+[2026-08-28 22:41:47] poll: tier2 ckpt=42/70  elapsed=5.73h
+[2026-08-28 22:42:47] poll: tier2 ckpt=42/70  elapsed=5.75h
+[2026-08-28 22:43:47] poll: tier2 ckpt=42/70  elapsed=5.77h
+[2026-08-28 22:44:47] poll: tier2 ckpt=42/70  elapsed=5.78h
+[2026-08-28 22:45:47] poll: tier2 ckpt=43/70  elapsed=5.80h
+[2026-08-28 22:46:47] poll: tier2 ckpt=43/70  elapsed=5.82h
+[2026-08-28 22:47:47] poll: tier2 ckpt=43/70  elapsed=5.83h
+[2026-08-28 22:48:47] poll: tier2 ckpt=43/70  elapsed=5.85h
+[2026-08-28 22:49:47] poll: tier2 ckpt=43/70  elapsed=5.87h
+[2026-08-28 22:50:47] poll: tier2 ckpt=43/70  elapsed=5.88h
+[2026-08-28 22:51:47] poll: tier2 ckpt=43/70  elapsed=5.90h
+[2026-08-28 22:52:47] poll: tier2 ckpt=43/70  elapsed=5.92h
+[2026-08-28 22:53:47] poll: tier2 ckpt=43/70  elapsed=5.93h
+[2026-08-28 22:54:47] poll: tier2 ckpt=43/70  elapsed=5.95h
+[2026-08-28 22:55:47] poll: tier2 ckpt=43/70  elapsed=5.97h
+[2026-08-28 22:56:47] poll: tier2 ckpt=43/70  elapsed=5.98h
+[2026-08-28 22:57:47] poll: tier2 ckpt=43/70  elapsed=6.00h
+[2026-08-28 22:58:47] poll: tier2 ckpt=43/70  elapsed=6.02h
+[2026-08-28 22:59:47] poll: tier2 ckpt=43/70  elapsed=6.03h
+[2026-08-28 23:00:47] poll: tier2 ckpt=43/70  elapsed=6.05h
+[2026-08-28 23:01:47] poll: tier2 ckpt=43/70  elapsed=6.07h
+[2026-08-28 23:02:47] poll: tier2 ckpt=43/70  elapsed=6.08h
+[2026-08-28 23:03:47] poll: tier2 ckpt=43/70  elapsed=6.10h
+[2026-08-28 23:04:47] poll: tier2 ckpt=43/70  elapsed=6.12h
+[2026-08-28 23:05:47] poll: tier2 ckpt=43/70  elapsed=6.13h
+[2026-08-28 23:06:47] poll: tier2 ckpt=43/70  elapsed=6.15h
+[2026-08-28 23:07:47] poll: tier2 ckpt=43/70  elapsed=6.17h
+[2026-08-28 23:08:47] poll: tier2 ckpt=45/70  elapsed=6.18h
+[2026-08-28 23:09:47] poll: tier2 ckpt=45/70  elapsed=6.20h
+[2026-08-28 23:10:47] poll: tier2 ckpt=45/70  elapsed=6.22h
+[2026-08-28 23:11:47] poll: tier2 ckpt=45/70  elapsed=6.23h
+[2026-08-28 23:12:47] poll: tier2 ckpt=47/70  elapsed=6.25h
+[2026-08-28 23:13:47] poll: tier2 ckpt=47/70  elapsed=6.27h
+[2026-08-28 23:14:47] poll: tier2 ckpt=47/70  elapsed=6.28h
+[2026-08-28 23:15:47] poll: tier2 ckpt=47/70  elapsed=6.30h
+[2026-08-28 23:16:47] poll: tier2 ckpt=47/70  elapsed=6.32h
+[2026-08-28 23:17:47] poll: tier2 ckpt=47/70  elapsed=6.33h
+[2026-08-28 23:18:47] poll: tier2 ckpt=47/70  elapsed=6.35h
+[2026-08-28 23:19:47] poll: tier2 ckpt=47/70  elapsed=6.37h
+[2026-08-28 23:20:47] poll: tier2 ckpt=47/70  elapsed=6.38h
+[2026-08-28 23:21:47] poll: tier2 ckpt=48/70  elapsed=6.40h
+[2026-08-28 23:22:47] poll: tier2 ckpt=48/70  elapsed=6.42h
+[2026-08-28 23:23:47] poll: tier2 ckpt=48/70  elapsed=6.43h
+[2026-08-28 23:24:47] poll: tier2 ckpt=48/70  elapsed=6.45h
+[2026-08-28 23:25:47] poll: tier2 ckpt=48/70  elapsed=6.47h
+[2026-08-28 23:26:47] poll: tier2 ckpt=48/70  elapsed=6.49h
+[2026-08-28 23:27:47] poll: tier2 ckpt=48/70  elapsed=6.50h
+[2026-08-28 23:28:47] poll: tier2 ckpt=48/70  elapsed=6.52h
+[2026-08-28 23:29:47] poll: tier2 ckpt=48/70  elapsed=6.54h
+[2026-08-28 23:30:47] poll: tier2 ckpt=48/70  elapsed=6.55h
+[2026-08-28 23:31:47] poll: tier2 ckpt=49/70  elapsed=6.57h
+[2026-08-28 23:32:47] poll: tier2 ckpt=49/70  elapsed=6.59h
+[2026-08-28 23:33:47] poll: tier2 ckpt=49/70  elapsed=6.60h
+[2026-08-28 23:34:47] poll: tier2 ckpt=49/70  elapsed=6.62h
+[2026-08-28 23:35:47] poll: tier2 ckpt=49/70  elapsed=6.64h
+[2026-08-28 23:36:47] poll: tier2 ckpt=49/70  elapsed=6.65h
+[2026-08-28 23:37:48] poll: tier2 ckpt=49/70  elapsed=6.67h
+[2026-08-28 23:38:48] poll: tier2 ckpt=49/70  elapsed=6.69h
+[2026-08-28 23:39:48] poll: tier2 ckpt=49/70  elapsed=6.70h
+[2026-08-28 23:40:48] poll: tier2 ckpt=49/70  elapsed=6.72h
+[2026-08-28 23:41:48] poll: tier2 ckpt=49/70  elapsed=6.74h
+[2026-08-28 23:42:48] poll: tier2 ckpt=49/70  elapsed=6.75h
+[2026-08-28 23:43:48] poll: tier2 ckpt=50/70  elapsed=6.77h
+[2026-08-28 23:44:48] poll: tier2 ckpt=51/70  elapsed=6.79h
+[2026-08-28 23:45:48] poll: tier2 ckpt=51/70  elapsed=6.80h
+[2026-08-28 23:46:48] poll: tier2 ckpt=51/70  elapsed=6.82h
+[2026-08-28 23:47:48] poll: tier2 ckpt=51/70  elapsed=6.84h
+[2026-08-28 23:48:48] poll: tier2 ckpt=51/70  elapsed=6.85h
+[2026-08-28 23:49:48] poll: tier2 ckpt=51/70  elapsed=6.87h
+[2026-08-28 23:50:48] poll: tier2 ckpt=51/70  elapsed=6.89h
+[2026-08-28 23:51:48] poll: tier2 ckpt=51/70  elapsed=6.90h
+[2026-08-28 23:52:48] poll: tier2 ckpt=52/70  elapsed=6.92h
+[2026-08-28 23:53:48] poll: tier2 ckpt=52/70  elapsed=6.94h
+[2026-08-28 23:54:48] poll: tier2 ckpt=52/70  elapsed=6.95h
+[2026-08-28 23:55:48] poll: tier2 ckpt=52/70  elapsed=6.97h
+[2026-08-28 23:56:48] poll: tier2 ckpt=52/70  elapsed=6.99h
+[2026-08-28 23:57:48] poll: tier2 ckpt=52/70  elapsed=7.00h
+[2026-08-28 23:58:48] poll: tier2 ckpt=52/70  elapsed=7.02h
+[2026-08-28 23:59:48] poll: tier2 ckpt=52/70  elapsed=7.04h
+[2026-08-29 00:00:48] poll: tier2 ckpt=52/70  elapsed=7.05h
+[2026-08-29 00:01:48] poll: tier2 ckpt=52/70  elapsed=7.07h
+[2026-08-29 00:02:48] poll: tier2 ckpt=52/70  elapsed=7.09h
+[2026-08-29 00:03:48] poll: tier2 ckpt=53/70  elapsed=7.10h
+[2026-08-29 00:04:48] poll: tier2 ckpt=53/70  elapsed=7.12h
+[2026-08-29 00:05:48] poll: tier2 ckpt=53/70  elapsed=7.14h
+[2026-08-29 00:06:48] poll: tier2 ckpt=54/70  elapsed=7.15h
+[2026-08-29 00:07:48] poll: tier2 ckpt=54/70  elapsed=7.17h
+[2026-08-29 00:08:48] poll: tier2 ckpt=54/70  elapsed=7.19h
+[2026-08-29 00:09:48] poll: tier2 ckpt=54/70  elapsed=7.20h
+[2026-08-29 00:10:48] poll: tier2 ckpt=54/70  elapsed=7.22h
+[2026-08-29 00:11:48] poll: tier2 ckpt=54/70  elapsed=7.24h
+[2026-08-29 00:12:48] poll: tier2 ckpt=54/70  elapsed=7.25h
+[2026-08-29 00:13:48] poll: tier2 ckpt=54/70  elapsed=7.27h
+[2026-08-29 00:14:48] poll: tier2 ckpt=54/70  elapsed=7.29h
+[2026-08-29 00:15:48] poll: tier2 ckpt=54/70  elapsed=7.30h
+[2026-08-29 00:16:48] poll: tier2 ckpt=55/70  elapsed=7.32h
+[2026-08-29 00:17:48] poll: tier2 ckpt=55/70  elapsed=7.34h
+[2026-08-29 00:18:48] poll: tier2 ckpt=55/70  elapsed=7.35h
+[2026-08-29 00:19:48] poll: tier2 ckpt=55/70  elapsed=7.37h
+[2026-08-29 00:20:48] poll: tier2 ckpt=55/70  elapsed=7.39h
+[2026-08-29 00:21:48] poll: tier2 ckpt=55/70  elapsed=7.40h
+[2026-08-29 00:22:48] poll: tier2 ckpt=55/70  elapsed=7.42h
+[2026-08-29 00:23:48] poll: tier2 ckpt=55/70  elapsed=7.44h
+[2026-08-29 00:24:48] poll: tier2 ckpt=55/70  elapsed=7.45h
+[2026-08-29 00:25:48] poll: tier2 ckpt=55/70  elapsed=7.47h
+[2026-08-29 00:26:48] poll: tier2 ckpt=55/70  elapsed=7.49h
+[2026-08-29 00:27:48] poll: tier2 ckpt=56/70  elapsed=7.50h
+[2026-08-29 00:28:48] poll: tier2 ckpt=56/70  elapsed=7.52h
+[2026-08-29 00:29:48] poll: tier2 ckpt=56/70  elapsed=7.54h
+[2026-08-29 00:30:48] poll: tier2 ckpt=56/70  elapsed=7.55h
+[2026-08-29 00:31:48] poll: tier2 ckpt=56/70  elapsed=7.57h
+[2026-08-29 00:32:48] poll: tier2 ckpt=56/70  elapsed=7.59h
+[2026-08-29 00:33:48] poll: tier2 ckpt=56/70  elapsed=7.60h
+[2026-08-29 00:34:48] poll: tier2 ckpt=56/70  elapsed=7.62h
+[2026-08-29 00:35:48] poll: tier2 ckpt=56/70  elapsed=7.64h
+[2026-08-29 00:36:48] poll: tier2 ckpt=56/70  elapsed=7.65h
+[2026-08-29 00:37:48] poll: tier2 ckpt=56/70  elapsed=7.67h
+[2026-08-29 00:38:48] poll: tier2 ckpt=56/70  elapsed=7.69h
+[2026-08-29 00:39:48] poll: tier2 ckpt=56/70  elapsed=7.70h
+[2026-08-29 00:40:48] poll: tier2 ckpt=56/70  elapsed=7.72h
+[2026-08-29 00:41:48] poll: tier2 ckpt=56/70  elapsed=7.74h
+[2026-08-29 00:42:49] poll: tier2 ckpt=56/70  elapsed=7.75h
+[2026-08-29 00:43:49] poll: tier2 ckpt=56/70  elapsed=7.77h
+[2026-08-29 00:44:49] poll: tier2 ckpt=56/70  elapsed=7.79h
+[2026-08-29 00:45:49] poll: tier2 ckpt=56/70  elapsed=7.80h
+[2026-08-29 00:46:49] poll: tier2 ckpt=56/70  elapsed=7.82h
+[2026-08-29 00:47:49] poll: tier2 ckpt=57/70  elapsed=7.84h
+[2026-08-29 00:48:49] poll: tier2 ckpt=57/70  elapsed=7.85h
+[2026-08-29 00:49:49] poll: tier2 ckpt=57/70  elapsed=7.87h
+[2026-08-29 00:50:49] poll: tier2 ckpt=57/70  elapsed=7.89h
+[2026-08-29 00:51:49] poll: tier2 ckpt=57/70  elapsed=7.90h
+[2026-08-29 00:52:49] poll: tier2 ckpt=57/70  elapsed=7.92h
+[2026-08-29 00:53:49] poll: tier2 ckpt=57/70  elapsed=7.94h
+[2026-08-29 00:54:49] poll: tier2 ckpt=57/70  elapsed=7.95h
+[2026-08-29 00:55:49] poll: tier2 ckpt=57/70  elapsed=7.97h
+[2026-08-29 00:56:49] poll: tier2 ckpt=57/70  elapsed=7.99h
+[2026-08-29 00:57:49] poll: tier2 ckpt=57/70  elapsed=8.00h
+[2026-08-29 00:58:49] poll: tier2 ckpt=57/70  elapsed=8.02h
+[2026-08-29 00:59:49] poll: tier2 ckpt=57/70  elapsed=8.04h
+[2026-08-29 01:00:49] poll: tier2 ckpt=57/70  elapsed=8.05h
+[2026-08-29 01:01:49] poll: tier2 ckpt=57/70  elapsed=8.07h
+[2026-08-29 01:02:49] poll: tier2 ckpt=58/70  elapsed=8.09h
+[2026-08-29 01:03:49] poll: tier2 ckpt=58/70  elapsed=8.10h
+[2026-08-29 01:04:49] poll: tier2 ckpt=58/70  elapsed=8.12h
+[2026-08-29 01:05:49] poll: tier2 ckpt=58/70  elapsed=8.14h
+[2026-08-29 01:06:49] poll: tier2 ckpt=59/70  elapsed=8.15h
+[2026-08-29 01:07:49] poll: tier2 ckpt=60/70  elapsed=8.17h
+[2026-08-29 01:08:49] poll: tier2 ckpt=60/70  elapsed=8.19h
+[2026-08-29 01:09:49] poll: tier2 ckpt=60/70  elapsed=8.20h
+[2026-08-29 01:10:49] poll: tier2 ckpt=60/70  elapsed=8.22h
+[2026-08-29 01:11:49] poll: tier2 ckpt=60/70  elapsed=8.24h
+[2026-08-29 01:12:49] poll: tier2 ckpt=61/70  elapsed=8.25h
+[2026-08-29 01:13:49] poll: tier2 ckpt=61/70  elapsed=8.27h
+[2026-08-29 01:14:49] poll: tier2 ckpt=61/70  elapsed=8.29h
+[2026-08-29 01:15:49] poll: tier2 ckpt=61/70  elapsed=8.30h
+[2026-08-29 01:16:49] poll: tier2 ckpt=61/70  elapsed=8.32h
+[2026-08-29 01:17:49] poll: tier2 ckpt=61/70  elapsed=8.34h
+[2026-08-29 01:18:49] poll: tier2 ckpt=63/70  elapsed=8.35h
+[2026-08-29 01:19:49] poll: tier2 ckpt=63/70  elapsed=8.37h
+[2026-08-29 01:20:49] poll: tier2 ckpt=63/70  elapsed=8.39h
+[2026-08-29 01:21:49] poll: tier2 ckpt=63/70  elapsed=8.40h
+[2026-08-29 01:22:49] poll: tier2 ckpt=63/70  elapsed=8.42h
+[2026-08-29 01:23:49] poll: tier2 ckpt=63/70  elapsed=8.44h
+[2026-08-29 01:24:49] poll: tier2 ckpt=63/70  elapsed=8.45h
+[2026-08-29 01:25:49] poll: tier2 ckpt=63/70  elapsed=8.47h
+[2026-08-29 01:26:49] poll: tier2 ckpt=63/70  elapsed=8.49h
+[2026-08-29 01:27:49] poll: tier2 ckpt=63/70  elapsed=8.50h
+[2026-08-29 01:28:49] poll: tier2 ckpt=63/70  elapsed=8.52h
+[2026-08-29 01:29:49] poll: tier2 ckpt=63/70  elapsed=8.54h
+[2026-08-29 01:30:49] poll: tier2 ckpt=63/70  elapsed=8.55h
+[2026-08-29 01:31:49] poll: tier2 ckpt=63/70  elapsed=8.57h
+[2026-08-29 01:32:49] poll: tier2 ckpt=63/70  elapsed=8.59h
+[2026-08-29 01:33:49] poll: tier2 ckpt=63/70  elapsed=8.60h
+[2026-08-29 01:34:49] poll: tier2 ckpt=63/70  elapsed=8.62h
+[2026-08-29 01:35:49] poll: tier2 ckpt=63/70  elapsed=8.64h
+[2026-08-29 01:36:49] poll: tier2 ckpt=63/70  elapsed=8.65h
+[2026-08-29 01:37:49] poll: tier2 ckpt=63/70  elapsed=8.67h
+[2026-08-29 01:38:49] poll: tier2 ckpt=63/70  elapsed=8.69h
+[2026-08-29 01:39:49] poll: tier2 ckpt=63/70  elapsed=8.70h
+[2026-08-29 01:40:49] poll: tier2 ckpt=63/70  elapsed=8.72h
+[2026-08-29 01:41:49] poll: tier2 ckpt=63/70  elapsed=8.74h
+[2026-08-29 01:42:49] poll: tier2 ckpt=64/70  elapsed=8.75h
+[2026-08-29 01:43:49] poll: tier2 ckpt=64/70  elapsed=8.77h
+[2026-08-29 01:44:49] poll: tier2 ckpt=64/70  elapsed=8.79h
+[2026-08-29 01:45:49] poll: tier2 ckpt=64/70  elapsed=8.80h
+[2026-08-29 01:46:49] poll: tier2 ckpt=65/70  elapsed=8.82h
+[2026-08-29 01:47:49] poll: tier2 ckpt=65/70  elapsed=8.84h
+[2026-08-29 01:48:49] poll: tier2 ckpt=65/70  elapsed=8.85h
+[2026-08-29 01:49:50] poll: tier2 ckpt=65/70  elapsed=8.87h
+[2026-08-29 01:50:50] poll: tier2 ckpt=65/70  elapsed=8.89h
+[2026-08-29 01:51:50] poll: tier2 ckpt=65/70  elapsed=8.90h
+[2026-08-29 01:52:50] poll: tier2 ckpt=66/70  elapsed=8.92h
+[2026-08-29 01:53:50] poll: tier2 ckpt=66/70  elapsed=8.94h
+[2026-08-29 01:54:50] poll: tier2 ckpt=67/70  elapsed=8.95h
+[2026-08-29 01:55:50] poll: tier2 ckpt=67/70  elapsed=8.97h
+[2026-08-29 01:56:50] poll: tier2 ckpt=67/70  elapsed=8.99h
+[2026-08-29 01:57:50] poll: tier2 ckpt=67/70  elapsed=9.00h
+[2026-08-29 01:58:50] poll: tier2 ckpt=67/70  elapsed=9.02h
+[2026-08-29 01:59:50] poll: tier2 ckpt=67/70  elapsed=9.04h
+[2026-08-29 02:00:50] poll: tier2 ckpt=67/70  elapsed=9.05h
+[2026-08-29 02:01:50] poll: tier2 ckpt=67/70  elapsed=9.07h
+[2026-08-29 02:02:50] poll: tier2 ckpt=67/70  elapsed=9.09h
+[2026-08-29 02:03:50] poll: tier2 ckpt=67/70  elapsed=9.10h
+[2026-08-29 02:04:50] poll: tier2 ckpt=67/70  elapsed=9.12h
+[2026-08-29 02:05:50] poll: tier2 ckpt=67/70  elapsed=9.14h
+[2026-08-29 02:06:50] poll: tier2 ckpt=67/70  elapsed=9.15h
+[2026-08-29 02:07:50] poll: tier2 ckpt=67/70  elapsed=9.17h
+[2026-08-29 02:08:50] poll: tier2 ckpt=67/70  elapsed=9.19h
+[2026-08-29 02:09:50] poll: tier2 ckpt=67/70  elapsed=9.20h
+[2026-08-29 02:10:50] poll: tier2 ckpt=67/70  elapsed=9.22h
+[2026-08-29 02:11:50] poll: tier2 ckpt=67/70  elapsed=9.24h
+[2026-08-29 02:12:50] poll: tier2 ckpt=67/70  elapsed=9.25h
+[2026-08-29 02:13:50] poll: tier2 ckpt=67/70  elapsed=9.27h
+[2026-08-29 02:14:50] poll: tier2 ckpt=67/70  elapsed=9.29h
+[2026-08-29 02:15:50] poll: tier2 ckpt=67/70  elapsed=9.30h
+[2026-08-29 02:16:50] poll: tier2 ckpt=67/70  elapsed=9.32h
+[2026-08-29 02:17:50] poll: tier2 ckpt=68/70  elapsed=9.34h
+[2026-08-29 02:18:50] poll: tier2 ckpt=68/70  elapsed=9.35h
+[2026-08-29 02:19:50] poll: tier2 ckpt=68/70  elapsed=9.37h
+[2026-08-29 02:20:50] poll: tier2 ckpt=69/70  elapsed=9.39h
+[2026-08-29 02:21:50] poll: tier2 ckpt=69/70  elapsed=9.40h
+[2026-08-29 02:22:50] poll: tier2 ckpt=69/70  elapsed=9.42h
+[2026-08-29 02:23:50] poll: tier2 ckpt=69/70  elapsed=9.44h
+[2026-08-29 02:24:50] poll: tier2 ckpt=69/70  elapsed=9.45h
+[2026-08-29 02:25:50] poll: tier2 ckpt=69/70  elapsed=9.47h
+[2026-08-29 02:26:50] poll: tier2 ckpt=69/70  elapsed=9.49h
+[2026-08-29 02:27:50] poll: tier2 ckpt=69/70  elapsed=9.50h
+[2026-08-29 02:28:50] poll: tier2 ckpt=69/70  elapsed=9.52h
+[2026-08-29 02:29:50] poll: tier2 ckpt=69/70  elapsed=9.54h
+[2026-08-29 02:30:50] poll: tier2 ckpt=69/70  elapsed=9.55h
+[2026-08-29 02:31:50] poll: tier2 ckpt=69/70  elapsed=9.57h
+[2026-08-29 02:32:50] poll: tier2 ckpt=69/70  elapsed=9.59h
+[2026-08-29 02:33:50] poll: tier2 ckpt=69/70  elapsed=9.60h
+[2026-08-29 02:34:50] poll: tier2 ckpt=69/70  elapsed=9.62h
+[2026-08-29 02:35:50] poll: tier2 ckpt=69/70  elapsed=9.64h
+[2026-08-29 02:36:50] poll: tier2 ckpt=69/70  elapsed=9.65h
+[2026-08-29 02:37:50] poll: tier2 ckpt=69/70  elapsed=9.67h
+[2026-08-29 02:38:50] poll: tier2 ckpt=69/70  elapsed=9.69h
+[2026-08-29 02:39:50] poll: tier2 ckpt=69/70  elapsed=9.70h
+[2026-08-29 02:40:50] poll: tier2 ckpt=69/70  elapsed=9.72h
+[2026-08-29 02:41:50] poll: tier2 ckpt=69/70  elapsed=9.74h
+[2026-08-29 02:42:50] poll: tier2 ckpt=69/70  elapsed=9.75h
+[2026-08-29 02:43:50] poll: tier2 ckpt=69/70  elapsed=9.77h
+[2026-08-29 02:44:50] poll: tier2 ckpt=69/70  elapsed=9.79h
+[2026-08-29 02:45:50] poll: tier2 ckpt=69/70  elapsed=9.80h
+[2026-08-29 02:46:50] poll: tier2 ckpt=69/70  elapsed=9.82h
+[2026-08-29 02:47:50] poll: tier2 ckpt=69/70  elapsed=9.84h
+[2026-08-29 02:48:50] poll: tier2 ckpt=69/70  elapsed=9.85h
+[2026-08-29 02:49:50] poll: tier2 ckpt=69/70  elapsed=9.87h
+[2026-08-29 02:50:50] poll: tier2 ckpt=69/70  elapsed=9.89h
+[2026-08-29 02:51:50] poll: tier2 ckpt=69/70  elapsed=9.90h
+[2026-08-29 02:52:50] poll: tier2 ckpt=69/70  elapsed=9.92h
+[2026-08-29 02:53:50] poll: tier2 ckpt=69/70  elapsed=9.94h
+[2026-08-29 02:54:50] poll: tier2 ckpt=69/70  elapsed=9.95h
+[2026-08-29 02:55:50] poll: tier2 ckpt=69/70  elapsed=9.97h
+[2026-08-29 02:56:50] poll: tier2 ckpt=69/70  elapsed=9.99h
+[2026-08-29 02:57:50] poll: tier2 ckpt=69/70  elapsed=10.00h
+[2026-08-29 02:58:50] poll: tier2 ckpt=69/70  elapsed=10.02h
+[2026-08-29 02:59:50] poll: tier2 ckpt=69/70  elapsed=10.04h
+[2026-08-29 03:00:50] poll: tier2 ckpt=69/70  elapsed=10.05h
+[2026-08-29 03:01:50] poll: tier2 ckpt=69/70  elapsed=10.07h
+[2026-08-29 03:02:50] poll: tier2 ckpt=69/70  elapsed=10.09h
+[2026-08-29 03:03:50] poll: tier2 ckpt=69/70  elapsed=10.10h
+[2026-08-29 03:04:50] poll: tier2 ckpt=69/70  elapsed=10.12h
+[2026-08-29 03:05:51] poll: tier2 ckpt=69/70  elapsed=10.14h
+[2026-08-29 03:06:51] poll: tier2 ckpt=69/70  elapsed=10.15h
+[2026-08-29 03:07:51] poll: tier2 ckpt=69/70  elapsed=10.17h
+[2026-08-29 03:08:51] poll: tier2 ckpt=69/70  elapsed=10.19h
+[2026-08-29 03:09:51] poll: tier2 ckpt=69/70  elapsed=10.20h
+[2026-08-29 03:10:51] poll: tier2 ckpt=69/70  elapsed=10.22h
+[2026-08-29 03:11:51] poll: tier2 ckpt=69/70  elapsed=10.24h
+[2026-08-29 03:12:51] poll: tier2 ckpt=69/70  elapsed=10.25h
+[2026-08-29 03:13:51] poll: tier2 ckpt=69/70  elapsed=10.27h
+[2026-08-29 03:14:51] poll: tier2 ckpt=69/70  elapsed=10.29h
+[2026-08-29 03:15:51] poll: tier2 ckpt=69/70  elapsed=10.30h
+[2026-08-29 03:16:51] poll: tier2 ckpt=69/70  elapsed=10.32h
+[2026-08-29 03:17:51] poll: tier2 ckpt=69/70  elapsed=10.34h
+[2026-08-29 03:18:51] poll: tier2 ckpt=69/70  elapsed=10.35h
+[2026-08-29 03:19:51] poll: tier2 ckpt=70/70  elapsed=10.37h
+[2026-08-29 03:19:51] Tier 2 COMPLETE (70/70). Launching ablation now.
+[2026-08-29 03:19:51] LAUNCHED ablation: cores=6  log=C:\Users\user\Desktop\Sapir\Full_SRPS-ALNS\results\ablation_run.log
+[2026-08-29 03:19:51] Switching to post-launch ablation supervision (auto-relaunch on stall).
+[2026-08-29 03:20:51] [03:20] ablation: ckpt=12/400  age=0m  workers=NO
+[2026-08-29 03:21:52] [03:21] ablation: ckpt=15/400  age=0m  workers=NO
+[2026-08-29 03:22:52] [03:22] ablation: ckpt=20/400  age=0m  workers=NO
+[2026-08-29 03:23:53] [03:23] ablation: ckpt=24/400  age=0m  workers=NO
+[2026-08-29 03:24:53] [03:24] ablation: ckpt=26/400  age=0m  workers=NO
+[2026-08-29 03:25:54] [03:25] ablation: ckpt=27/400  age=0m  workers=NO
+[2026-08-29 03:26:54] [03:26] ablation: ckpt=29/400  age=0m  workers=NO
+[2026-08-29 03:27:55] [03:27] ablation: ckpt=31/400  age=0m  workers=NO
+[2026-08-29 03:28:55] [03:28] ablation: ckpt=32/400  age=0m  workers=NO
+[2026-08-29 03:29:56] [03:29] ablation: ckpt=34/400  age=0m  workers=NO
+[2026-08-29 03:30:56] [03:30] ablation: ckpt=34/400  age=1m  workers=NO
+[2026-08-29 03:31:57] [03:31] ablation: ckpt=37/400  age=0m  workers=NO
+[2026-08-29 03:32:57] [03:32] ablation: ckpt=37/400  age=1m  workers=NO
+[2026-08-29 03:33:57] [03:33] ablation: ckpt=37/400  age=2m  workers=NO
+[2026-08-29 03:34:58] [03:34] ablation: ckpt=39/400  age=0m  workers=NO
+[2026-08-29 03:35:58] [03:35] ablation: ckpt=40/400  age=0m  workers=NO
+[2026-08-29 03:36:59] [03:36] ablation: ckpt=44/400  age=0m  workers=NO
+[2026-08-29 03:37:59] [03:37] ablation: ckpt=44/400  age=1m  workers=NO
+[2026-08-29 03:39:00] [03:39] ablation: ckpt=45/400  age=0m  workers=NO
+[2026-08-29 03:40:00] [03:40] ablation: ckpt=47/400  age=0m  workers=NO
+[2026-08-29 03:41:01] [03:41] ablation: ckpt=48/400  age=0m  workers=NO
+[2026-08-29 03:42:01] [03:42] ablation: ckpt=48/400  age=1m  workers=NO
+[2026-08-29 03:43:02] [03:43] ablation: ckpt=48/400  age=2m  workers=NO
+[2026-08-29 03:44:02] [03:44] ablation: ckpt=49/400  age=0m  workers=NO
+[2026-08-29 03:45:03] [03:45] ablation: ckpt=49/400  age=1m  workers=NO
+[2026-08-29 03:46:03] [03:46] ablation: ckpt=50/400  age=0m  workers=NO
+[2026-08-29 03:47:04] [03:47] ablation: ckpt=50/400  age=1m  workers=NO
+[2026-08-29 03:48:04] [03:48] ablation: ckpt=50/400  age=2m  workers=NO
+[2026-08-29 03:49:04] [03:49] ablation: ckpt=50/400  age=3m  workers=NO
+[2026-08-29 03:50:05] [03:50] ablation: ckpt=50/400  age=4m  workers=NO
+[2026-08-29 03:51:05] [03:51] ablation: ckpt=51/400  age=0m  workers=NO
+[2026-08-29 03:52:06] [03:52] ablation: ckpt=51/400  age=1m  workers=NO
+[2026-08-29 03:53:07] [03:53] ablation: ckpt=51/400  age=2m  workers=NO
+[2026-08-29 03:54:08] [03:54] ablation: ckpt=51/400  age=3m  workers=NO
+[2026-08-29 03:55:08] [03:55] ablation: ckpt=51/400  age=4m  workers=NO
+[2026-08-29 03:56:09] [03:56] ablation: ckpt=53/400  age=0m  workers=NO
+[2026-08-29 03:57:09] [03:57] ablation: ckpt=54/400  age=0m  workers=NO
+[2026-08-29 03:58:10] [03:58] ablation: ckpt=54/400  age=1m  workers=NO
+[2026-08-29 03:59:10] [03:59] ablation: ckpt=54/400  age=2m  workers=NO
+[2026-08-29 04:00:11] [04:00] ablation: ckpt=54/400  age=3m  workers=NO
+[2026-08-29 04:01:12] [04:01] ablation: ckpt=60/400  age=0m  workers=NO
+[2026-08-29 04:02:12] [04:02] ablation: ckpt=65/400  age=0m  workers=NO
+[2026-08-29 04:03:13] [04:03] ablation: ckpt=67/400  age=0m  workers=NO
+[2026-08-29 04:04:13] [04:04] ablation: ckpt=67/400  age=1m  workers=NO
+[2026-08-29 04:05:14] [04:05] ablation: ckpt=68/400  age=0m  workers=NO
+[2026-08-29 04:06:14] [04:06] ablation: ckpt=69/400  age=0m  workers=NO
+[2026-08-29 04:07:14] [04:07] ablation: ckpt=70/400  age=0m  workers=NO
+[2026-08-29 04:08:15] [04:08] ablation: ckpt=72/400  age=0m  workers=NO
+[2026-08-29 04:09:15] [04:09] ablation: ckpt=72/400  age=1m  workers=NO
+[2026-08-29 04:10:16] [04:10] ablation: ckpt=73/400  age=0m  workers=NO
+[2026-08-29 04:11:16] [04:11] ablation: ckpt=73/400  age=1m  workers=NO
+[2026-08-29 04:12:17] [04:12] ablation: ckpt=75/400  age=0m  workers=NO
+[2026-08-29 04:13:17] [04:13] ablation: ckpt=77/400  age=0m  workers=NO
+[2026-08-29 04:14:18] [04:14] ablation: ckpt=77/400  age=1m  workers=NO
+[2026-08-29 04:15:18] [04:15] ablation: ckpt=80/400  age=0m  workers=NO
+[2026-08-29 04:16:19] [04:16] ablation: ckpt=81/400  age=0m  workers=NO
+[2026-08-29 04:17:19] [04:17] ablation: ckpt=82/400  age=0m  workers=NO
+[2026-08-29 04:18:20] [04:18] ablation: ckpt=83/400  age=0m  workers=NO
+[2026-08-29 04:19:20] [04:19] ablation: ckpt=84/400  age=0m  workers=NO
+[2026-08-29 04:20:20] [04:20] ablation: ckpt=86/400  age=0m  workers=NO
+[2026-08-29 04:21:21] [04:21] ablation: ckpt=87/400  age=0m  workers=NO
+[2026-08-29 04:22:21] [04:22] ablation: ckpt=87/400  age=1m  workers=NO
+[2026-08-29 04:23:22] [04:23] ablation: ckpt=87/400  age=2m  workers=NO
+[2026-08-29 04:24:22] [04:24] ablation: ckpt=88/400  age=0m  workers=NO
+[2026-08-29 04:25:23] [04:25] ablation: ckpt=90/400  age=0m  workers=NO
+[2026-08-29 04:26:23] [04:26] ablation: ckpt=92/400  age=0m  workers=NO
+[2026-08-29 04:27:24] [04:27] ablation: ckpt=92/400  age=1m  workers=NO
+[2026-08-29 04:28:24] [04:28] ablation: ckpt=92/400  age=2m  workers=NO
+[2026-08-29 04:29:25] [04:29] ablation: ckpt=93/400  age=0m  workers=NO
+[2026-08-29 04:30:25] [04:30] ablation: ckpt=95/400  age=0m  workers=NO
+[2026-08-29 04:31:25] [04:31] ablation: ckpt=95/400  age=1m  workers=NO
+[2026-08-29 04:32:26] [04:32] ablation: ckpt=98/400  age=0m  workers=NO
+[2026-08-29 04:33:26] [04:33] ablation: ckpt=98/400  age=1m  workers=NO
+[2026-08-29 04:34:27] [04:34] ablation: ckpt=98/400  age=2m  workers=NO
+[2026-08-29 04:35:27] [04:35] ablation: ckpt=100/400  age=0m  workers=NO
+[2026-08-29 04:36:28] [04:36] ablation: ckpt=101/400  age=0m  workers=NO
+[2026-08-29 04:37:28] [04:37] ablation: ckpt=102/400  age=0m  workers=NO
+[2026-08-29 04:38:29] [04:38] ablation: ckpt=104/400  age=0m  workers=NO
+[2026-08-29 04:39:29] [04:39] ablation: ckpt=104/400  age=1m  workers=NO
+[2026-08-29 04:40:29] [04:40] ablation: ckpt=106/400  age=0m  workers=NO
+[2026-08-29 04:41:30] [04:41] ablation: ckpt=106/400  age=1m  workers=NO
+[2026-08-29 04:42:30] [04:42] ablation: ckpt=107/400  age=0m  workers=NO
+[2026-08-29 04:43:31] [04:43] ablation: ckpt=111/400  age=0m  workers=NO
+[2026-08-29 04:44:31] [04:44] ablation: ckpt=113/400  age=0m  workers=NO
+[2026-08-29 04:45:32] [04:45] ablation: ckpt=113/400  age=1m  workers=NO
+[2026-08-29 04:46:32] [04:46] ablation: ckpt=113/400  age=2m  workers=NO
+[2026-08-29 04:47:33] [04:47] ablation: ckpt=113/400  age=3m  workers=NO
+[2026-08-29 04:48:33] [04:48] ablation: ckpt=113/400  age=4m  workers=NO
+[2026-08-29 04:49:33] [04:49] ablation: ckpt=115/400  age=0m  workers=NO
+[2026-08-29 04:50:34] [04:50] ablation: ckpt=116/400  age=0m  workers=NO
+[2026-08-29 04:51:34] [04:51] ablation: ckpt=117/400  age=0m  workers=NO
+[2026-08-29 04:52:35] [04:52] ablation: ckpt=118/400  age=0m  workers=NO
+[2026-08-29 04:53:35] [04:53] ablation: ckpt=119/400  age=0m  workers=NO
+[2026-08-29 04:54:36] [04:54] ablation: ckpt=120/400  age=0m  workers=NO
+[2026-08-29 04:55:36] [04:55] ablation: ckpt=121/400  age=0m  workers=NO
+[2026-08-29 04:56:37] [04:56] ablation: ckpt=124/400  age=0m  workers=NO
+[2026-08-29 04:57:37] [04:57] ablation: ckpt=126/400  age=0m  workers=NO
+[2026-08-29 04:58:38] [04:58] ablation: ckpt=126/400  age=1m  workers=NO
+[2026-08-29 04:59:38] [04:59] ablation: ckpt=128/400  age=0m  workers=NO
+[2026-08-29 05:00:39] [05:00] ablation: ckpt=128/400  age=1m  workers=NO
+[2026-08-29 05:01:39] [05:01] ablation: ckpt=128/400  age=2m  workers=NO
+[2026-08-29 05:02:39] [05:02] ablation: ckpt=130/400  age=0m  workers=NO
+[2026-08-29 05:03:40] [05:03] ablation: ckpt=130/400  age=1m  workers=NO
+[2026-08-29 05:04:40] [05:04] ablation: ckpt=132/400  age=0m  workers=NO
+[2026-08-29 05:05:41] [05:05] ablation: ckpt=132/400  age=1m  workers=NO
+[2026-08-29 05:06:41] [05:06] ablation: ckpt=132/400  age=2m  workers=NO
+[2026-08-29 05:07:42] [05:07] ablation: ckpt=134/400  age=0m  workers=NO
+[2026-08-29 05:08:42] [05:08] ablation: ckpt=134/400  age=1m  workers=NO
+[2026-08-29 05:09:43] [05:09] ablation: ckpt=136/400  age=0m  workers=NO
+[2026-08-29 05:10:43] [05:10] ablation: ckpt=137/400  age=0m  workers=NO
+[2026-08-29 05:11:43] [05:11] ablation: ckpt=138/400  age=0m  workers=NO
+[2026-08-29 05:12:44] [05:12] ablation: ckpt=141/400  age=0m  workers=NO
+[2026-08-29 05:13:44] [05:13] ablation: ckpt=142/400  age=0m  workers=NO
+[2026-08-29 05:14:45] [05:14] ablation: ckpt=145/400  age=0m  workers=NO
+[2026-08-29 05:15:45] [05:15] ablation: ckpt=145/400  age=1m  workers=NO
+[2026-08-29 05:16:46] [05:16] ablation: ckpt=148/400  age=0m  workers=NO
+[2026-08-29 05:17:46] [05:17] ablation: ckpt=152/400  age=0m  workers=NO
+[2026-08-29 05:18:47] [05:18] ablation: ckpt=152/400  age=1m  workers=NO
+[2026-08-29 05:19:47] [05:19] ablation: ckpt=154/400  age=0m  workers=NO
+[2026-08-29 05:20:48] [05:20] ablation: ckpt=155/400  age=0m  workers=NO
+[2026-08-29 05:21:48] [05:21] ablation: ckpt=156/400  age=0m  workers=NO
+[2026-08-29 05:22:49] [05:22] ablation: ckpt=157/400  age=0m  workers=NO
+[2026-08-29 05:23:49] [05:23] ablation: ckpt=158/400  age=0m  workers=NO
+[2026-08-29 05:24:49] [05:24] ablation: ckpt=158/400  age=1m  workers=NO
+[2026-08-29 05:25:50] [05:25] ablation: ckpt=161/400  age=0m  workers=NO
+[2026-08-29 05:26:51] [05:26] ablation: ckpt=163/400  age=0m  workers=NO
+[2026-08-29 05:27:51] [05:27] ablation: ckpt=166/400  age=0m  workers=NO
+[2026-08-29 05:28:51] [05:28] ablation: ckpt=167/400  age=0m  workers=NO
+[2026-08-29 05:29:52] [05:29] ablation: ckpt=168/400  age=0m  workers=NO
+[2026-08-29 05:30:52] [05:30] ablation: ckpt=168/400  age=1m  workers=NO
+[2026-08-29 05:31:53] [05:31] ablation: ckpt=168/400  age=2m  workers=NO
+[2026-08-29 05:32:53] [05:32] ablation: ckpt=169/400  age=0m  workers=NO
+[2026-08-29 05:33:54] [05:33] ablation: ckpt=169/400  age=1m  workers=NO
+[2026-08-29 05:34:54] [05:34] ablation: ckpt=170/400  age=0m  workers=NO
+[2026-08-29 05:35:55] [05:35] ablation: ckpt=170/400  age=1m  workers=NO
+[2026-08-29 05:36:55] [05:36] ablation: ckpt=170/400  age=2m  workers=NO
+[2026-08-29 05:37:55] [05:37] ablation: ckpt=170/400  age=3m  workers=NO
+[2026-08-29 05:38:56] [05:38] ablation: ckpt=170/400  age=4m  workers=NO
+[2026-08-29 05:39:56] [05:39] ablation: ckpt=170/400  age=5m  workers=NO
+[2026-08-29 05:40:57] [05:40] ablation: ckpt=170/400  age=6m  workers=NO
+[2026-08-29 05:40:57]   STALLED (age=384s, no_progress=362s). Autofixing.
+[2026-08-29 05:40:57] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 05:41:57] [05:41] ablation: ckpt=170/400  age=7m  workers=NO
+[2026-08-29 05:42:58] [05:42] ablation: ckpt=170/400  age=8m  workers=NO
+[2026-08-29 05:43:58] [05:43] ablation: ckpt=170/400  age=9m  workers=NO
+[2026-08-29 05:44:59] [05:44] ablation: ckpt=170/400  age=10m  workers=NO
+[2026-08-29 05:45:59] [05:45] ablation: ckpt=170/400  age=11m  workers=NO
+[2026-08-29 05:46:59] [05:46] ablation: ckpt=170/400  age=12m  workers=NO
+[2026-08-29 05:46:59]   STALLED (age=746s, no_progress=362s). Autofixing.
+[2026-08-29 05:46:59] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 05:48:00] [05:48] ablation: ckpt=171/400  age=0m  workers=NO
+[2026-08-29 05:49:00] [05:49] ablation: ckpt=173/400  age=0m  workers=NO
+[2026-08-29 05:50:01] [05:50] ablation: ckpt=174/400  age=0m  workers=NO
+[2026-08-29 05:51:01] [05:51] ablation: ckpt=174/400  age=1m  workers=NO
+[2026-08-29 05:52:02] [05:52] ablation: ckpt=174/400  age=2m  workers=NO
+[2026-08-29 05:53:02] [05:53] ablation: ckpt=175/400  age=0m  workers=NO
+[2026-08-29 05:54:03] [05:54] ablation: ckpt=175/400  age=1m  workers=NO
+[2026-08-29 05:55:03] [05:55] ablation: ckpt=176/400  age=0m  workers=NO
+[2026-08-29 05:56:03] [05:56] ablation: ckpt=176/400  age=1m  workers=NO
+[2026-08-29 05:57:04] [05:57] ablation: ckpt=176/400  age=2m  workers=NO
+[2026-08-29 05:58:04] [05:58] ablation: ckpt=176/400  age=3m  workers=NO
+[2026-08-29 05:59:05] [05:59] ablation: ckpt=176/400  age=4m  workers=NO
+[2026-08-29 06:00:05] [06:00] ablation: ckpt=176/400  age=5m  workers=NO
+[2026-08-29 06:01:05] [06:01] ablation: ckpt=176/400  age=6m  workers=NO
+[2026-08-29 06:01:05]   STALLED (age=371s, no_progress=362s). Autofixing.
+[2026-08-29 06:01:06] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 06:02:06] [06:02] ablation: ckpt=176/400  age=7m  workers=NO
+[2026-08-29 06:03:06] [06:03] ablation: ckpt=176/400  age=8m  workers=NO
+[2026-08-29 06:04:07] [06:04] ablation: ckpt=176/400  age=9m  workers=NO
+[2026-08-29 06:05:07] [06:05] ablation: ckpt=176/400  age=10m  workers=NO
+[2026-08-29 06:06:08] [06:06] ablation: ckpt=177/400  age=0m  workers=NO
+[2026-08-29 06:07:08] [06:07] ablation: ckpt=177/400  age=1m  workers=NO
+[2026-08-29 06:08:09] [06:08] ablation: ckpt=179/400  age=0m  workers=NO
+[2026-08-29 06:09:09] [06:09] ablation: ckpt=181/400  age=0m  workers=NO
+[2026-08-29 06:10:10] [06:10] ablation: ckpt=182/400  age=0m  workers=NO
+[2026-08-29 06:11:10] [06:11] ablation: ckpt=183/400  age=0m  workers=NO
+[2026-08-29 06:12:11] [06:12] ablation: ckpt=183/400  age=1m  workers=NO
+[2026-08-29 06:13:11] [06:13] ablation: ckpt=183/400  age=2m  workers=NO
+[2026-08-29 06:14:11] [06:14] ablation: ckpt=183/400  age=3m  workers=NO
+[2026-08-29 06:15:12] [06:15] ablation: ckpt=184/400  age=0m  workers=NO
+[2026-08-29 06:16:12] [06:16] ablation: ckpt=185/400  age=0m  workers=NO
+[2026-08-29 06:17:13] [06:17] ablation: ckpt=185/400  age=1m  workers=NO
+[2026-08-29 06:18:13] [06:18] ablation: ckpt=185/400  age=2m  workers=NO
+[2026-08-29 06:19:14] [06:19] ablation: ckpt=188/400  age=0m  workers=NO
+[2026-08-29 06:20:14] [06:20] ablation: ckpt=188/400  age=1m  workers=NO
+[2026-08-29 06:21:15] [06:21] ablation: ckpt=188/400  age=2m  workers=NO
+[2026-08-29 06:22:15] [06:22] ablation: ckpt=188/400  age=3m  workers=NO
+[2026-08-29 06:23:16] [06:23] ablation: ckpt=188/400  age=4m  workers=NO
+[2026-08-29 06:24:16] [06:24] ablation: ckpt=189/400  age=0m  workers=NO
+[2026-08-29 06:25:17] [06:25] ablation: ckpt=189/400  age=1m  workers=NO
+[2026-08-29 06:26:17] [06:26] ablation: ckpt=190/400  age=0m  workers=NO
+[2026-08-29 06:27:17] [06:27] ablation: ckpt=190/400  age=1m  workers=NO
+[2026-08-29 06:28:18] [06:28] ablation: ckpt=190/400  age=2m  workers=NO
+[2026-08-29 06:29:18] [06:29] ablation: ckpt=190/400  age=3m  workers=NO
+[2026-08-29 06:30:19] [06:30] ablation: ckpt=190/400  age=4m  workers=NO
+[2026-08-29 06:31:19] [06:31] ablation: ckpt=190/400  age=5m  workers=NO
+[2026-08-29 06:32:20] [06:32] ablation: ckpt=190/400  age=6m  workers=NO
+[2026-08-29 06:32:20]   STALLED (age=377s, no_progress=362s). Autofixing.
+[2026-08-29 06:32:20] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 06:33:20] [06:33] ablation: ckpt=190/400  age=7m  workers=NO
+[2026-08-29 06:34:21] [06:34] ablation: ckpt=190/400  age=8m  workers=NO
+[2026-08-29 06:35:21] [06:35] ablation: ckpt=190/400  age=9m  workers=NO
+[2026-08-29 06:36:21] [06:36] ablation: ckpt=190/400  age=10m  workers=NO
+[2026-08-29 06:37:22] [06:37] ablation: ckpt=190/400  age=11m  workers=NO
+[2026-08-29 06:38:22] [06:38] ablation: ckpt=190/400  age=12m  workers=NO
+[2026-08-29 06:38:22]   STALLED (age=739s, no_progress=362s). Autofixing.
+[2026-08-29 06:38:22] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 06:39:23] [06:39] ablation: ckpt=190/400  age=13m  workers=NO
+[2026-08-29 06:40:23] [06:40] ablation: ckpt=193/400  age=0m  workers=NO
+[2026-08-29 06:41:24] [06:41] ablation: ckpt=193/400  age=1m  workers=NO
+[2026-08-29 06:42:24] [06:42] ablation: ckpt=193/400  age=2m  workers=NO
+[2026-08-29 06:43:24] [06:43] ablation: ckpt=193/400  age=3m  workers=NO
+[2026-08-29 06:44:25] [06:44] ablation: ckpt=193/400  age=4m  workers=NO
+[2026-08-29 06:45:25] [06:45] ablation: ckpt=194/400  age=0m  workers=NO
+[2026-08-29 06:46:26] [06:46] ablation: ckpt=194/400  age=1m  workers=NO
+[2026-08-29 06:47:26] [06:47] ablation: ckpt=195/400  age=0m  workers=NO
+[2026-08-29 06:48:27] [06:48] ablation: ckpt=195/400  age=1m  workers=NO
+[2026-08-29 06:49:27] [06:49] ablation: ckpt=195/400  age=2m  workers=NO
+[2026-08-29 06:50:28] [06:50] ablation: ckpt=195/400  age=3m  workers=NO
+[2026-08-29 06:51:28] [06:51] ablation: ckpt=195/400  age=4m  workers=NO
+[2026-08-29 06:52:28] [06:52] ablation: ckpt=196/400  age=0m  workers=NO
+[2026-08-29 06:53:29] [06:53] ablation: ckpt=196/400  age=1m  workers=NO
+[2026-08-29 06:54:29] [06:54] ablation: ckpt=196/400  age=2m  workers=NO
+[2026-08-29 06:55:30] [06:55] ablation: ckpt=196/400  age=3m  workers=NO
+[2026-08-29 06:56:30] [06:56] ablation: ckpt=196/400  age=4m  workers=NO
+[2026-08-29 06:57:31] [06:57] ablation: ckpt=198/400  age=0m  workers=NO
+[2026-08-29 06:58:31] [06:58] ablation: ckpt=198/400  age=1m  workers=NO
+[2026-08-29 06:59:32] [06:59] ablation: ckpt=199/400  age=0m  workers=NO
+[2026-08-29 07:00:32] [07:00] ablation: ckpt=199/400  age=1m  workers=NO
+[2026-08-29 07:01:32] [07:01] ablation: ckpt=199/400  age=2m  workers=NO
+[2026-08-29 07:02:33] [07:02] ablation: ckpt=201/400  age=0m  workers=NO
+[2026-08-29 07:03:33] [07:03] ablation: ckpt=201/400  age=1m  workers=NO
+[2026-08-29 07:04:34] [07:04] ablation: ckpt=201/400  age=2m  workers=NO
+[2026-08-29 07:05:34] [07:05] ablation: ckpt=201/400  age=3m  workers=NO
+[2026-08-29 07:06:35] [07:06] ablation: ckpt=202/400  age=0m  workers=NO
+[2026-08-29 07:07:35] [07:07] ablation: ckpt=204/400  age=0m  workers=NO
+[2026-08-29 07:08:36] [07:08] ablation: ckpt=204/400  age=1m  workers=NO
+[2026-08-29 07:09:36] [07:09] ablation: ckpt=204/400  age=2m  workers=NO
+[2026-08-29 07:10:36] [07:10] ablation: ckpt=205/400  age=0m  workers=NO
+[2026-08-29 07:11:37] [07:11] ablation: ckpt=207/400  age=0m  workers=NO
+[2026-08-29 07:12:37] [07:12] ablation: ckpt=208/400  age=0m  workers=NO
+[2026-08-29 07:13:38] [07:13] ablation: ckpt=208/400  age=1m  workers=NO
+[2026-08-29 07:14:38] [07:14] ablation: ckpt=208/400  age=2m  workers=NO
+[2026-08-29 07:15:39] [07:15] ablation: ckpt=209/400  age=0m  workers=NO
+[2026-08-29 07:16:39] [07:16] ablation: ckpt=211/400  age=0m  workers=NO
+[2026-08-29 07:17:40] [07:17] ablation: ckpt=213/400  age=0m  workers=NO
+[2026-08-29 07:18:40] [07:18] ablation: ckpt=213/400  age=1m  workers=NO
+[2026-08-29 07:19:41] [07:19] ablation: ckpt=213/400  age=2m  workers=NO
+[2026-08-29 07:20:41] [07:20] ablation: ckpt=213/400  age=3m  workers=NO
+[2026-08-29 07:21:42] [07:21] ablation: ckpt=214/400  age=0m  workers=NO
+[2026-08-29 07:22:42] [07:22] ablation: ckpt=218/400  age=0m  workers=NO
+[2026-08-29 07:23:43] [07:23] ablation: ckpt=218/400  age=1m  workers=NO
+[2026-08-29 07:24:43] [07:24] ablation: ckpt=218/400  age=2m  workers=NO
+[2026-08-29 07:25:44] [07:25] ablation: ckpt=218/400  age=3m  workers=NO
+[2026-08-29 07:26:44] [07:26] ablation: ckpt=218/400  age=4m  workers=NO
+[2026-08-29 07:27:44] [07:27] ablation: ckpt=218/400  age=5m  workers=NO
+[2026-08-29 07:28:45] [07:28] ablation: ckpt=218/400  age=6m  workers=NO
+[2026-08-29 07:28:45]   STALLED (age=379s, no_progress=362s). Autofixing.
+[2026-08-29 07:28:45] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 07:29:45] [07:29] ablation: ckpt=218/400  age=7m  workers=NO
+[2026-08-29 07:30:46] [07:30] ablation: ckpt=218/400  age=8m  workers=NO
+[2026-08-29 07:31:46] [07:31] ablation: ckpt=219/400  age=0m  workers=NO
+[2026-08-29 07:32:47] [07:32] ablation: ckpt=219/400  age=1m  workers=NO
+[2026-08-29 07:33:47] [07:33] ablation: ckpt=219/400  age=2m  workers=NO
+[2026-08-29 07:34:47] [07:34] ablation: ckpt=219/400  age=3m  workers=NO
+[2026-08-29 07:35:48] [07:35] ablation: ckpt=219/400  age=4m  workers=NO
+[2026-08-29 07:36:48] [07:36] ablation: ckpt=220/400  age=0m  workers=NO
+[2026-08-29 07:37:49] [07:37] ablation: ckpt=220/400  age=1m  workers=NO
+[2026-08-29 07:38:49] [07:38] ablation: ckpt=220/400  age=2m  workers=NO
+[2026-08-29 07:39:50] [07:39] ablation: ckpt=220/400  age=3m  workers=NO
+[2026-08-29 07:40:50] [07:40] ablation: ckpt=220/400  age=4m  workers=NO
+[2026-08-29 07:41:51] [07:41] ablation: ckpt=220/400  age=5m  workers=NO
+[2026-08-29 07:42:51] [07:42] ablation: ckpt=220/400  age=6m  workers=NO
+[2026-08-29 07:42:51]   STALLED (age=390s, no_progress=362s). Autofixing.
+[2026-08-29 07:42:51] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 07:43:51] [07:43] ablation: ckpt=220/400  age=7m  workers=NO
+[2026-08-29 07:44:52] [07:44] ablation: ckpt=224/400  age=0m  workers=NO
+[2026-08-29 07:45:52] [07:45] ablation: ckpt=224/400  age=1m  workers=NO
+[2026-08-29 07:46:53] [07:46] ablation: ckpt=224/400  age=2m  workers=NO
+[2026-08-29 07:47:53] [07:47] ablation: ckpt=224/400  age=3m  workers=NO
+[2026-08-29 07:48:54] [07:48] ablation: ckpt=224/400  age=4m  workers=NO
+[2026-08-29 07:49:54] [07:49] ablation: ckpt=224/400  age=5m  workers=NO
+[2026-08-29 07:50:55] [07:50] ablation: ckpt=224/400  age=6m  workers=NO
+[2026-08-29 07:50:55]   STALLED (age=380s, no_progress=362s). Autofixing.
+[2026-08-29 07:50:55] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 07:51:55] [07:51] ablation: ckpt=224/400  age=7m  workers=NO
+[2026-08-29 07:52:56] [07:52] ablation: ckpt=224/400  age=8m  workers=NO
+[2026-08-29 07:53:56] [07:53] ablation: ckpt=225/400  age=0m  workers=NO
+[2026-08-29 07:54:56] [07:54] ablation: ckpt=225/400  age=1m  workers=NO
+[2026-08-29 07:55:57] [07:55] ablation: ckpt=225/400  age=2m  workers=NO
+[2026-08-29 07:56:57] [07:56] ablation: ckpt=225/400  age=3m  workers=NO
+[2026-08-29 07:57:58] [07:57] ablation: ckpt=225/400  age=4m  workers=NO
+[2026-08-29 07:58:58] [07:58] ablation: ckpt=226/400  age=0m  workers=NO
+[2026-08-29 07:59:59] [07:59] ablation: ckpt=226/400  age=1m  workers=NO
+[2026-08-29 08:00:59] [08:00] ablation: ckpt=226/400  age=2m  workers=NO
+[2026-08-29 08:02:00] [08:02] ablation: ckpt=226/400  age=3m  workers=NO
+[2026-08-29 08:03:00] [08:03] ablation: ckpt=226/400  age=4m  workers=NO
+[2026-08-29 08:04:00] [08:04] ablation: ckpt=226/400  age=5m  workers=NO
+[2026-08-29 08:05:01] [08:05] ablation: ckpt=228/400  age=0m  workers=NO
+[2026-08-29 08:06:01] [08:06] ablation: ckpt=228/400  age=1m  workers=NO
+[2026-08-29 08:07:02] [08:07] ablation: ckpt=230/400  age=0m  workers=NO
+[2026-08-29 08:08:02] [08:08] ablation: ckpt=230/400  age=1m  workers=NO
+[2026-08-29 08:09:03] [08:09] ablation: ckpt=230/400  age=2m  workers=NO
+[2026-08-29 08:10:03] [08:10] ablation: ckpt=231/400  age=0m  workers=NO
+[2026-08-29 08:11:03] [08:11] ablation: ckpt=231/400  age=1m  workers=NO
+[2026-08-29 08:12:04] [08:12] ablation: ckpt=231/400  age=2m  workers=NO
+[2026-08-29 08:13:04] [08:13] ablation: ckpt=231/400  age=3m  workers=NO
+[2026-08-29 08:14:05] [08:14] ablation: ckpt=231/400  age=4m  workers=NO
+[2026-08-29 08:15:05] [08:15] ablation: ckpt=231/400  age=5m  workers=NO
+[2026-08-29 08:16:06] [08:16] ablation: ckpt=231/400  age=6m  workers=NO
+[2026-08-29 08:16:06]   STALLED (age=394s, no_progress=362s). Autofixing.
+[2026-08-29 08:16:06] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 08:17:06] [08:17] ablation: ckpt=232/400  age=0m  workers=NO
+[2026-08-29 08:18:07] [08:18] ablation: ckpt=232/400  age=1m  workers=NO
+[2026-08-29 08:19:07] [08:19] ablation: ckpt=232/400  age=2m  workers=NO
+[2026-08-29 08:20:08] [08:20] ablation: ckpt=232/400  age=3m  workers=NO
+[2026-08-29 08:21:08] [08:21] ablation: ckpt=232/400  age=4m  workers=NO
+[2026-08-29 08:22:08] [08:22] ablation: ckpt=232/400  age=5m  workers=NO
+[2026-08-29 08:23:09] [08:23] ablation: ckpt=233/400  age=0m  workers=NO
+[2026-08-29 08:24:09] [08:24] ablation: ckpt=233/400  age=1m  workers=NO
+[2026-08-29 08:25:10] [08:25] ablation: ckpt=233/400  age=2m  workers=NO
+[2026-08-29 08:26:10] [08:26] ablation: ckpt=233/400  age=3m  workers=NO
+[2026-08-29 08:27:11] [08:27] ablation: ckpt=233/400  age=4m  workers=NO
+[2026-08-29 08:28:11] [08:28] ablation: ckpt=233/400  age=5m  workers=NO
+[2026-08-29 08:29:12] [08:29] ablation: ckpt=233/400  age=6m  workers=NO
+[2026-08-29 08:29:12]   STALLED (age=419s, no_progress=362s). Autofixing.
+[2026-08-29 08:29:12] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 08:30:12] [08:30] ablation: ckpt=233/400  age=8m  workers=NO
+[2026-08-29 08:31:13] [08:31] ablation: ckpt=233/400  age=9m  workers=NO
+[2026-08-29 08:32:13] [08:32] ablation: ckpt=234/400  age=0m  workers=NO
+[2026-08-29 08:33:13] [08:33] ablation: ckpt=234/400  age=1m  workers=NO
+[2026-08-29 08:34:14] [08:34] ablation: ckpt=235/400  age=0m  workers=NO
+[2026-08-29 08:35:14] [08:35] ablation: ckpt=235/400  age=1m  workers=NO
+[2026-08-29 08:36:15] [08:36] ablation: ckpt=235/400  age=2m  workers=NO
+[2026-08-29 08:37:15] [08:37] ablation: ckpt=237/400  age=0m  workers=NO
+[2026-08-29 08:38:16] [08:38] ablation: ckpt=237/400  age=1m  workers=NO
+[2026-08-29 08:39:16] [08:39] ablation: ckpt=239/400  age=0m  workers=NO
+[2026-08-29 08:40:17] [08:40] ablation: ckpt=239/400  age=1m  workers=NO
+[2026-08-29 08:41:17] [08:41] ablation: ckpt=240/400  age=0m  workers=NO
+[2026-08-29 08:42:17] [08:42] ablation: ckpt=241/400  age=0m  workers=NO
+[2026-08-29 08:43:18] [08:43] ablation: ckpt=242/400  age=0m  workers=NO
+[2026-08-29 08:44:18] [08:44] ablation: ckpt=242/400  age=1m  workers=NO
+[2026-08-29 08:45:19] [08:45] ablation: ckpt=244/400  age=0m  workers=NO
+[2026-08-29 08:46:19] [08:46] ablation: ckpt=245/400  age=0m  workers=NO
+[2026-08-29 08:47:20] [08:47] ablation: ckpt=246/400  age=0m  workers=NO
+[2026-08-29 08:48:20] [08:48] ablation: ckpt=248/400  age=0m  workers=NO
+[2026-08-29 08:49:21] [08:49] ablation: ckpt=248/400  age=1m  workers=NO
+[2026-08-29 08:50:21] [08:50] ablation: ckpt=249/400  age=0m  workers=NO
+[2026-08-29 08:51:22] [08:51] ablation: ckpt=250/400  age=0m  workers=NO
+[2026-08-29 08:52:22] [08:52] ablation: ckpt=250/400  age=1m  workers=NO
+[2026-08-29 08:53:23] [08:53] ablation: ckpt=250/400  age=2m  workers=NO
+[2026-08-29 08:54:23] [08:54] ablation: ckpt=250/400  age=3m  workers=NO
+[2026-08-29 08:55:24] [08:55] ablation: ckpt=250/400  age=4m  workers=NO
+[2026-08-29 08:56:24] [08:56] ablation: ckpt=250/400  age=5m  workers=NO
+[2026-08-29 08:57:24] [08:57] ablation: ckpt=250/400  age=7m  workers=NO
+[2026-08-29 08:57:24]   STALLED (age=420s, no_progress=362s). Autofixing.
+[2026-08-29 08:57:24] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 08:58:25] [08:58] ablation: ckpt=250/400  age=8m  workers=NO
+[2026-08-29 08:59:25] [08:59] ablation: ckpt=250/400  age=9m  workers=NO
+[2026-08-29 09:00:26] [09:00] ablation: ckpt=250/400  age=10m  workers=NO
+[2026-08-29 09:01:26] [09:01] ablation: ckpt=250/400  age=11m  workers=NO
+[2026-08-29 09:02:27] [09:02] ablation: ckpt=250/400  age=12m  workers=NO
+[2026-08-29 09:03:27] [09:03] ablation: ckpt=250/400  age=13m  workers=NO
+[2026-08-29 09:03:27]   STALLED (age=782s, no_progress=362s). Autofixing.
+[2026-08-29 09:03:27] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 09:04:28] [09:04] ablation: ckpt=250/400  age=14m  workers=NO
+[2026-08-29 09:05:28] [09:05] ablation: ckpt=250/400  age=15m  workers=NO
+[2026-08-29 09:06:28] [09:06] ablation: ckpt=250/400  age=16m  workers=NO
+[2026-08-29 09:07:29] [09:07] ablation: ckpt=250/400  age=17m  workers=NO
+[2026-08-29 09:08:29] [09:08] ablation: ckpt=250/400  age=18m  workers=NO
+[2026-08-29 09:09:30] [09:09] ablation: ckpt=250/400  age=19m  workers=NO
+[2026-08-29 09:09:30]   STALLED (age=1145s, no_progress=362s). Autofixing.
+[2026-08-29 09:09:30] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 09:10:30] [09:10] ablation: ckpt=250/400  age=20m  workers=NO
+[2026-08-29 09:11:31] [09:11] ablation: ckpt=251/400  age=0m  workers=NO
+[2026-08-29 09:12:31] [09:12] ablation: ckpt=251/400  age=1m  workers=NO
+[2026-08-29 09:13:32] [09:13] ablation: ckpt=251/400  age=2m  workers=NO
+[2026-08-29 09:14:32] [09:14] ablation: ckpt=251/400  age=3m  workers=NO
+[2026-08-29 09:15:32] [09:15] ablation: ckpt=251/400  age=4m  workers=NO
+[2026-08-29 09:16:33] [09:16] ablation: ckpt=251/400  age=5m  workers=NO
+[2026-08-29 09:17:33] [09:17] ablation: ckpt=252/400  age=0m  workers=NO
+[2026-08-29 09:18:34] [09:18] ablation: ckpt=254/400  age=0m  workers=NO
+[2026-08-29 09:19:34] [09:19] ablation: ckpt=254/400  age=1m  workers=NO
+[2026-08-29 09:20:35] [09:20] ablation: ckpt=254/400  age=2m  workers=NO
+[2026-08-29 09:21:35] [09:21] ablation: ckpt=254/400  age=3m  workers=NO
+[2026-08-29 09:22:36] [09:22] ablation: ckpt=255/400  age=0m  workers=NO
+[2026-08-29 09:23:36] [09:23] ablation: ckpt=255/400  age=2m  workers=NO
+[2026-08-29 09:24:37] [09:24] ablation: ckpt=255/400  age=3m  workers=NO
+[2026-08-29 09:25:37] [09:25] ablation: ckpt=256/400  age=0m  workers=NO
+[2026-08-29 09:26:38] [09:26] ablation: ckpt=256/400  age=1m  workers=NO
+[2026-08-29 09:27:38] [09:27] ablation: ckpt=257/400  age=0m  workers=NO
+[2026-08-29 09:28:39] [09:28] ablation: ckpt=257/400  age=1m  workers=NO
+[2026-08-29 09:29:39] [09:29] ablation: ckpt=257/400  age=2m  workers=NO
+[2026-08-29 09:30:40] [09:30] ablation: ckpt=257/400  age=3m  workers=NO
+[2026-08-29 09:31:40] [09:31] ablation: ckpt=258/400  age=0m  workers=NO
+[2026-08-29 09:32:41] [09:32] ablation: ckpt=258/400  age=1m  workers=NO
+[2026-08-29 09:33:41] [09:33] ablation: ckpt=259/400  age=0m  workers=NO
+[2026-08-29 09:34:42] [09:34] ablation: ckpt=260/400  age=0m  workers=NO
+[2026-08-29 09:35:42] [09:35] ablation: ckpt=260/400  age=1m  workers=NO
+[2026-08-29 09:36:43] [09:36] ablation: ckpt=261/400  age=0m  workers=NO
+[2026-08-29 09:37:43] [09:37] ablation: ckpt=261/400  age=1m  workers=NO
+[2026-08-29 09:38:43] [09:38] ablation: ckpt=261/400  age=2m  workers=NO
+[2026-08-29 09:39:44] [09:39] ablation: ckpt=263/400  age=0m  workers=NO
+[2026-08-29 09:40:44] [09:40] ablation: ckpt=263/400  age=1m  workers=NO
+[2026-08-29 09:41:45] [09:41] ablation: ckpt=263/400  age=2m  workers=NO
+[2026-08-29 09:42:45] [09:42] ablation: ckpt=264/400  age=0m  workers=NO
+[2026-08-29 09:43:46] [09:43] ablation: ckpt=264/400  age=1m  workers=NO
+[2026-08-29 09:44:46] [09:44] ablation: ckpt=264/400  age=2m  workers=NO
+[2026-08-29 09:45:46] [09:45] ablation: ckpt=266/400  age=0m  workers=NO
+[2026-08-29 09:46:47] [09:46] ablation: ckpt=266/400  age=1m  workers=NO
+[2026-08-29 09:47:47] [09:47] ablation: ckpt=267/400  age=0m  workers=NO
+[2026-08-29 09:48:48] [09:48] ablation: ckpt=269/400  age=0m  workers=NO
+[2026-08-29 09:49:48] [09:49] ablation: ckpt=269/400  age=1m  workers=NO
+[2026-08-29 09:50:49] [09:50] ablation: ckpt=269/400  age=2m  workers=NO
+[2026-08-29 09:51:49] [09:51] ablation: ckpt=270/400  age=1m  workers=NO
+[2026-08-29 09:52:50] [09:52] ablation: ckpt=270/400  age=2m  workers=NO
+[2026-08-29 09:53:50] [09:53] ablation: ckpt=270/400  age=3m  workers=NO
+[2026-08-29 09:54:51] [09:54] ablation: ckpt=271/400  age=0m  workers=NO
+[2026-08-29 09:55:51] [09:55] ablation: ckpt=271/400  age=1m  workers=NO
+[2026-08-29 09:56:51] [09:56] ablation: ckpt=272/400  age=0m  workers=NO
+[2026-08-29 09:57:52] [09:57] ablation: ckpt=272/400  age=1m  workers=NO
+[2026-08-29 09:58:52] [09:58] ablation: ckpt=272/400  age=2m  workers=NO
+[2026-08-29 09:59:53] [09:59] ablation: ckpt=272/400  age=3m  workers=NO
+[2026-08-29 10:00:53] [10:00] ablation: ckpt=272/400  age=4m  workers=NO
+[2026-08-29 10:01:54] [10:01] ablation: ckpt=273/400  age=0m  workers=NO
+[2026-08-29 10:02:54] [10:02] ablation: ckpt=273/400  age=1m  workers=NO
+[2026-08-29 10:03:55] [10:03] ablation: ckpt=273/400  age=2m  workers=NO
+[2026-08-29 10:04:55] [10:04] ablation: ckpt=273/400  age=3m  workers=NO
+[2026-08-29 10:05:55] [10:05] ablation: ckpt=273/400  age=4m  workers=NO
+[2026-08-29 10:06:56] [10:06] ablation: ckpt=274/400  age=0m  workers=NO
+[2026-08-29 10:07:56] [10:07] ablation: ckpt=275/400  age=0m  workers=NO
+[2026-08-29 10:08:57] [10:08] ablation: ckpt=279/400  age=0m  workers=NO
+[2026-08-29 10:09:57] [10:09] ablation: ckpt=281/400  age=0m  workers=NO
+[2026-08-29 10:10:58] [10:10] ablation: ckpt=286/400  age=0m  workers=NO
+[2026-08-29 10:11:58] [10:11] ablation: ckpt=286/400  age=1m  workers=NO
+[2026-08-29 10:12:58] [10:12] ablation: ckpt=286/400  age=2m  workers=NO
+[2026-08-29 10:13:59] [10:13] ablation: ckpt=287/400  age=0m  workers=NO
+[2026-08-29 10:14:59] [10:14] ablation: ckpt=287/400  age=1m  workers=NO
+[2026-08-29 10:16:00] [10:16] ablation: ckpt=287/400  age=2m  workers=NO
+[2026-08-29 10:17:00] [10:17] ablation: ckpt=287/400  age=3m  workers=NO
+[2026-08-29 10:18:01] [10:18] ablation: ckpt=287/400  age=5m  workers=NO
+[2026-08-29 10:19:01] [10:19] ablation: ckpt=287/400  age=6m  workers=NO
+[2026-08-29 10:20:02] [10:20] ablation: ckpt=287/400  age=7m  workers=NO
+[2026-08-29 10:20:02]   STALLED (age=420s, no_progress=362s). Autofixing.
+[2026-08-29 10:20:02] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 10:21:02] [10:21] ablation: ckpt=287/400  age=8m  workers=NO
+[2026-08-29 10:22:03] [10:22] ablation: ckpt=287/400  age=9m  workers=NO
+[2026-08-29 10:23:03] [10:23] ablation: ckpt=287/400  age=10m  workers=NO
+[2026-08-29 10:24:04] [10:24] ablation: ckpt=288/400  age=0m  workers=NO
+[2026-08-29 10:25:04] [10:25] ablation: ckpt=288/400  age=1m  workers=NO
+[2026-08-29 10:26:04] [10:26] ablation: ckpt=289/400  age=0m  workers=NO
+[2026-08-29 10:27:05] [10:27] ablation: ckpt=290/400  age=0m  workers=NO
+[2026-08-29 10:28:05] [10:28] ablation: ckpt=290/400  age=1m  workers=NO
+[2026-08-29 10:29:06] [10:29] ablation: ckpt=290/400  age=2m  workers=NO
+[2026-08-29 10:30:06] [10:30] ablation: ckpt=290/400  age=3m  workers=NO
+[2026-08-29 10:31:07] [10:31] ablation: ckpt=292/400  age=0m  workers=NO
+[2026-08-29 10:32:07] [10:32] ablation: ckpt=292/400  age=1m  workers=NO
+[2026-08-29 10:33:08] [10:33] ablation: ckpt=293/400  age=0m  workers=NO
+[2026-08-29 10:34:08] [10:34] ablation: ckpt=293/400  age=1m  workers=NO
+[2026-08-29 10:35:09] [10:35] ablation: ckpt=293/400  age=2m  workers=NO
+[2026-08-29 10:36:09] [10:36] ablation: ckpt=293/400  age=3m  workers=NO
+[2026-08-29 10:37:10] [10:37] ablation: ckpt=293/400  age=4m  workers=NO
+[2026-08-29 10:38:10] [10:38] ablation: ckpt=293/400  age=5m  workers=NO
+[2026-08-29 10:39:10] [10:39] ablation: ckpt=293/400  age=6m  workers=NO
+[2026-08-29 10:39:10]   STALLED (age=366s, no_progress=362s). Autofixing.
+[2026-08-29 10:39:10] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 10:40:11] [10:40] ablation: ckpt=293/400  age=7m  workers=NO
+[2026-08-29 10:41:11] [10:41] ablation: ckpt=294/400  age=0m  workers=NO
+[2026-08-29 10:42:12] [10:42] ablation: ckpt=294/400  age=1m  workers=NO
+[2026-08-29 10:43:12] [10:43] ablation: ckpt=294/400  age=2m  workers=NO
+[2026-08-29 10:44:13] [10:44] ablation: ckpt=295/400  age=0m  workers=NO
+[2026-08-29 10:45:13] [10:45] ablation: ckpt=295/400  age=1m  workers=NO
+[2026-08-29 10:46:14] [10:46] ablation: ckpt=295/400  age=2m  workers=NO
+[2026-08-29 10:47:14] [10:47] ablation: ckpt=296/400  age=0m  workers=NO
+[2026-08-29 10:48:15] [10:48] ablation: ckpt=296/400  age=1m  workers=NO
+[2026-08-29 10:49:15] [10:49] ablation: ckpt=296/400  age=2m  workers=NO
+[2026-08-29 10:50:15] [10:50] ablation: ckpt=296/400  age=3m  workers=NO
+[2026-08-29 10:51:16] [10:51] ablation: ckpt=298/400  age=0m  workers=NO
+[2026-08-29 10:52:16] [10:52] ablation: ckpt=298/400  age=1m  workers=NO
+[2026-08-29 10:53:17] [10:53] ablation: ckpt=299/400  age=0m  workers=NO
+[2026-08-29 10:54:17] [10:54] ablation: ckpt=299/400  age=1m  workers=NO
+[2026-08-29 10:55:18] [10:55] ablation: ckpt=299/400  age=2m  workers=NO
+[2026-08-29 10:56:18] [10:56] ablation: ckpt=300/400  age=0m  workers=NO
+[2026-08-29 10:57:19] [10:57] ablation: ckpt=300/400  age=1m  workers=NO
+[2026-08-29 10:58:19] [10:58] ablation: ckpt=300/400  age=2m  workers=NO
+[2026-08-29 10:59:20] [10:59] ablation: ckpt=300/400  age=3m  workers=NO
+[2026-08-29 11:00:20] [11:00] ablation: ckpt=300/400  age=4m  workers=NO
+[2026-08-29 11:01:21] [11:01] ablation: ckpt=300/400  age=5m  workers=NO
+[2026-08-29 11:02:21] [11:02] ablation: ckpt=300/400  age=6m  workers=NO
+[2026-08-29 11:02:21]   STALLED (age=405s, no_progress=362s). Autofixing.
+[2026-08-29 11:02:21] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 11:03:22] [11:03] ablation: ckpt=300/400  age=7m  workers=NO
+[2026-08-29 11:04:22] [11:04] ablation: ckpt=300/400  age=8m  workers=NO
+[2026-08-29 11:05:22] [11:05] ablation: ckpt=301/400  age=0m  workers=NO
+[2026-08-29 11:06:23] [11:06] ablation: ckpt=301/400  age=1m  workers=NO
+[2026-08-29 11:07:23] [11:07] ablation: ckpt=302/400  age=0m  workers=NO
+[2026-08-29 11:08:24] [11:08] ablation: ckpt=302/400  age=1m  workers=NO
+[2026-08-29 11:09:24] [11:09] ablation: ckpt=303/400  age=0m  workers=NO
+[2026-08-29 11:10:25] [11:10] ablation: ckpt=303/400  age=1m  workers=NO
+[2026-08-29 11:11:25] [11:11] ablation: ckpt=304/400  age=0m  workers=NO
+[2026-08-29 11:12:26] [11:12] ablation: ckpt=304/400  age=1m  workers=NO
+[2026-08-29 11:13:26] [11:13] ablation: ckpt=304/400  age=2m  workers=NO
+[2026-08-29 11:14:26] [11:14] ablation: ckpt=304/400  age=3m  workers=NO
+[2026-08-29 11:15:27] [11:15] ablation: ckpt=304/400  age=4m  workers=NO
+[2026-08-29 11:16:27] [11:16] ablation: ckpt=306/400  age=0m  workers=NO
+[2026-08-29 11:17:28] [11:17] ablation: ckpt=308/400  age=0m  workers=NO
+[2026-08-29 11:18:28] [11:18] ablation: ckpt=308/400  age=1m  workers=NO
+[2026-08-29 11:19:29] [11:19] ablation: ckpt=309/400  age=0m  workers=NO
+[2026-08-29 11:20:29] [11:20] ablation: ckpt=309/400  age=1m  workers=NO
+[2026-08-29 11:21:30] [11:21] ablation: ckpt=309/400  age=2m  workers=NO
+[2026-08-29 11:22:30] [11:22] ablation: ckpt=309/400  age=3m  workers=NO
+[2026-08-29 11:23:31] [11:23] ablation: ckpt=309/400  age=4m  workers=NO
+[2026-08-29 11:24:31] [11:24] ablation: ckpt=309/400  age=5m  workers=NO
+[2026-08-29 11:25:31] [11:25] ablation: ckpt=310/400  age=0m  workers=NO
+[2026-08-29 11:26:32] [11:26] ablation: ckpt=313/400  age=0m  workers=NO
+[2026-08-29 11:27:32] [11:27] ablation: ckpt=316/400  age=0m  workers=NO
+[2026-08-29 11:28:33] [11:28] ablation: ckpt=316/400  age=1m  workers=NO
+[2026-08-29 11:29:33] [11:29] ablation: ckpt=317/400  age=0m  workers=NO
+[2026-08-29 11:30:34] [11:30] ablation: ckpt=317/400  age=1m  workers=NO
+[2026-08-29 11:31:34] [11:31] ablation: ckpt=317/400  age=2m  workers=NO
+[2026-08-29 11:32:35] [11:32] ablation: ckpt=317/400  age=3m  workers=NO
+[2026-08-29 11:33:35] [11:33] ablation: ckpt=317/400  age=4m  workers=NO
+[2026-08-29 11:34:36] [11:34] ablation: ckpt=318/400  age=0m  workers=NO
+[2026-08-29 11:35:36] [11:35] ablation: ckpt=318/400  age=1m  workers=NO
+[2026-08-29 11:36:37] [11:36] ablation: ckpt=318/400  age=2m  workers=NO
+[2026-08-29 11:37:37] [11:37] ablation: ckpt=319/400  age=0m  workers=NO
+[2026-08-29 11:38:37] [11:38] ablation: ckpt=319/400  age=1m  workers=NO
+[2026-08-29 11:39:38] [11:39] ablation: ckpt=319/400  age=2m  workers=NO
+[2026-08-29 11:40:38] [11:40] ablation: ckpt=319/400  age=3m  workers=NO
+[2026-08-29 11:41:39] [11:41] ablation: ckpt=319/400  age=4m  workers=NO
+[2026-08-29 11:42:39] [11:42] ablation: ckpt=320/400  age=0m  workers=NO
+[2026-08-29 11:43:40] [11:43] ablation: ckpt=320/400  age=1m  workers=NO
+[2026-08-29 11:44:40] [11:44] ablation: ckpt=320/400  age=2m  workers=NO
+[2026-08-29 11:45:41] [11:45] ablation: ckpt=320/400  age=3m  workers=NO
+[2026-08-29 11:46:41] [11:46] ablation: ckpt=320/400  age=4m  workers=NO
+[2026-08-29 11:47:42] [11:47] ablation: ckpt=322/400  age=0m  workers=NO
+[2026-08-29 11:48:42] [11:48] ablation: ckpt=322/400  age=1m  workers=NO
+[2026-08-29 11:49:43] [11:49] ablation: ckpt=323/400  age=0m  workers=NO
+[2026-08-29 11:50:43] [11:50] ablation: ckpt=323/400  age=1m  workers=NO
+[2026-08-29 11:51:44] [11:51] ablation: ckpt=323/400  age=2m  workers=NO
+[2026-08-29 11:52:44] [11:52] ablation: ckpt=324/400  age=0m  workers=NO
+[2026-08-29 11:53:44] [11:53] ablation: ckpt=324/400  age=1m  workers=NO
+[2026-08-29 11:54:45] [11:54] ablation: ckpt=325/400  age=0m  workers=NO
+[2026-08-29 11:55:45] [11:55] ablation: ckpt=325/400  age=1m  workers=NO
+[2026-08-29 11:56:46] [11:56] ablation: ckpt=325/400  age=2m  workers=NO
+[2026-08-29 11:57:46] [11:57] ablation: ckpt=325/400  age=3m  workers=NO
+[2026-08-29 11:58:47] [11:58] ablation: ckpt=325/400  age=4m  workers=NO
+[2026-08-29 11:59:47] [11:59] ablation: ckpt=325/400  age=5m  workers=NO
+[2026-08-29 12:00:48] [12:00] ablation: ckpt=325/400  age=6m  workers=NO
+[2026-08-29 12:00:48]   STALLED (age=407s, no_progress=362s). Autofixing.
+[2026-08-29 12:00:48] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 12:01:48] [12:01] ablation: ckpt=325/400  age=7m  workers=NO
+[2026-08-29 12:02:49] [12:02] ablation: ckpt=326/400  age=0m  workers=NO
+[2026-08-29 12:03:49] [12:03] ablation: ckpt=326/400  age=1m  workers=NO
+[2026-08-29 12:04:50] [12:04] ablation: ckpt=327/400  age=0m  workers=NO
+[2026-08-29 12:05:50] [12:05] ablation: ckpt=327/400  age=1m  workers=NO
+[2026-08-29 12:06:51] [12:06] ablation: ckpt=327/400  age=2m  workers=NO
+[2026-08-29 12:07:51] [12:07] ablation: ckpt=331/400  age=0m  workers=NO
+[2026-08-29 12:08:51] [12:08] ablation: ckpt=331/400  age=1m  workers=NO
+[2026-08-29 12:09:52] [12:09] ablation: ckpt=333/400  age=0m  workers=NO
+[2026-08-29 12:10:52] [12:10] ablation: ckpt=333/400  age=1m  workers=NO
+[2026-08-29 12:11:53] [12:11] ablation: ckpt=333/400  age=2m  workers=NO
+[2026-08-29 12:12:53] [12:12] ablation: ckpt=336/400  age=0m  workers=NO
+[2026-08-29 12:13:54] [12:13] ablation: ckpt=336/400  age=1m  workers=NO
+[2026-08-29 12:14:54] [12:14] ablation: ckpt=337/400  age=0m  workers=NO
+[2026-08-29 12:15:55] [12:15] ablation: ckpt=337/400  age=1m  workers=NO
+[2026-08-29 12:16:55] [12:16] ablation: ckpt=337/400  age=2m  workers=NO
+[2026-08-29 12:17:55] [12:17] ablation: ckpt=337/400  age=3m  workers=NO
+[2026-08-29 12:18:56] [12:18] ablation: ckpt=337/400  age=4m  workers=NO
+[2026-08-29 12:19:56] [12:19] ablation: ckpt=338/400  age=0m  workers=NO
+[2026-08-29 12:20:57] [12:20] ablation: ckpt=338/400  age=1m  workers=NO
+[2026-08-29 12:21:57] [12:21] ablation: ckpt=338/400  age=2m  workers=NO
+[2026-08-29 12:22:58] [12:22] ablation: ckpt=339/400  age=0m  workers=NO
+[2026-08-29 12:23:58] [12:23] ablation: ckpt=339/400  age=1m  workers=NO
+[2026-08-29 12:24:59] [12:24] ablation: ckpt=339/400  age=2m  workers=NO
+[2026-08-29 12:25:59] [12:25] ablation: ckpt=339/400  age=3m  workers=NO
+[2026-08-29 12:27:00] [12:27] ablation: ckpt=339/400  age=4m  workers=NO
+[2026-08-29 12:28:00] [12:28] ablation: ckpt=340/400  age=0m  workers=NO
+[2026-08-29 12:29:01] [12:29] ablation: ckpt=340/400  age=1m  workers=NO
+[2026-08-29 12:30:01] [12:30] ablation: ckpt=340/400  age=2m  workers=NO
+[2026-08-29 12:31:01] [12:31] ablation: ckpt=340/400  age=3m  workers=NO
+[2026-08-29 12:32:02] [12:32] ablation: ckpt=340/400  age=4m  workers=NO
+[2026-08-29 12:33:02] [12:33] ablation: ckpt=342/400  age=0m  workers=NO
+[2026-08-29 12:34:03] [12:34] ablation: ckpt=342/400  age=1m  workers=NO
+[2026-08-29 12:35:03] [12:35] ablation: ckpt=343/400  age=0m  workers=NO
+[2026-08-29 12:36:04] [12:36] ablation: ckpt=343/400  age=1m  workers=NO
+[2026-08-29 12:37:04] [12:37] ablation: ckpt=343/400  age=2m  workers=NO
+[2026-08-29 12:38:05] [12:38] ablation: ckpt=343/400  age=3m  workers=NO
+[2026-08-29 12:39:05] [12:39] ablation: ckpt=343/400  age=4m  workers=NO
+[2026-08-29 12:40:05] [12:40] ablation: ckpt=344/400  age=0m  workers=NO
+[2026-08-29 12:41:06] [12:41] ablation: ckpt=344/400  age=1m  workers=NO
+[2026-08-29 12:42:06] [12:42] ablation: ckpt=344/400  age=2m  workers=NO
+[2026-08-29 12:43:07] [12:43] ablation: ckpt=345/400  age=0m  workers=NO
+[2026-08-29 12:44:08] [12:44] ablation: ckpt=345/400  age=1m  workers=NO
+[2026-08-29 12:45:08] [12:45] ablation: ckpt=345/400  age=2m  workers=NO
+[2026-08-29 12:46:09] [12:46] ablation: ckpt=345/400  age=3m  workers=NO
+[2026-08-29 12:47:09] [12:47] ablation: ckpt=345/400  age=4m  workers=NO
+[2026-08-29 12:48:10] [12:48] ablation: ckpt=346/400  age=0m  workers=NO
+[2026-08-29 12:49:10] [12:49] ablation: ckpt=346/400  age=1m  workers=NO
+[2026-08-29 12:50:10] [12:50] ablation: ckpt=346/400  age=2m  workers=NO
+[2026-08-29 12:51:11] [12:51] ablation: ckpt=346/400  age=3m  workers=NO
+[2026-08-29 12:52:11] [12:52] ablation: ckpt=346/400  age=4m  workers=NO
+[2026-08-29 12:53:12] [12:53] ablation: ckpt=348/400  age=0m  workers=NO
+[2026-08-29 12:54:12] [12:54] ablation: ckpt=348/400  age=1m  workers=NO
+[2026-08-29 12:55:13] [12:55] ablation: ckpt=349/400  age=0m  workers=NO
+[2026-08-29 12:56:13] [12:56] ablation: ckpt=349/400  age=1m  workers=NO
+[2026-08-29 12:57:14] [12:57] ablation: ckpt=349/400  age=2m  workers=NO
+[2026-08-29 12:58:14] [12:58] ablation: ckpt=349/400  age=3m  workers=NO
+[2026-08-29 12:59:15] [12:59] ablation: ckpt=349/400  age=4m  workers=NO
+[2026-08-29 13:00:15] [13:00] ablation: ckpt=350/400  age=0m  workers=NO
+[2026-08-29 13:01:16] [13:01] ablation: ckpt=350/400  age=1m  workers=NO
+[2026-08-29 13:02:16] [13:02] ablation: ckpt=350/400  age=2m  workers=NO
+[2026-08-29 13:03:17] [13:03] ablation: ckpt=350/400  age=3m  workers=NO
+[2026-08-29 13:04:17] [13:04] ablation: ckpt=350/400  age=4m  workers=NO
+[2026-08-29 13:05:18] [13:05] ablation: ckpt=350/400  age=5m  workers=NO
+[2026-08-29 13:06:18] [13:06] ablation: ckpt=350/400  age=6m  workers=NO
+[2026-08-29 13:06:18]   STALLED (age=419s, no_progress=362s). Autofixing.
+[2026-08-29 13:06:18] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 13:07:19] [13:07] ablation: ckpt=350/400  age=8m  workers=NO
+[2026-08-29 13:08:19] [13:08] ablation: ckpt=351/400  age=0m  workers=NO
+[2026-08-29 13:09:19] [13:09] ablation: ckpt=351/400  age=1m  workers=NO
+[2026-08-29 13:10:20] [13:10] ablation: ckpt=351/400  age=2m  workers=NO
+[2026-08-29 13:11:20] [13:11] ablation: ckpt=351/400  age=3m  workers=NO
+[2026-08-29 13:12:21] [13:12] ablation: ckpt=351/400  age=4m  workers=NO
+[2026-08-29 13:13:21] [13:13] ablation: ckpt=353/400  age=0m  workers=NO
+[2026-08-29 13:14:22] [13:14] ablation: ckpt=353/400  age=1m  workers=NO
+[2026-08-29 13:15:22] [13:15] ablation: ckpt=354/400  age=0m  workers=NO
+[2026-08-29 13:16:23] [13:16] ablation: ckpt=354/400  age=1m  workers=NO
+[2026-08-29 13:17:23] [13:17] ablation: ckpt=354/400  age=2m  workers=NO
+[2026-08-29 13:18:24] [13:18] ablation: ckpt=355/400  age=0m  workers=NO
+[2026-08-29 13:19:24] [13:19] ablation: ckpt=355/400  age=1m  workers=NO
+[2026-08-29 13:20:25] [13:20] ablation: ckpt=355/400  age=2m  workers=NO
+[2026-08-29 13:21:25] [13:21] ablation: ckpt=355/400  age=3m  workers=NO
+[2026-08-29 13:22:25] [13:22] ablation: ckpt=355/400  age=4m  workers=NO
+[2026-08-29 13:23:26] [13:23] ablation: ckpt=355/400  age=5m  workers=NO
+[2026-08-29 13:24:26] [13:24] ablation: ckpt=355/400  age=6m  workers=NO
+[2026-08-29 13:24:26]   STALLED (age=373s, no_progress=362s). Autofixing.
+[2026-08-29 13:24:26] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 13:25:27] [13:25] ablation: ckpt=355/400  age=7m  workers=NO
+[2026-08-29 13:26:27] [13:26] ablation: ckpt=355/400  age=8m  workers=NO
+[2026-08-29 13:27:28] [13:27] ablation: ckpt=355/400  age=9m  workers=NO
+[2026-08-29 13:28:28] [13:28] ablation: ckpt=356/400  age=0m  workers=NO
+[2026-08-29 13:29:29] [13:29] ablation: ckpt=356/400  age=1m  workers=NO
+[2026-08-29 13:30:29] [13:30] ablation: ckpt=356/400  age=2m  workers=NO
+[2026-08-29 13:31:30] [13:31] ablation: ckpt=356/400  age=3m  workers=NO
+[2026-08-29 13:32:30] [13:32] ablation: ckpt=356/400  age=4m  workers=NO
+[2026-08-29 13:33:31] [13:33] ablation: ckpt=356/400  age=5m  workers=NO
+[2026-08-29 13:34:31] [13:34] ablation: ckpt=356/400  age=6m  workers=NO
+[2026-08-29 13:34:31]   STALLED (age=388s, no_progress=362s). Autofixing.
+[2026-08-29 13:34:31] RELAUNCHED ablation: cores=6  resume=ablation_b1b8s_ckpt_20260829_0319.json
+[2026-08-29 13:35:31] [13:35] ablation: ckpt=358/400  age=0m  workers=NO
+[2026-08-29 13:36:32] [13:36] ablation: ckpt=358/400  age=1m  workers=NO
+[2026-08-29 13:37:32] [13:37] ablation: ckpt=358/400  age=2m  workers=NO
+[2026-08-29 13:38:33] [13:38] ablation: ckpt=358/400  age=3m  workers=NO
+[2026-08-29 13:39:33] [13:39] ablation: ckpt=359/400  age=0m  workers=NO
+[2026-08-29 13:40:34] [13:40] ablation: ckpt=359/400  age=1m  workers=NO
+[2026-08-29 13:41:34] [13:41] ablation: ckpt=359/400  age=2m  workers=NO
+[2026-08-29 13:42:35] [13:42] ablation: ckpt=359/400  age=3m  workers=NO
+[2026-08-29 13:43:35] [13:43] ablation: ckpt=359/400  age=4m  workers=NO
+[2026-08-29 13:44:36] [13:44] ablation: ckpt=359/400  age=5m  workers=NO
+[2026-08-29 13:45:36] [13:45] ablation: ckpt=359/400  age=6m  workers=NO
+[2026-08-29 13:45:36]   MAX_RESTARTS (20) reached for ablation — NOT relaunching. Manual intervention needed.
+[2026-08-29 13:45:36] Scheduler exiting.

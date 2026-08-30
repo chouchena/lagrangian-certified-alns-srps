@@ -1,0 +1,6 @@
+test,comparison,dof,LR,p
+A,Null vs Main effects,4,182.877,0.0
+B,Main effects vs +Interactions,6,56.881,0.0
+C,Null vs Full model,10,239.758,0.0
+D,Drop distance (main effects),1,0.319,0.572238
+E,Parsimonious vs Full,5,27.765,4e-05

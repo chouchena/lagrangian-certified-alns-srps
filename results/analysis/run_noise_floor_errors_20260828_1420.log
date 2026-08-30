@@ -1,0 +1,6 @@
+[15:01:17] Traceback (most recent call last):
+[15:01:17]   File "C:\Users\user\Desktop\Sapir\Full_SRPS-ALNS\run_noise_floor.py", line 410, in <module>
+[15:01:17]     [15:01:17] print(f"  [{n_done:3d}/{n_total}] {inst_label:35s}"[15:01:17] 
+[15:01:17]   File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
+[15:01:17]     [15:01:17] return codecs.charmap_encode(input,self.errors,encoding_table)[0][15:01:17] 
+[15:01:17] UnicodeEncodeError[15:01:17] : [15:01:17] 'charmap' codec can't encode character '\u0394' in position 79: character maps to <undefined>[15:01:17] 

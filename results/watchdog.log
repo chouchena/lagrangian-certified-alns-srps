@@ -1,0 +1,970 @@
+[2026-08-28 11:44:17] [11:44] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=250m  workers=yes
+[2026-08-28 11:45:00] ============================================================
+[2026-08-28 11:45:00] Watchdog started — checking every 60s  (max_restarts=3)
+[2026-08-28 11:45:00] Registered runs: ['noise_floor']
+[2026-08-28 11:45:00] ============================================================
+[2026-08-28 11:45:03] [11:45] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=250m  workers=yes
+[2026-08-28 11:46:05] [11:46] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=251m  workers=NO
+[2026-08-28 11:46:05]   STALLED: 4h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 11:46:05]   committed 10 non-source file(s): ['results/noise_floor_run.log', 'results/watchdog.log', 'results/analysis/noise_floor_20260828_1023.csv', 'results/analysis/noise_floor_20260828_1023_manifest.json', 'results/analysis/noise_floor_20260828_1133.csv']
+[2026-08-28 11:46:06]   resuming from checkpoint: noise_floor_ckpt_20260828_0653.json
+[2026-08-28 11:46:06]   relaunched (restart #2/3)
+[2026-08-28 11:47:10] [11:47] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=252m  workers=yes
+[2026-08-28 11:48:13] [11:48] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=254m  workers=yes
+[2026-08-28 11:49:16] [11:49] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=255m  workers=yes
+[2026-08-28 11:50:20] [11:50] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=256m  workers=yes
+[2026-08-28 11:51:23] [11:51] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=257m  workers=yes
+[2026-08-28 11:52:27] [11:52] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=258m  workers=yes
+[2026-08-28 11:53:29] [11:53] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=259m  workers=yes
+[2026-08-28 11:54:32] [11:54] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=260m  workers=yes
+[2026-08-28 11:55:35] [11:55] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=261m  workers=yes
+[2026-08-28 11:56:38] [11:56] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=262m  workers=yes
+[2026-08-28 11:57:40] [11:57] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=263m  workers=yes
+[2026-08-28 11:58:43] [11:58] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=264m  workers=yes
+[2026-08-28 11:59:46] [11:59] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=265m  workers=yes
+[2026-08-28 12:00:49] [12:00] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=266m  workers=yes
+[2026-08-28 12:01:52] [12:01] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=267m  workers=yes
+[2026-08-28 12:02:55] [12:02] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=268m  workers=yes
+[2026-08-28 12:03:58] [12:03] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=269m  workers=yes
+[2026-08-28 12:05:01] [12:05] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=270m  workers=yes
+[2026-08-28 12:06:03] [12:06] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=271m  workers=yes
+[2026-08-28 12:07:06] [12:07] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=272m  workers=yes
+[2026-08-28 12:08:14] [12:08] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=273m  workers=yes
+[2026-08-28 12:09:16] [12:09] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=275m  workers=yes
+[2026-08-28 12:10:19] [12:10] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=276m  workers=yes
+[2026-08-28 12:11:22] [12:11] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=277m  workers=yes
+[2026-08-28 12:12:25] [12:12] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=278m  workers=yes
+[2026-08-28 12:13:27] [12:13] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=279m  workers=yes
+[2026-08-28 12:14:30] [12:14] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=280m  workers=yes
+[2026-08-28 12:15:33] [12:15] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=281m  workers=yes
+[2026-08-28 12:16:36] [12:16] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=282m  workers=yes
+[2026-08-28 12:17:38] [12:17] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=283m  workers=yes
+[2026-08-28 12:18:41] [12:18] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=284m  workers=yes
+[2026-08-28 12:19:44] [12:19] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=285m  workers=yes
+[2026-08-28 12:20:47] [12:20] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=286m  workers=yes
+[2026-08-28 12:21:49] [12:21] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=287m  workers=yes
+[2026-08-28 12:22:52] [12:22] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=288m  workers=yes
+[2026-08-28 12:23:55] [12:23] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=289m  workers=yes
+[2026-08-28 12:24:58] [12:24] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=290m  workers=yes
+[2026-08-28 12:26:01] [12:26] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=291m  workers=yes
+[2026-08-28 12:27:03] [12:27] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=292m  workers=yes
+[2026-08-28 12:28:06] [12:28] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=293m  workers=NO
+[2026-08-28 12:28:06]   STALLED: 4h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 12:28:06]   committed 6 non-source file(s): ['results/noise_floor_run.log', 'results/watchdog.log', 'results/watchdog_state.json', 'results/analysis/noise_floor_20260828_1146.csv', 'results/analysis/noise_floor_20260828_1146_manifest.json']
+[2026-08-28 12:28:06]   resuming from checkpoint: noise_floor_ckpt_20260828_0653.json
+[2026-08-28 12:28:06]   relaunched (restart #3/3)
+[2026-08-28 12:29:09] [12:29] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=294m  workers=yes
+[2026-08-28 12:30:12] [12:30] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=295m  workers=yes
+[2026-08-28 12:31:15] [12:31] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=297m  workers=yes
+[2026-08-28 12:32:17] [12:32] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=298m  workers=yes
+[2026-08-28 12:33:20] [12:33] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=299m  workers=yes
+[2026-08-28 12:34:23] [12:34] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=300m  workers=yes
+[2026-08-28 12:35:27] [12:35] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=301m  workers=yes
+[2026-08-28 12:36:30] [12:36] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=302m  workers=yes
+[2026-08-28 12:37:33] [12:37] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=303m  workers=yes
+[2026-08-28 12:38:36] [12:38] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=304m  workers=yes
+[2026-08-28 12:39:38] [12:39] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=305m  workers=yes
+[2026-08-28 12:40:41] [12:40] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=306m  workers=yes
+[2026-08-28 12:41:44] [12:41] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=307m  workers=yes
+[2026-08-28 12:42:47] [12:42] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=308m  workers=yes
+[2026-08-28 12:43:51] [12:43] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=309m  workers=yes
+[2026-08-28 12:44:54] [12:44] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=310m  workers=yes
+[2026-08-28 12:45:56] [12:45] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=311m  workers=yes
+[2026-08-28 12:46:59] [12:46] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=312m  workers=yes
+[2026-08-28 12:48:02] [12:48] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=313m  workers=yes
+[2026-08-28 12:49:08] [12:49] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=314m  workers=yes
+[2026-08-28 12:50:11] [12:50] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=315m  workers=yes
+[2026-08-28 12:51:14] [12:51] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=317m  workers=yes
+[2026-08-28 12:52:16] [12:52] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=318m  workers=yes
+[2026-08-28 12:53:19] [12:53] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=319m  workers=yes
+[2026-08-28 12:54:22] [12:54] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=320m  workers=yes
+[2026-08-28 12:55:25] [12:55] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=321m  workers=yes
+[2026-08-28 12:56:28] [12:56] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=322m  workers=yes
+[2026-08-28 12:57:30] [12:57] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=323m  workers=yes
+[2026-08-28 12:58:33] [12:58] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=324m  workers=yes
+[2026-08-28 12:59:36] [12:59] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=325m  workers=yes
+[2026-08-28 13:00:39] [13:00] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=326m  workers=yes
+[2026-08-28 13:01:42] [13:01] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=327m  workers=yes
+[2026-08-28 13:02:44] [13:02] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=328m  workers=yes
+[2026-08-28 13:03:47] [13:03] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=329m  workers=yes
+[2026-08-28 13:04:50] [13:04] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=330m  workers=yes
+[2026-08-28 13:05:53] [13:05] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=331m  workers=yes
+[2026-08-28 13:06:55] [13:06] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=332m  workers=yes
+[2026-08-28 13:07:58] [13:07] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=333m  workers=yes
+[2026-08-28 13:09:01] [13:09] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=334m  workers=yes
+[2026-08-28 13:10:03] [13:10] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=335m  workers=NO
+[2026-08-28 13:10:03]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:10:03]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:11:06] [13:11] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=336m  workers=NO
+[2026-08-28 13:11:06]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:11:06]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:12:09] [13:12] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=337m  workers=NO
+[2026-08-28 13:12:09]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:12:09]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:13:11] [13:13] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=338m  workers=NO
+[2026-08-28 13:13:11]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:13:11]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:14:14] [13:14] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=340m  workers=NO
+[2026-08-28 13:14:14]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:14:14]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:15:17] [13:15] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=341m  workers=NO
+[2026-08-28 13:15:17]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:15:17]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:16:19] [13:16] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=342m  workers=NO
+[2026-08-28 13:16:19]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:16:19]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:17:22] [13:17] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=343m  workers=NO
+[2026-08-28 13:17:22]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:17:22]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:18:25] [13:18] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=344m  workers=NO
+[2026-08-28 13:18:25]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:18:25]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:19:27] [13:19] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=345m  workers=NO
+[2026-08-28 13:19:27]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:19:27]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:20:30] [13:20] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=346m  workers=NO
+[2026-08-28 13:20:30]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:20:30]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:21:33] [13:21] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=347m  workers=NO
+[2026-08-28 13:21:33]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:21:33]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:22:35] [13:22] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=348m  workers=NO
+[2026-08-28 13:22:35]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:22:35]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:23:38] [13:23] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=349m  workers=NO
+[2026-08-28 13:23:38]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:23:38]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:24:41] [13:24] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=350m  workers=NO
+[2026-08-28 13:24:41]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:24:41]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:25:43] [13:25] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=351m  workers=NO
+[2026-08-28 13:25:43]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:25:43]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:26:46] [13:26] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=352m  workers=NO
+[2026-08-28 13:26:46]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:26:46]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:27:49] [13:27] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=353m  workers=NO
+[2026-08-28 13:27:49]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:27:49]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:28:51] [13:28] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=354m  workers=NO
+[2026-08-28 13:28:51]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:28:51]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:29:54] [13:29] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=355m  workers=NO
+[2026-08-28 13:29:54]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:29:54]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:30:56] [13:30] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=356m  workers=NO
+[2026-08-28 13:30:56]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:30:56]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:31:59] [13:31] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=357m  workers=NO
+[2026-08-28 13:31:59]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:31:59]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:33:02] [13:33] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=358m  workers=NO
+[2026-08-28 13:33:02]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:33:02]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:34:05] [13:34] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=359m  workers=NO
+[2026-08-28 13:34:05]   STALLED: 5h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:34:05]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:35:07] [13:35] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=360m  workers=NO
+[2026-08-28 13:35:07]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:35:07]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:36:10] [13:36] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=361m  workers=NO
+[2026-08-28 13:36:10]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:36:10]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:37:13] [13:37] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=363m  workers=NO
+[2026-08-28 13:37:13]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:37:13]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:38:15] [13:38] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=364m  workers=NO
+[2026-08-28 13:38:15]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:38:15]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:39:18] [13:39] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=365m  workers=NO
+[2026-08-28 13:39:18]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:39:18]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:40:21] [13:40] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=366m  workers=NO
+[2026-08-28 13:40:21]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:40:21]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:41:23] [13:41] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=367m  workers=NO
+[2026-08-28 13:41:23]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:41:23]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:42:26] [13:42] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=368m  workers=NO
+[2026-08-28 13:42:26]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:42:26]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:43:28] [13:43] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=369m  workers=NO
+[2026-08-28 13:43:28]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:43:28]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:44:31] [13:44] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=370m  workers=NO
+[2026-08-28 13:44:31]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:44:31]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:45:34] [13:45] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=371m  workers=NO
+[2026-08-28 13:45:34]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:45:34]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:46:36] [13:46] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=372m  workers=NO
+[2026-08-28 13:46:36]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:46:36]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:47:39] [13:47] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=373m  workers=NO
+[2026-08-28 13:47:39]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:47:39]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:48:42] [13:48] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=374m  workers=NO
+[2026-08-28 13:48:42]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:48:42]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:49:44] [13:49] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=375m  workers=NO
+[2026-08-28 13:49:44]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:49:44]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:50:47] [13:50] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=376m  workers=NO
+[2026-08-28 13:50:47]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:50:47]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:51:49] [13:51] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=377m  workers=NO
+[2026-08-28 13:51:49]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:51:49]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:52:52] [13:52] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=378m  workers=NO
+[2026-08-28 13:52:52]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:52:52]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:53:55] [13:53] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=379m  workers=NO
+[2026-08-28 13:53:55]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:53:55]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:54:57] [13:54] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=380m  workers=NO
+[2026-08-28 13:54:57]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:54:57]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:56:00] [13:56] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=381m  workers=NO
+[2026-08-28 13:56:00]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:56:00]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:57:03] [13:57] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=382m  workers=NO
+[2026-08-28 13:57:03]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:57:03]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:58:05] [13:58] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=383m  workers=NO
+[2026-08-28 13:58:05]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:58:05]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 13:59:08] [13:59] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=384m  workers=NO
+[2026-08-28 13:59:08]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 13:59:08]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:00:11] [14:00] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=385m  workers=NO
+[2026-08-28 14:00:11]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:00:11]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:01:13] [14:01] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=387m  workers=NO
+[2026-08-28 14:01:13]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:01:13]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:02:16] [14:02] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=388m  workers=NO
+[2026-08-28 14:02:16]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:02:16]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:03:19] [14:03] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=389m  workers=NO
+[2026-08-28 14:03:19]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:03:19]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:04:21] [14:04] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=390m  workers=NO
+[2026-08-28 14:04:21]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:04:21]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:05:24] [14:05] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=391m  workers=NO
+[2026-08-28 14:05:24]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:05:24]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:06:26] [14:06] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=392m  workers=NO
+[2026-08-28 14:06:26]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:06:26]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:07:29] [14:07] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=393m  workers=NO
+[2026-08-28 14:07:29]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:07:29]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:08:32] [14:08] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=394m  workers=NO
+[2026-08-28 14:08:32]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:08:32]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:09:34] [14:09] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=395m  workers=NO
+[2026-08-28 14:09:34]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:09:34]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:10:37] [14:10] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=396m  workers=NO
+[2026-08-28 14:10:37]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:10:37]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:11:40] [14:11] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=397m  workers=NO
+[2026-08-28 14:11:40]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:11:40]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:12:42] [14:12] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=398m  workers=NO
+[2026-08-28 14:12:42]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:12:42]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:13:45] [14:13] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=399m  workers=NO
+[2026-08-28 14:13:45]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:13:45]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:14:48] [14:14] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=400m  workers=NO
+[2026-08-28 14:14:48]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:14:48]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:15:50] [14:15] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=401m  workers=NO
+[2026-08-28 14:15:50]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:15:50]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:16:53] [14:16] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=402m  workers=NO
+[2026-08-28 14:16:53]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:16:53]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:17:55] [14:17] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=403m  workers=NO
+[2026-08-28 14:17:55]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:17:55]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 14:18:58] [14:18] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=404m  workers=NO
+[2026-08-28 14:18:58]   STALLED: 6h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 14:18:58]   MAX_RESTARTS (3) reached for noise_floor — NOT relaunching. Manual intervention needed.
+[2026-08-28 16:17:03] ============================================================
+[2026-08-28 16:17:03] Watchdog started — checking every 60s  (max_restarts=3)
+[2026-08-28 16:17:03] Registered runs: ['noise_floor']
+[2026-08-28 16:17:03] ============================================================
+[2026-08-28 16:17:08] [16:17] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=522m  workers=yes
+[2026-08-28 16:18:12] [16:18] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=523m  workers=yes
+[2026-08-28 16:19:16] [16:19] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=525m  workers=yes
+[2026-08-28 16:25:19] ============================================================
+[2026-08-28 16:25:19] Watchdog started — checking every 60s  (max_restarts=3)
+[2026-08-28 16:25:19] Registered runs: ['noise_floor']
+[2026-08-28 16:25:19] ============================================================
+[2026-08-28 16:25:22] [16:25] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=531m  workers=yes
+[2026-08-28 16:26:25] [16:26] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=532m  workers=yes
+[2026-08-28 16:27:08] ============================================================
+[2026-08-28 16:27:08] Watchdog started — checking every 60s  (max_restarts=50)
+[2026-08-28 16:27:08] Registered runs: ['noise_floor']
+[2026-08-28 16:27:08] ============================================================
+[2026-08-28 16:27:11] [16:27] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=532m  workers=yes
+[2026-08-28 16:28:13] [16:28] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=534m  workers=NO
+[2026-08-28 16:28:13]   STALLED: 8h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 16:28:13]   committed 31 non-source file(s): ['SESSION.md', 'results/noise_floor_run.log', 'results/watchdog.log', 'results/watchdog_state.json', 'results/ablation_scheduler.log']
+[2026-08-28 16:28:13]   resuming from checkpoint: noise_floor_ckpt_20260828_0653.json
+[2026-08-28 16:28:13]   relaunched (restart #1/50)
+[2026-08-28 16:29:16] [16:29] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=535m  workers=yes
+[2026-08-28 16:30:19] [16:30] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=536m  workers=yes
+[2026-08-28 16:31:22] [16:31] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=537m  workers=yes
+[2026-08-28 16:32:25] [16:32] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=538m  workers=yes
+[2026-08-28 16:33:28] [16:33] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=539m  workers=yes
+[2026-08-28 16:34:30] [16:34] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=540m  workers=yes
+[2026-08-28 16:35:33] [16:35] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=541m  workers=yes
+[2026-08-28 16:36:36] [16:36] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=542m  workers=yes
+[2026-08-28 16:37:39] [16:37] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=543m  workers=yes
+[2026-08-28 16:38:41] [16:38] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=544m  workers=yes
+[2026-08-28 16:39:44] [16:39] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=545m  workers=yes
+[2026-08-28 16:40:47] [16:40] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=546m  workers=yes
+[2026-08-28 16:41:49] [16:41] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=547m  workers=yes
+[2026-08-28 16:42:52] [16:42] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=548m  workers=yes
+[2026-08-28 16:43:55] [16:43] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=549m  workers=yes
+[2026-08-28 16:44:58] [16:44] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=550m  workers=yes
+[2026-08-28 16:46:01] [16:46] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=551m  workers=yes
+[2026-08-28 16:47:03] [16:47] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=552m  workers=yes
+[2026-08-28 16:48:07] [16:48] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=553m  workers=yes
+[2026-08-28 16:49:11] [16:49] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=554m  workers=yes
+[2026-08-28 16:50:13] [16:50] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=556m  workers=yes
+[2026-08-28 16:51:18] [16:51] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=557m  workers=yes
+[2026-08-28 16:52:21] [16:52] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=558m  workers=yes
+[2026-08-28 16:53:25] [16:53] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=559m  workers=yes
+[2026-08-28 16:54:29] [16:54] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=560m  workers=yes
+[2026-08-28 16:55:33] [16:55] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=561m  workers=yes
+[2026-08-28 16:56:36] [16:56] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=562m  workers=yes
+[2026-08-28 16:57:39] [16:57] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=563m  workers=yes
+[2026-08-28 16:58:42] [16:58] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=564m  workers=yes
+[2026-08-28 16:59:45] [16:59] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=565m  workers=yes
+[2026-08-28 17:00:48] [17:00] Tier2-NoiseFloor: ckpt=3/70  rows=0  age=566m  workers=yes
+[2026-08-28 17:01:51] [17:01] Tier2-NoiseFloor: ckpt=3/70  rows=0  age=567m  workers=yes
+[2026-08-28 17:02:54] [17:02] Tier2-NoiseFloor: ckpt=3/70  rows=0  age=568m  workers=yes
+[2026-08-28 17:03:57] [17:03] Tier2-NoiseFloor: ckpt=3/70  rows=0  age=569m  workers=yes
+[2026-08-28 17:05:00] [17:05] Tier2-NoiseFloor: ckpt=3/70  rows=0  age=570m  workers=yes
+[2026-08-28 17:06:04] [17:06] Tier2-NoiseFloor: ckpt=3/70  rows=0  age=571m  workers=yes
+[2026-08-28 17:07:07] [17:07] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=572m  workers=yes
+[2026-08-28 17:08:10] [17:08] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=573m  workers=yes
+[2026-08-28 17:09:13] [17:09] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=575m  workers=NO
+[2026-08-28 17:09:13]   STALLED: 9h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 17:09:13]   committed 10 non-source file(s): ['results/ablation_scheduler.log', 'results/noise_floor_run.log', 'results/watchdog.log', 'results/watchdog_state.json', 'results/analysis/ablation_b1b8s_20260828_1647.csv']
+[2026-08-28 17:09:13]   resuming from checkpoint: noise_floor_ckpt_20260828_0653.json
+[2026-08-28 17:09:13]   relaunched (restart #2/50)
+[2026-08-28 17:10:16] [17:10] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=576m  workers=yes
+[2026-08-28 17:11:19] [17:11] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=577m  workers=yes
+[2026-08-28 17:12:22] [17:12] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=578m  workers=yes
+[2026-08-28 17:13:26] [17:13] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=579m  workers=yes
+[2026-08-28 17:14:29] [17:14] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=580m  workers=yes
+[2026-08-28 17:15:32] [17:15] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=581m  workers=yes
+[2026-08-28 17:16:36] [17:16] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=582m  workers=yes
+[2026-08-28 17:17:39] [17:17] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=583m  workers=yes
+[2026-08-28 17:18:42] [17:18] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=584m  workers=yes
+[2026-08-28 17:19:45] [17:19] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=585m  workers=yes
+[2026-08-28 17:20:48] [17:20] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=586m  workers=yes
+[2026-08-28 17:21:51] [17:21] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=587m  workers=yes
+[2026-08-28 17:22:54] [17:22] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=588m  workers=yes
+[2026-08-28 17:23:57] [17:23] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=589m  workers=yes
+[2026-08-28 17:25:00] [17:25] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=590m  workers=yes
+[2026-08-28 17:26:03] [17:26] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=591m  workers=yes
+[2026-08-28 17:27:06] [17:27] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=592m  workers=yes
+[2026-08-28 17:28:08] [17:28] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=593m  workers=yes
+[2026-08-28 17:29:11] [17:29] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=594m  workers=yes
+[2026-08-28 17:30:14] [17:30] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=596m  workers=yes
+[2026-08-28 17:31:17] [17:31] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=597m  workers=yes
+[2026-08-28 17:32:20] [17:32] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=598m  workers=yes
+[2026-08-28 17:33:23] [17:33] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=599m  workers=yes
+[2026-08-28 17:34:02] ============================================================
+[2026-08-28 17:34:02] Watchdog started — checking every 60s  (max_restarts=50)
+[2026-08-28 17:34:02] Registered runs: ['noise_floor']
+[2026-08-28 17:34:02] ============================================================
+[2026-08-28 17:34:05] [17:34] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=599m  workers=NO
+[2026-08-28 17:34:05]   STALLED: 9h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 17:34:05]   committed 7 non-source file(s): ['results/ablation_scheduler.log', 'results/noise_floor_run.log', 'results/supervisor.log', 'results/watchdog.log', 'results/watchdog_state.json']
+[2026-08-28 17:34:05]   resuming from checkpoint: noise_floor_ckpt_20260828_0653.json
+[2026-08-28 17:34:05]   relaunched (restart #3/50)
+[2026-08-28 17:34:30] ============================================================
+[2026-08-28 17:34:30] Watchdog started — checking every 60s  (max_restarts=50)
+[2026-08-28 17:34:30] Registered runs: ['noise_floor']
+[2026-08-28 17:34:30] ============================================================
+[2026-08-28 17:34:32] [17:34] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=600m  workers=NO
+[2026-08-28 17:34:32]   STALLED: 10h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 17:34:33]   committed 6 non-source file(s): ['results/noise_floor_run.log', 'results/supervisor.log', 'results/watchdog.log', 'results/watchdog_state.json', 'results/analysis/noise_floor_20260828_1734.csv']
+[2026-08-28 17:34:33]   resuming from checkpoint: noise_floor_ckpt_20260828_0653.json
+[2026-08-28 17:34:33]   relaunched (restart #4/50)
+[2026-08-28 17:35:36] [17:35] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=601m  workers=yes
+[2026-08-28 17:36:38] [17:36] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=602m  workers=yes
+[2026-08-28 17:37:41] [17:37] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=603m  workers=yes
+[2026-08-28 17:38:44] [17:38] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=604m  workers=yes
+[2026-08-28 17:39:47] [17:39] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=605m  workers=yes
+[2026-08-28 17:40:49] [17:40] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=606m  workers=yes
+[2026-08-28 17:41:52] [17:41] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=607m  workers=yes
+[2026-08-28 17:42:55] [17:42] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=608m  workers=yes
+[2026-08-28 17:43:58] [17:43] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=609m  workers=yes
+[2026-08-28 17:44:46] ============================================================
+[2026-08-28 17:44:46] Watchdog started — checking every 60s  (max_restarts=50)
+[2026-08-28 17:44:46] Registered runs: ['noise_floor']
+[2026-08-28 17:44:46] ============================================================
+[2026-08-28 17:44:49] [17:44] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=610m  workers=NO
+[2026-08-28 17:44:49]   STALLED: 10h since last checkpoint write, no workers. Autofixing.
+[2026-08-28 17:44:49]   committed 6 non-source file(s): ['results/ablation_scheduler.log', 'results/analysis/noise_floor_20260828_1734_manifest.json', 'results/noise_floor_run.log', 'results/supervisor.log', 'results/watchdog.log']
+[2026-08-28 17:44:49]   resuming from checkpoint: noise_floor_ckpt_20260828_0653.json
+[2026-08-28 17:44:49]   relaunched (restart #5/50)
+[2026-08-28 17:45:52] [17:45] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=611m  workers=yes
+[2026-08-28 17:46:54] [17:46] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=612m  workers=yes
+[2026-08-28 17:47:57] [17:47] Tier2-NoiseFloor: ckpt=3/70  rows=3  age=613m  workers=yes
+[2026-08-28 17:49:00] [17:49] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=0m  workers=yes
+[2026-08-28 17:50:03] [17:50] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=1m  workers=yes
+[2026-08-28 17:51:06] [17:51] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=2m  workers=yes
+[2026-08-28 17:52:08] [17:52] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=3m  workers=yes
+[2026-08-28 17:53:11] [17:53] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=4m  workers=yes
+[2026-08-28 17:54:14] [17:54] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=5m  workers=yes
+[2026-08-28 17:55:17] [17:55] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=7m  workers=yes
+[2026-08-28 17:56:19] [17:56] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=8m  workers=yes
+[2026-08-28 17:57:22] [17:57] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=9m  workers=yes
+[2026-08-28 17:58:25] [17:58] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=10m  workers=yes
+[2026-08-28 17:59:28] [17:59] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=11m  workers=yes
+[2026-08-28 18:00:31] [18:00] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=12m  workers=yes
+[2026-08-28 18:01:33] [18:01] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=13m  workers=yes
+[2026-08-28 18:02:36] [18:02] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=14m  workers=yes
+[2026-08-28 18:03:39] [18:03] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=15m  workers=yes
+[2026-08-28 18:04:41] [18:04] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=16m  workers=yes
+[2026-08-28 18:05:44] [18:05] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=17m  workers=yes
+[2026-08-28 18:06:47] [18:06] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=18m  workers=yes
+[2026-08-28 18:07:50] [18:07] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=19m  workers=yes
+[2026-08-28 18:08:52] [18:08] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=20m  workers=yes
+[2026-08-28 18:09:55] [18:09] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=21m  workers=yes
+[2026-08-28 18:10:58] [18:10] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=22m  workers=yes
+[2026-08-28 18:12:01] [18:12] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=23m  workers=yes
+[2026-08-28 18:13:03] [18:13] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=24m  workers=yes
+[2026-08-28 18:14:06] [18:14] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=25m  workers=yes
+[2026-08-28 18:15:10] [18:15] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=26m  workers=yes
+[2026-08-28 18:16:12] [18:16] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=27m  workers=yes
+[2026-08-28 18:17:15] [18:17] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=28m  workers=yes
+[2026-08-28 18:18:18] [18:18] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=30m  workers=yes
+[2026-08-28 18:19:20] [18:19] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=31m  workers=yes
+[2026-08-28 18:20:23] [18:20] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=32m  workers=yes
+[2026-08-28 18:21:26] [18:21] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=33m  workers=yes
+[2026-08-28 18:22:29] [18:22] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=34m  workers=yes
+[2026-08-28 18:23:31] [18:23] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=35m  workers=yes
+[2026-08-28 18:24:34] [18:24] Tier2-NoiseFloor: ckpt=4/70  rows=4  age=36m  workers=yes
+[2026-08-28 18:25:36] [18:25] Tier2-NoiseFloor: ckpt=6/70  rows=6  age=0m  workers=yes
+[2026-08-28 18:26:39] [18:26] Tier2-NoiseFloor: ckpt=8/70  rows=8  age=0m  workers=yes
+[2026-08-28 18:27:42] [18:27] Tier2-NoiseFloor: ckpt=8/70  rows=8  age=1m  workers=yes
+[2026-08-28 18:28:45] [18:28] Tier2-NoiseFloor: ckpt=8/70  rows=8  age=2m  workers=yes
+[2026-08-28 18:29:47] [18:29] Tier2-NoiseFloor: ckpt=8/70  rows=8  age=3m  workers=yes
+[2026-08-28 18:30:50] [18:30] Tier2-NoiseFloor: ckpt=8/70  rows=8  age=4m  workers=yes
+[2026-08-28 18:31:53] [18:31] Tier2-NoiseFloor: ckpt=8/70  rows=8  age=5m  workers=yes
+[2026-08-28 18:32:55] [18:32] Tier2-NoiseFloor: ckpt=8/70  rows=8  age=6m  workers=yes
+[2026-08-28 18:33:58] [18:33] Tier2-NoiseFloor: ckpt=8/70  rows=8  age=7m  workers=yes
+[2026-08-28 18:35:01] [18:35] Tier2-NoiseFloor: ckpt=8/70  rows=8  age=8m  workers=yes
+[2026-08-28 18:36:03] [18:36] Tier2-NoiseFloor: ckpt=8/70  rows=8  age=9m  workers=yes
+[2026-08-28 18:37:06] [18:37] Tier2-NoiseFloor: ckpt=9/70  rows=9  age=0m  workers=yes
+[2026-08-28 18:38:09] [18:38] Tier2-NoiseFloor: ckpt=9/70  rows=9  age=1m  workers=yes
+[2026-08-28 18:39:12] [18:39] Tier2-NoiseFloor: ckpt=9/70  rows=9  age=2m  workers=yes
+[2026-08-28 18:40:14] [18:40] Tier2-NoiseFloor: ckpt=9/70  rows=9  age=3m  workers=yes
+[2026-08-28 18:41:17] [18:41] Tier2-NoiseFloor: ckpt=10/70  rows=10  age=0m  workers=yes
+[2026-08-28 18:42:20] [18:42] Tier2-NoiseFloor: ckpt=10/70  rows=10  age=1m  workers=yes
+[2026-08-28 18:43:22] [18:43] Tier2-NoiseFloor: ckpt=10/70  rows=10  age=2m  workers=yes
+[2026-08-28 18:44:25] [18:44] Tier2-NoiseFloor: ckpt=10/70  rows=10  age=3m  workers=yes
+[2026-08-28 18:45:28] [18:45] Tier2-NoiseFloor: ckpt=10/70  rows=10  age=4m  workers=yes
+[2026-08-28 18:46:31] [18:46] Tier2-NoiseFloor: ckpt=10/70  rows=10  age=5m  workers=yes
+[2026-08-28 18:47:33] [18:47] Tier2-NoiseFloor: ckpt=10/70  rows=10  age=6m  workers=yes
+[2026-08-28 18:48:36] [18:48] Tier2-NoiseFloor: ckpt=10/70  rows=10  age=7m  workers=yes
+[2026-08-28 18:49:39] [18:49] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=0m  workers=yes
+[2026-08-28 18:50:42] [18:50] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=1m  workers=yes
+[2026-08-28 18:51:44] [18:51] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=2m  workers=yes
+[2026-08-28 18:52:47] [18:52] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=3m  workers=yes
+[2026-08-28 18:53:50] [18:53] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=4m  workers=yes
+[2026-08-28 18:54:52] [18:54] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=5m  workers=yes
+[2026-08-28 18:55:55] [18:55] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=6m  workers=yes
+[2026-08-28 18:56:58] [18:56] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=7m  workers=yes
+[2026-08-28 18:58:00] [18:58] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=8m  workers=yes
+[2026-08-28 18:59:03] [18:59] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=9m  workers=yes
+[2026-08-28 19:00:06] [19:00] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=10m  workers=yes
+[2026-08-28 19:01:09] [19:01] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=11m  workers=yes
+[2026-08-28 19:02:11] [19:02] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=12m  workers=yes
+[2026-08-28 19:03:14] [19:03] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=13m  workers=yes
+[2026-08-28 19:04:17] [19:04] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=14m  workers=yes
+[2026-08-28 19:05:20] [19:05] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=15m  workers=yes
+[2026-08-28 19:06:22] [19:06] Tier2-NoiseFloor: ckpt=11/70  rows=11  age=17m  workers=yes
+[2026-08-28 19:07:25] [19:07] Tier2-NoiseFloor: ckpt=12/70  rows=12  age=0m  workers=yes
+[2026-08-28 19:08:28] [19:08] Tier2-NoiseFloor: ckpt=12/70  rows=12  age=1m  workers=yes
+[2026-08-28 19:09:31] [19:09] Tier2-NoiseFloor: ckpt=12/70  rows=12  age=2m  workers=yes
+[2026-08-28 19:10:33] [19:10] Tier2-NoiseFloor: ckpt=12/70  rows=12  age=3m  workers=yes
+[2026-08-28 19:11:36] [19:11] Tier2-NoiseFloor: ckpt=12/70  rows=12  age=4m  workers=yes
+[2026-08-28 19:12:39] [19:12] Tier2-NoiseFloor: ckpt=12/70  rows=12  age=5m  workers=yes
+[2026-08-28 19:13:42] [19:13] Tier2-NoiseFloor: ckpt=12/70  rows=12  age=6m  workers=yes
+[2026-08-28 19:14:44] [19:14] Tier2-NoiseFloor: ckpt=12/70  rows=12  age=7m  workers=yes
+[2026-08-28 19:15:47] [19:15] Tier2-NoiseFloor: ckpt=12/70  rows=12  age=8m  workers=yes
+[2026-08-28 19:16:50] [19:16] Tier2-NoiseFloor: ckpt=12/70  rows=12  age=9m  workers=yes
+[2026-08-28 19:17:52] [19:17] Tier2-NoiseFloor: ckpt=12/70  rows=12  age=10m  workers=yes
+[2026-08-28 19:18:55] [19:18] Tier2-NoiseFloor: ckpt=13/70  rows=13  age=0m  workers=yes
+[2026-08-28 19:19:58] [19:19] Tier2-NoiseFloor: ckpt=13/70  rows=13  age=1m  workers=yes
+[2026-08-28 19:21:00] [19:21] Tier2-NoiseFloor: ckpt=13/70  rows=13  age=2m  workers=yes
+[2026-08-28 19:22:03] [19:22] Tier2-NoiseFloor: ckpt=13/70  rows=13  age=3m  workers=yes
+[2026-08-28 19:23:06] [19:23] Tier2-NoiseFloor: ckpt=13/70  rows=13  age=4m  workers=yes
+[2026-08-28 19:24:09] [19:24] Tier2-NoiseFloor: ckpt=15/70  rows=15  age=0m  workers=yes
+[2026-08-28 19:25:11] [19:25] Tier2-NoiseFloor: ckpt=15/70  rows=15  age=1m  workers=yes
+[2026-08-28 19:26:14] [19:26] Tier2-NoiseFloor: ckpt=15/70  rows=15  age=2m  workers=yes
+[2026-08-28 19:27:17] [19:27] Tier2-NoiseFloor: ckpt=15/70  rows=15  age=3m  workers=yes
+[2026-08-28 19:28:19] [19:28] Tier2-NoiseFloor: ckpt=15/70  rows=15  age=4m  workers=yes
+[2026-08-28 19:29:22] [19:29] Tier2-NoiseFloor: ckpt=15/70  rows=15  age=5m  workers=yes
+[2026-08-28 19:30:25] [19:30] Tier2-NoiseFloor: ckpt=15/70  rows=15  age=6m  workers=yes
+[2026-08-28 19:31:28] [19:31] Tier2-NoiseFloor: ckpt=16/70  rows=16  age=0m  workers=yes
+[2026-08-28 19:32:30] [19:32] Tier2-NoiseFloor: ckpt=16/70  rows=16  age=1m  workers=yes
+[2026-08-28 19:33:33] [19:33] Tier2-NoiseFloor: ckpt=16/70  rows=16  age=2m  workers=yes
+[2026-08-28 19:34:36] [19:34] Tier2-NoiseFloor: ckpt=16/70  rows=16  age=3m  workers=yes
+[2026-08-28 19:35:39] [19:35] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=0m  workers=yes
+[2026-08-28 19:36:42] [19:36] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=1m  workers=yes
+[2026-08-28 19:37:44] [19:37] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=2m  workers=yes
+[2026-08-28 19:38:47] [19:38] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=3m  workers=yes
+[2026-08-28 19:39:50] [19:39] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=4m  workers=yes
+[2026-08-28 19:40:52] [19:40] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=5m  workers=yes
+[2026-08-28 19:41:55] [19:41] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=6m  workers=yes
+[2026-08-28 19:42:58] [19:42] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=7m  workers=yes
+[2026-08-28 19:44:00] [19:44] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=8m  workers=yes
+[2026-08-28 19:45:03] [19:45] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=9m  workers=yes
+[2026-08-28 19:46:06] [19:46] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=10m  workers=yes
+[2026-08-28 19:47:09] [19:47] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=11m  workers=yes
+[2026-08-28 19:48:11] [19:48] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=12m  workers=yes
+[2026-08-28 19:49:14] [19:49] Tier2-NoiseFloor: ckpt=17/70  rows=17  age=13m  workers=yes
+[2026-08-28 19:50:17] [19:50] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=0m  workers=yes
+[2026-08-28 19:51:20] [19:51] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=1m  workers=yes
+[2026-08-28 19:52:22] [19:52] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=2m  workers=yes
+[2026-08-28 19:53:25] [19:53] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=4m  workers=yes
+[2026-08-28 19:54:28] [19:54] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=5m  workers=yes
+[2026-08-28 19:55:31] [19:55] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=6m  workers=yes
+[2026-08-28 19:56:33] [19:56] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=7m  workers=yes
+[2026-08-28 19:57:36] [19:57] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=8m  workers=yes
+[2026-08-28 19:58:39] [19:58] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=9m  workers=yes
+[2026-08-28 19:59:42] [19:59] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=10m  workers=yes
+[2026-08-28 20:00:44] [20:00] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=11m  workers=yes
+[2026-08-28 20:01:47] [20:01] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=12m  workers=yes
+[2026-08-28 20:02:50] [20:02] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=13m  workers=yes
+[2026-08-28 20:03:52] [20:03] Tier2-NoiseFloor: ckpt=18/70  rows=18  age=14m  workers=yes
+[2026-08-28 20:04:55] [20:04] Tier2-NoiseFloor: ckpt=19/70  rows=19  age=0m  workers=yes
+[2026-08-28 20:05:58] [20:05] Tier2-NoiseFloor: ckpt=19/70  rows=19  age=2m  workers=yes
+[2026-08-28 20:07:01] [20:07] Tier2-NoiseFloor: ckpt=19/70  rows=19  age=3m  workers=yes
+[2026-08-28 20:08:03] [20:08] Tier2-NoiseFloor: ckpt=19/70  rows=19  age=4m  workers=yes
+[2026-08-28 20:09:06] [20:09] Tier2-NoiseFloor: ckpt=19/70  rows=19  age=5m  workers=yes
+[2026-08-28 20:10:09] [20:10] Tier2-NoiseFloor: ckpt=19/70  rows=19  age=6m  workers=yes
+[2026-08-28 20:11:12] [20:11] Tier2-NoiseFloor: ckpt=19/70  rows=19  age=7m  workers=yes
+[2026-08-28 20:12:14] [20:12] Tier2-NoiseFloor: ckpt=20/70  rows=20  age=0m  workers=yes
+[2026-08-28 20:13:17] [20:13] Tier2-NoiseFloor: ckpt=20/70  rows=20  age=1m  workers=yes
+[2026-08-28 20:14:20] [20:14] Tier2-NoiseFloor: ckpt=20/70  rows=20  age=2m  workers=yes
+[2026-08-28 20:15:22] [20:15] Tier2-NoiseFloor: ckpt=20/70  rows=20  age=3m  workers=yes
+[2026-08-28 20:16:25] [20:16] Tier2-NoiseFloor: ckpt=20/70  rows=20  age=5m  workers=yes
+[2026-08-28 20:17:28] [20:17] Tier2-NoiseFloor: ckpt=20/70  rows=20  age=6m  workers=yes
+[2026-08-28 20:18:30] [20:18] Tier2-NoiseFloor: ckpt=20/70  rows=20  age=7m  workers=yes
+[2026-08-28 20:19:33] [20:19] Tier2-NoiseFloor: ckpt=20/70  rows=20  age=8m  workers=yes
+[2026-08-28 20:20:36] [20:20] Tier2-NoiseFloor: ckpt=20/70  rows=20  age=9m  workers=yes
+[2026-08-28 20:21:39] [20:21] Tier2-NoiseFloor: ckpt=21/70  rows=21  age=0m  workers=yes
+[2026-08-28 20:22:41] [20:22] Tier2-NoiseFloor: ckpt=21/70  rows=21  age=1m  workers=yes
+[2026-08-28 20:23:44] [20:23] Tier2-NoiseFloor: ckpt=21/70  rows=21  age=2m  workers=yes
+[2026-08-28 20:24:47] [20:24] Tier2-NoiseFloor: ckpt=21/70  rows=21  age=3m  workers=yes
+[2026-08-28 20:25:50] [20:25] Tier2-NoiseFloor: ckpt=21/70  rows=21  age=4m  workers=yes
+[2026-08-28 20:26:52] [20:26] Tier2-NoiseFloor: ckpt=21/70  rows=21  age=5m  workers=yes
+[2026-08-28 20:27:55] [20:27] Tier2-NoiseFloor: ckpt=21/70  rows=21  age=6m  workers=yes
+[2026-08-28 20:28:58] [20:28] Tier2-NoiseFloor: ckpt=21/70  rows=21  age=7m  workers=yes
+[2026-08-28 20:30:00] [20:30] Tier2-NoiseFloor: ckpt=22/70  rows=22  age=0m  workers=yes
+[2026-08-28 20:31:03] [20:31] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=0m  workers=yes
+[2026-08-28 20:32:06] [20:32] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=1m  workers=yes
+[2026-08-28 20:33:09] [20:33] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=2m  workers=yes
+[2026-08-28 20:34:11] [20:34] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=3m  workers=yes
+[2026-08-28 20:35:14] [20:35] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=4m  workers=yes
+[2026-08-28 20:36:17] [20:36] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=5m  workers=yes
+[2026-08-28 20:37:20] [20:37] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=6m  workers=yes
+[2026-08-28 20:38:22] [20:38] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=7m  workers=yes
+[2026-08-28 20:39:25] [20:39] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=8m  workers=yes
+[2026-08-28 20:40:28] [20:40] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=9m  workers=yes
+[2026-08-28 20:41:30] [20:41] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=10m  workers=yes
+[2026-08-28 20:42:33] [20:42] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=11m  workers=yes
+[2026-08-28 20:43:36] [20:43] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=12m  workers=yes
+[2026-08-28 20:44:38] [20:44] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=13m  workers=yes
+[2026-08-28 20:45:41] [20:45] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=14m  workers=yes
+[2026-08-28 20:46:44] [20:46] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=15m  workers=yes
+[2026-08-28 20:47:47] [20:47] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=16m  workers=yes
+[2026-08-28 20:48:49] [20:48] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=17m  workers=yes
+[2026-08-28 20:49:52] [20:49] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=18m  workers=yes
+[2026-08-28 20:50:55] [20:50] Tier2-NoiseFloor: ckpt=23/70  rows=23  age=20m  workers=yes
+[2026-08-28 20:51:58] [20:51] Tier2-NoiseFloor: ckpt=25/70  rows=25  age=0m  workers=yes
+[2026-08-28 20:53:00] [20:53] Tier2-NoiseFloor: ckpt=25/70  rows=25  age=1m  workers=yes
+[2026-08-28 20:54:03] [20:54] Tier2-NoiseFloor: ckpt=26/70  rows=26  age=0m  workers=yes
+[2026-08-28 20:55:06] [20:55] Tier2-NoiseFloor: ckpt=26/70  rows=26  age=1m  workers=yes
+[2026-08-28 20:56:09] [20:56] Tier2-NoiseFloor: ckpt=26/70  rows=26  age=2m  workers=yes
+[2026-08-28 20:57:11] [20:57] Tier2-NoiseFloor: ckpt=26/70  rows=26  age=3m  workers=yes
+[2026-08-28 20:58:14] [20:58] Tier2-NoiseFloor: ckpt=26/70  rows=26  age=4m  workers=yes
+[2026-08-28 20:59:17] [20:59] Tier2-NoiseFloor: ckpt=26/70  rows=26  age=5m  workers=yes
+[2026-08-28 21:00:20] [21:00] Tier2-NoiseFloor: ckpt=26/70  rows=26  age=6m  workers=yes
+[2026-08-28 21:01:22] [21:01] Tier2-NoiseFloor: ckpt=26/70  rows=26  age=7m  workers=yes
+[2026-08-28 21:02:25] [21:02] Tier2-NoiseFloor: ckpt=27/70  rows=27  age=0m  workers=yes
+[2026-08-28 21:03:28] [21:03] Tier2-NoiseFloor: ckpt=27/70  rows=27  age=1m  workers=yes
+[2026-08-28 21:04:30] [21:04] Tier2-NoiseFloor: ckpt=27/70  rows=27  age=2m  workers=yes
+[2026-08-28 21:05:33] [21:05] Tier2-NoiseFloor: ckpt=28/70  rows=28  age=0m  workers=yes
+[2026-08-28 21:06:36] [21:06] Tier2-NoiseFloor: ckpt=29/70  rows=29  age=0m  workers=yes
+[2026-08-28 21:07:39] [21:07] Tier2-NoiseFloor: ckpt=29/70  rows=29  age=1m  workers=yes
+[2026-08-28 21:08:41] [21:08] Tier2-NoiseFloor: ckpt=29/70  rows=29  age=2m  workers=yes
+[2026-08-28 21:09:44] [21:09] Tier2-NoiseFloor: ckpt=29/70  rows=29  age=3m  workers=yes
+[2026-08-28 21:10:47] [21:10] Tier2-NoiseFloor: ckpt=29/70  rows=29  age=4m  workers=yes
+[2026-08-28 21:11:49] [21:11] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=0m  workers=yes
+[2026-08-28 21:12:52] [21:12] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=1m  workers=yes
+[2026-08-28 21:13:55] [21:13] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=2m  workers=yes
+[2026-08-28 21:14:58] [21:14] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=3m  workers=yes
+[2026-08-28 21:16:00] [21:16] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=4m  workers=yes
+[2026-08-28 21:17:03] [21:17] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=5m  workers=yes
+[2026-08-28 21:18:06] [21:18] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=6m  workers=yes
+[2026-08-28 21:19:08] [21:19] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=7m  workers=yes
+[2026-08-28 21:20:11] [21:20] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=8m  workers=yes
+[2026-08-28 21:21:14] [21:21] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=9m  workers=yes
+[2026-08-28 21:22:17] [21:22] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=10m  workers=yes
+[2026-08-28 21:23:19] [21:23] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=11m  workers=yes
+[2026-08-28 21:24:22] [21:24] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=12m  workers=yes
+[2026-08-28 21:25:25] [21:25] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=13m  workers=yes
+[2026-08-28 21:26:28] [21:26] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=14m  workers=yes
+[2026-08-28 21:27:30] [21:27] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=15m  workers=yes
+[2026-08-28 21:28:33] [21:28] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=16m  workers=yes
+[2026-08-28 21:29:36] [21:29] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=17m  workers=yes
+[2026-08-28 21:30:39] [21:30] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=19m  workers=yes
+[2026-08-28 21:31:41] [21:31] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=20m  workers=yes
+[2026-08-28 21:32:44] [21:32] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=21m  workers=yes
+[2026-08-28 21:33:47] [21:33] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=22m  workers=yes
+[2026-08-28 21:34:50] [21:34] Tier2-NoiseFloor: ckpt=30/70  rows=30  age=23m  workers=yes
+[2026-08-28 21:35:52] [21:35] Tier2-NoiseFloor: ckpt=31/70  rows=31  age=0m  workers=yes
+[2026-08-28 21:36:55] [21:36] Tier2-NoiseFloor: ckpt=31/70  rows=31  age=1m  workers=yes
+[2026-08-28 21:37:58] [21:37] Tier2-NoiseFloor: ckpt=31/70  rows=31  age=2m  workers=yes
+[2026-08-28 21:39:00] [21:39] Tier2-NoiseFloor: ckpt=31/70  rows=31  age=3m  workers=yes
+[2026-08-28 21:40:03] [21:40] Tier2-NoiseFloor: ckpt=31/70  rows=31  age=4m  workers=yes
+[2026-08-28 21:41:06] [21:41] Tier2-NoiseFloor: ckpt=31/70  rows=31  age=5m  workers=yes
+[2026-08-28 21:42:09] [21:42] Tier2-NoiseFloor: ckpt=31/70  rows=31  age=6m  workers=yes
+[2026-08-28 21:43:11] [21:43] Tier2-NoiseFloor: ckpt=32/70  rows=32  age=0m  workers=yes
+[2026-08-28 21:44:14] [21:44] Tier2-NoiseFloor: ckpt=33/70  rows=33  age=0m  workers=yes
+[2026-08-28 21:45:17] [21:45] Tier2-NoiseFloor: ckpt=33/70  rows=33  age=1m  workers=yes
+[2026-08-28 21:46:20] [21:46] Tier2-NoiseFloor: ckpt=33/70  rows=33  age=2m  workers=yes
+[2026-08-28 21:47:22] [21:47] Tier2-NoiseFloor: ckpt=34/70  rows=34  age=0m  workers=yes
+[2026-08-28 21:48:25] [21:48] Tier2-NoiseFloor: ckpt=34/70  rows=34  age=1m  workers=yes
+[2026-08-28 21:49:28] [21:49] Tier2-NoiseFloor: ckpt=34/70  rows=34  age=2m  workers=yes
+[2026-08-28 21:50:31] [21:50] Tier2-NoiseFloor: ckpt=34/70  rows=34  age=3m  workers=yes
+[2026-08-28 21:51:33] [21:51] Tier2-NoiseFloor: ckpt=34/70  rows=34  age=5m  workers=yes
+[2026-08-28 21:52:36] [21:52] Tier2-NoiseFloor: ckpt=35/70  rows=35  age=0m  workers=yes
+[2026-08-28 21:53:39] [21:53] Tier2-NoiseFloor: ckpt=35/70  rows=35  age=1m  workers=yes
+[2026-08-28 21:54:41] [21:54] Tier2-NoiseFloor: ckpt=35/70  rows=35  age=2m  workers=yes
+[2026-08-28 21:55:44] [21:55] Tier2-NoiseFloor: ckpt=35/70  rows=35  age=3m  workers=yes
+[2026-08-28 21:56:47] [21:56] Tier2-NoiseFloor: ckpt=35/70  rows=35  age=4m  workers=yes
+[2026-08-28 21:57:50] [21:57] Tier2-NoiseFloor: ckpt=35/70  rows=35  age=5m  workers=yes
+[2026-08-28 21:58:52] [21:58] Tier2-NoiseFloor: ckpt=35/70  rows=35  age=6m  workers=yes
+[2026-08-28 21:59:55] [21:59] Tier2-NoiseFloor: ckpt=35/70  rows=35  age=7m  workers=yes
+[2026-08-28 22:00:58] [22:00] Tier2-NoiseFloor: ckpt=35/70  rows=35  age=8m  workers=yes
+[2026-08-28 22:02:00] [22:02] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=0m  workers=yes
+[2026-08-28 22:03:03] [22:03] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=1m  workers=yes
+[2026-08-28 22:04:06] [22:04] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=2m  workers=yes
+[2026-08-28 22:05:09] [22:05] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=3m  workers=yes
+[2026-08-28 22:06:11] [22:06] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=4m  workers=yes
+[2026-08-28 22:07:14] [22:07] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=6m  workers=yes
+[2026-08-28 22:08:17] [22:08] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=7m  workers=yes
+[2026-08-28 22:09:20] [22:09] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=8m  workers=yes
+[2026-08-28 22:10:22] [22:10] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=9m  workers=yes
+[2026-08-28 22:11:25] [22:11] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=10m  workers=yes
+[2026-08-28 22:12:28] [22:12] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=11m  workers=yes
+[2026-08-28 22:13:30] [22:13] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=12m  workers=yes
+[2026-08-28 22:14:33] [22:14] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=13m  workers=yes
+[2026-08-28 22:15:36] [22:15] Tier2-NoiseFloor: ckpt=36/70  rows=36  age=14m  workers=yes
+[2026-08-28 22:16:39] [22:16] Tier2-NoiseFloor: ckpt=37/70  rows=37  age=0m  workers=yes
+[2026-08-28 22:17:42] [22:17] Tier2-NoiseFloor: ckpt=37/70  rows=37  age=1m  workers=yes
+[2026-08-28 22:18:44] [22:18] Tier2-NoiseFloor: ckpt=37/70  rows=37  age=2m  workers=yes
+[2026-08-28 22:19:47] [22:19] Tier2-NoiseFloor: ckpt=37/70  rows=37  age=3m  workers=yes
+[2026-08-28 22:20:50] [22:20] Tier2-NoiseFloor: ckpt=37/70  rows=37  age=4m  workers=yes
+[2026-08-28 22:21:53] [22:21] Tier2-NoiseFloor: ckpt=37/70  rows=37  age=5m  workers=yes
+[2026-08-28 22:22:55] [22:22] Tier2-NoiseFloor: ckpt=37/70  rows=37  age=6m  workers=yes
+[2026-08-28 22:23:58] [22:23] Tier2-NoiseFloor: ckpt=37/70  rows=37  age=7m  workers=yes
+[2026-08-28 22:25:01] [22:25] Tier2-NoiseFloor: ckpt=37/70  rows=37  age=8m  workers=yes
+[2026-08-28 22:26:03] [22:26] Tier2-NoiseFloor: ckpt=37/70  rows=37  age=9m  workers=yes
+[2026-08-28 22:27:06] [22:27] Tier2-NoiseFloor: ckpt=37/70  rows=37  age=10m  workers=yes
+[2026-08-28 22:28:09] [22:28] Tier2-NoiseFloor: ckpt=39/70  rows=39  age=0m  workers=yes
+[2026-08-28 22:29:12] [22:29] Tier2-NoiseFloor: ckpt=39/70  rows=39  age=1m  workers=yes
+[2026-08-28 22:30:15] [22:30] Tier2-NoiseFloor: ckpt=40/70  rows=40  age=0m  workers=yes
+[2026-08-28 22:31:17] [22:31] Tier2-NoiseFloor: ckpt=41/70  rows=41  age=0m  workers=yes
+[2026-08-28 22:32:20] [22:32] Tier2-NoiseFloor: ckpt=41/70  rows=41  age=1m  workers=yes
+[2026-08-28 22:33:23] [22:33] Tier2-NoiseFloor: ckpt=42/70  rows=42  age=0m  workers=yes
+[2026-08-28 22:34:25] [22:34] Tier2-NoiseFloor: ckpt=42/70  rows=42  age=1m  workers=yes
+[2026-08-28 22:35:28] [22:35] Tier2-NoiseFloor: ckpt=42/70  rows=42  age=2m  workers=yes
+[2026-08-28 22:36:31] [22:36] Tier2-NoiseFloor: ckpt=42/70  rows=42  age=3m  workers=yes
+[2026-08-28 22:37:34] [22:37] Tier2-NoiseFloor: ckpt=42/70  rows=42  age=4m  workers=yes
+[2026-08-28 22:38:37] [22:38] Tier2-NoiseFloor: ckpt=42/70  rows=42  age=5m  workers=yes
+[2026-08-28 22:39:39] [22:39] Tier2-NoiseFloor: ckpt=42/70  rows=42  age=6m  workers=yes
+[2026-08-28 22:40:42] [22:40] Tier2-NoiseFloor: ckpt=42/70  rows=42  age=7m  workers=yes
+[2026-08-28 22:41:45] [22:41] Tier2-NoiseFloor: ckpt=42/70  rows=42  age=8m  workers=yes
+[2026-08-28 22:42:47] [22:42] Tier2-NoiseFloor: ckpt=42/70  rows=42  age=9m  workers=yes
+[2026-08-28 22:43:50] [22:43] Tier2-NoiseFloor: ckpt=42/70  rows=42  age=10m  workers=yes
+[2026-08-28 22:44:53] [22:44] Tier2-NoiseFloor: ckpt=42/70  rows=42  age=11m  workers=yes
+[2026-08-28 22:45:56] [22:45] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=0m  workers=yes
+[2026-08-28 22:46:58] [22:46] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=1m  workers=yes
+[2026-08-28 22:48:01] [22:48] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=2m  workers=yes
+[2026-08-28 22:49:04] [22:49] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=4m  workers=yes
+[2026-08-28 22:50:06] [22:50] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=5m  workers=yes
+[2026-08-28 22:51:09] [22:51] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=6m  workers=yes
+[2026-08-28 22:52:12] [22:52] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=7m  workers=yes
+[2026-08-28 22:53:15] [22:53] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=8m  workers=yes
+[2026-08-28 22:54:17] [22:54] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=9m  workers=yes
+[2026-08-28 22:55:20] [22:55] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=10m  workers=yes
+[2026-08-28 22:56:23] [22:56] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=11m  workers=yes
+[2026-08-28 22:57:25] [22:57] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=12m  workers=yes
+[2026-08-28 22:58:28] [22:58] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=13m  workers=yes
+[2026-08-28 22:59:31] [22:59] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=14m  workers=yes
+[2026-08-28 23:00:33] [23:00] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=15m  workers=yes
+[2026-08-28 23:01:36] [23:01] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=16m  workers=yes
+[2026-08-28 23:02:39] [23:02] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=17m  workers=yes
+[2026-08-28 23:03:42] [23:03] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=18m  workers=yes
+[2026-08-28 23:04:44] [23:04] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=19m  workers=yes
+[2026-08-28 23:05:47] [23:05] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=20m  workers=yes
+[2026-08-28 23:06:50] [23:06] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=21m  workers=yes
+[2026-08-28 23:07:52] [23:07] Tier2-NoiseFloor: ckpt=43/70  rows=43  age=22m  workers=yes
+[2026-08-28 23:08:55] [23:08] Tier2-NoiseFloor: ckpt=45/70  rows=45  age=0m  workers=yes
+[2026-08-28 23:09:58] [23:09] Tier2-NoiseFloor: ckpt=45/70  rows=45  age=1m  workers=yes
+[2026-08-28 23:11:00] [23:11] Tier2-NoiseFloor: ckpt=45/70  rows=45  age=2m  workers=yes
+[2026-08-28 23:12:03] [23:12] Tier2-NoiseFloor: ckpt=47/70  rows=47  age=0m  workers=yes
+[2026-08-28 23:13:06] [23:13] Tier2-NoiseFloor: ckpt=47/70  rows=47  age=1m  workers=yes
+[2026-08-28 23:14:09] [23:14] Tier2-NoiseFloor: ckpt=47/70  rows=47  age=2m  workers=yes
+[2026-08-28 23:15:12] [23:15] Tier2-NoiseFloor: ckpt=47/70  rows=47  age=3m  workers=yes
+[2026-08-28 23:16:14] [23:16] Tier2-NoiseFloor: ckpt=47/70  rows=47  age=4m  workers=yes
+[2026-08-28 23:17:17] [23:17] Tier2-NoiseFloor: ckpt=47/70  rows=47  age=5m  workers=yes
+[2026-08-28 23:18:20] [23:18] Tier2-NoiseFloor: ckpt=47/70  rows=47  age=6m  workers=yes
+[2026-08-28 23:19:23] [23:19] Tier2-NoiseFloor: ckpt=47/70  rows=47  age=7m  workers=yes
+[2026-08-28 23:20:25] [23:20] Tier2-NoiseFloor: ckpt=47/70  rows=47  age=8m  workers=yes
+[2026-08-28 23:21:28] [23:21] Tier2-NoiseFloor: ckpt=47/70  rows=47  age=9m  workers=yes
+[2026-08-28 23:22:31] [23:22] Tier2-NoiseFloor: ckpt=48/70  rows=48  age=0m  workers=yes
+[2026-08-28 23:23:33] [23:23] Tier2-NoiseFloor: ckpt=48/70  rows=48  age=1m  workers=yes
+[2026-08-28 23:24:36] [23:24] Tier2-NoiseFloor: ckpt=48/70  rows=48  age=2m  workers=yes
+[2026-08-28 23:25:39] [23:25] Tier2-NoiseFloor: ckpt=48/70  rows=48  age=4m  workers=yes
+[2026-08-28 23:26:42] [23:26] Tier2-NoiseFloor: ckpt=48/70  rows=48  age=5m  workers=yes
+[2026-08-28 23:27:44] [23:27] Tier2-NoiseFloor: ckpt=48/70  rows=48  age=6m  workers=yes
+[2026-08-28 23:28:47] [23:28] Tier2-NoiseFloor: ckpt=48/70  rows=48  age=7m  workers=yes
+[2026-08-28 23:29:50] [23:29] Tier2-NoiseFloor: ckpt=48/70  rows=48  age=8m  workers=yes
+[2026-08-28 23:30:52] [23:30] Tier2-NoiseFloor: ckpt=48/70  rows=48  age=9m  workers=yes
+[2026-08-28 23:31:55] [23:31] Tier2-NoiseFloor: ckpt=49/70  rows=49  age=0m  workers=yes
+[2026-08-28 23:32:58] [23:32] Tier2-NoiseFloor: ckpt=49/70  rows=49  age=1m  workers=yes
+[2026-08-28 23:34:01] [23:34] Tier2-NoiseFloor: ckpt=49/70  rows=49  age=2m  workers=yes
+[2026-08-28 23:35:04] [23:35] Tier2-NoiseFloor: ckpt=49/70  rows=49  age=3m  workers=yes
+[2026-08-28 23:36:06] [23:36] Tier2-NoiseFloor: ckpt=49/70  rows=49  age=4m  workers=yes
+[2026-08-28 23:37:09] [23:37] Tier2-NoiseFloor: ckpt=49/70  rows=49  age=5m  workers=yes
+[2026-08-28 23:38:12] [23:38] Tier2-NoiseFloor: ckpt=49/70  rows=49  age=6m  workers=yes
+[2026-08-28 23:39:14] [23:39] Tier2-NoiseFloor: ckpt=49/70  rows=49  age=7m  workers=yes
+[2026-08-28 23:40:17] [23:40] Tier2-NoiseFloor: ckpt=49/70  rows=49  age=8m  workers=yes
+[2026-08-28 23:41:20] [23:41] Tier2-NoiseFloor: ckpt=49/70  rows=49  age=9m  workers=yes
+[2026-08-28 23:42:23] [23:42] Tier2-NoiseFloor: ckpt=49/70  rows=49  age=10m  workers=yes
+[2026-08-28 23:43:25] [23:43] Tier2-NoiseFloor: ckpt=50/70  rows=50  age=0m  workers=yes
+[2026-08-28 23:44:28] [23:44] Tier2-NoiseFloor: ckpt=51/70  rows=51  age=0m  workers=yes
+[2026-08-28 23:45:31] [23:45] Tier2-NoiseFloor: ckpt=51/70  rows=51  age=1m  workers=yes
+[2026-08-28 23:46:34] [23:46] Tier2-NoiseFloor: ckpt=51/70  rows=51  age=2m  workers=yes
+[2026-08-28 23:47:36] [23:47] Tier2-NoiseFloor: ckpt=51/70  rows=51  age=3m  workers=yes
+[2026-08-28 23:48:39] [23:48] Tier2-NoiseFloor: ckpt=51/70  rows=51  age=4m  workers=yes
+[2026-08-28 23:49:42] [23:49] Tier2-NoiseFloor: ckpt=51/70  rows=51  age=5m  workers=yes
+[2026-08-28 23:50:44] [23:50] Tier2-NoiseFloor: ckpt=51/70  rows=51  age=6m  workers=yes
+[2026-08-28 23:51:47] [23:51] Tier2-NoiseFloor: ckpt=51/70  rows=51  age=7m  workers=yes
+[2026-08-28 23:52:50] [23:52] Tier2-NoiseFloor: ckpt=52/70  rows=52  age=0m  workers=yes
+[2026-08-28 23:53:53] [23:53] Tier2-NoiseFloor: ckpt=52/70  rows=52  age=1m  workers=yes
+[2026-08-28 23:54:55] [23:54] Tier2-NoiseFloor: ckpt=52/70  rows=52  age=2m  workers=yes
+[2026-08-28 23:55:58] [23:55] Tier2-NoiseFloor: ckpt=52/70  rows=52  age=3m  workers=yes
+[2026-08-28 23:57:01] [23:57] Tier2-NoiseFloor: ckpt=52/70  rows=52  age=4m  workers=yes
+[2026-08-28 23:58:03] [23:58] Tier2-NoiseFloor: ckpt=52/70  rows=52  age=5m  workers=yes
+[2026-08-28 23:59:06] [23:59] Tier2-NoiseFloor: ckpt=52/70  rows=52  age=6m  workers=yes
+[2026-08-29 00:00:10] [00:00] Tier2-NoiseFloor: ckpt=52/70  rows=52  age=7m  workers=yes
+[2026-08-29 00:01:12] [00:01] Tier2-NoiseFloor: ckpt=52/70  rows=52  age=8m  workers=yes
+[2026-08-29 00:02:15] [00:02] Tier2-NoiseFloor: ckpt=52/70  rows=52  age=9m  workers=yes
+[2026-08-29 00:03:18] [00:03] Tier2-NoiseFloor: ckpt=52/70  rows=52  age=10m  workers=yes
+[2026-08-29 00:04:21] [00:04] Tier2-NoiseFloor: ckpt=53/70  rows=53  age=0m  workers=yes
+[2026-08-29 00:05:23] [00:05] Tier2-NoiseFloor: ckpt=53/70  rows=53  age=1m  workers=yes
+[2026-08-29 00:06:26] [00:06] Tier2-NoiseFloor: ckpt=54/70  rows=54  age=0m  workers=yes
+[2026-08-29 00:07:29] [00:07] Tier2-NoiseFloor: ckpt=54/70  rows=54  age=1m  workers=yes
+[2026-08-29 00:08:32] [00:08] Tier2-NoiseFloor: ckpt=54/70  rows=54  age=2m  workers=yes
+[2026-08-29 00:09:34] [00:09] Tier2-NoiseFloor: ckpt=54/70  rows=54  age=3m  workers=yes
+[2026-08-29 00:10:37] [00:10] Tier2-NoiseFloor: ckpt=54/70  rows=54  age=4m  workers=yes
+[2026-08-29 00:11:40] [00:11] Tier2-NoiseFloor: ckpt=54/70  rows=54  age=5m  workers=yes
+[2026-08-29 00:12:42] [00:12] Tier2-NoiseFloor: ckpt=54/70  rows=54  age=6m  workers=yes
+[2026-08-29 00:13:45] [00:13] Tier2-NoiseFloor: ckpt=54/70  rows=54  age=7m  workers=yes
+[2026-08-29 00:14:48] [00:14] Tier2-NoiseFloor: ckpt=54/70  rows=54  age=8m  workers=yes
+[2026-08-29 00:15:51] [00:15] Tier2-NoiseFloor: ckpt=54/70  rows=54  age=9m  workers=yes
+[2026-08-29 00:16:53] [00:16] Tier2-NoiseFloor: ckpt=55/70  rows=55  age=0m  workers=yes
+[2026-08-29 00:17:56] [00:17] Tier2-NoiseFloor: ckpt=55/70  rows=55  age=1m  workers=yes
+[2026-08-29 00:18:59] [00:18] Tier2-NoiseFloor: ckpt=55/70  rows=55  age=2m  workers=yes
+[2026-08-29 00:20:01] [00:20] Tier2-NoiseFloor: ckpt=55/70  rows=55  age=4m  workers=yes
+[2026-08-29 00:21:04] [00:21] Tier2-NoiseFloor: ckpt=55/70  rows=55  age=5m  workers=yes
+[2026-08-29 00:22:07] [00:22] Tier2-NoiseFloor: ckpt=55/70  rows=55  age=6m  workers=yes
+[2026-08-29 00:23:09] [00:23] Tier2-NoiseFloor: ckpt=55/70  rows=55  age=7m  workers=yes
+[2026-08-29 00:24:12] [00:24] Tier2-NoiseFloor: ckpt=55/70  rows=55  age=8m  workers=yes
+[2026-08-29 00:25:15] [00:25] Tier2-NoiseFloor: ckpt=55/70  rows=55  age=9m  workers=yes
+[2026-08-29 00:26:18] [00:26] Tier2-NoiseFloor: ckpt=55/70  rows=55  age=10m  workers=yes
+[2026-08-29 00:27:20] [00:27] Tier2-NoiseFloor: ckpt=55/70  rows=55  age=11m  workers=yes
+[2026-08-29 00:28:23] [00:28] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=0m  workers=yes
+[2026-08-29 00:29:26] [00:29] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=1m  workers=yes
+[2026-08-29 00:30:29] [00:30] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=3m  workers=yes
+[2026-08-29 00:31:31] [00:31] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=4m  workers=yes
+[2026-08-29 00:32:34] [00:32] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=5m  workers=yes
+[2026-08-29 00:33:37] [00:33] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=6m  workers=yes
+[2026-08-29 00:34:39] [00:34] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=7m  workers=yes
+[2026-08-29 00:35:42] [00:35] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=8m  workers=yes
+[2026-08-29 00:36:45] [00:36] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=9m  workers=yes
+[2026-08-29 00:37:48] [00:37] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=10m  workers=yes
+[2026-08-29 00:38:50] [00:38] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=11m  workers=yes
+[2026-08-29 00:39:53] [00:39] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=12m  workers=yes
+[2026-08-29 00:40:56] [00:40] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=13m  workers=yes
+[2026-08-29 00:41:58] [00:41] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=14m  workers=yes
+[2026-08-29 00:43:01] [00:43] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=15m  workers=yes
+[2026-08-29 00:44:04] [00:44] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=16m  workers=yes
+[2026-08-29 00:45:07] [00:45] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=17m  workers=yes
+[2026-08-29 00:46:10] [00:46] Tier2-NoiseFloor: ckpt=56/70  rows=56  age=18m  workers=yes
+[2026-08-29 00:47:13] [00:47] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=0m  workers=yes
+[2026-08-29 00:48:15] [00:48] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=1m  workers=yes
+[2026-08-29 00:49:18] [00:49] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=2m  workers=yes
+[2026-08-29 00:50:21] [00:50] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=3m  workers=yes
+[2026-08-29 00:51:23] [00:51] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=4m  workers=yes
+[2026-08-29 00:52:26] [00:52] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=5m  workers=yes
+[2026-08-29 00:53:29] [00:53] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=6m  workers=yes
+[2026-08-29 00:54:31] [00:54] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=7m  workers=yes
+[2026-08-29 00:55:34] [00:55] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=8m  workers=yes
+[2026-08-29 00:56:37] [00:56] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=9m  workers=yes
+[2026-08-29 00:57:40] [00:57] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=10m  workers=yes
+[2026-08-29 00:58:43] [00:58] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=11m  workers=yes
+[2026-08-29 00:59:45] [00:59] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=12m  workers=yes
+[2026-08-29 01:00:48] [01:00] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=13m  workers=yes
+[2026-08-29 01:01:51] [01:01] Tier2-NoiseFloor: ckpt=57/70  rows=57  age=14m  workers=yes
+[2026-08-29 01:02:53] [01:02] Tier2-NoiseFloor: ckpt=58/70  rows=58  age=0m  workers=yes
+[2026-08-29 01:03:56] [01:03] Tier2-NoiseFloor: ckpt=58/70  rows=58  age=1m  workers=yes
+[2026-08-29 01:04:59] [01:04] Tier2-NoiseFloor: ckpt=58/70  rows=58  age=3m  workers=yes
+[2026-08-29 01:06:02] [01:06] Tier2-NoiseFloor: ckpt=58/70  rows=58  age=4m  workers=yes
+[2026-08-29 01:07:04] [01:07] Tier2-NoiseFloor: ckpt=59/70  rows=59  age=0m  workers=yes
+[2026-08-29 01:08:07] [01:08] Tier2-NoiseFloor: ckpt=60/70  rows=60  age=0m  workers=yes
+[2026-08-29 01:09:10] [01:09] Tier2-NoiseFloor: ckpt=60/70  rows=60  age=1m  workers=yes
+[2026-08-29 01:10:12] [01:10] Tier2-NoiseFloor: ckpt=60/70  rows=60  age=2m  workers=yes
+[2026-08-29 01:11:15] [01:11] Tier2-NoiseFloor: ckpt=60/70  rows=60  age=3m  workers=yes
+[2026-08-29 01:12:18] [01:12] Tier2-NoiseFloor: ckpt=61/70  rows=61  age=0m  workers=yes
+[2026-08-29 01:13:21] [01:13] Tier2-NoiseFloor: ckpt=61/70  rows=61  age=1m  workers=yes
+[2026-08-29 01:14:23] [01:14] Tier2-NoiseFloor: ckpt=61/70  rows=61  age=2m  workers=yes
+[2026-08-29 01:15:26] [01:15] Tier2-NoiseFloor: ckpt=61/70  rows=61  age=3m  workers=yes
+[2026-08-29 01:16:29] [01:16] Tier2-NoiseFloor: ckpt=61/70  rows=61  age=4m  workers=yes
+[2026-08-29 01:17:31] [01:17] Tier2-NoiseFloor: ckpt=61/70  rows=61  age=5m  workers=yes
+[2026-08-29 01:18:34] [01:18] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=0m  workers=yes
+[2026-08-29 01:19:37] [01:19] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=1m  workers=yes
+[2026-08-29 01:20:40] [01:20] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=2m  workers=yes
+[2026-08-29 01:21:42] [01:21] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=3m  workers=yes
+[2026-08-29 01:22:45] [01:22] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=4m  workers=yes
+[2026-08-29 01:23:48] [01:23] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=5m  workers=yes
+[2026-08-29 01:24:51] [01:24] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=6m  workers=yes
+[2026-08-29 01:25:53] [01:25] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=7m  workers=yes
+[2026-08-29 01:26:56] [01:26] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=8m  workers=yes
+[2026-08-29 01:27:59] [01:27] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=9m  workers=yes
+[2026-08-29 01:29:01] [01:29] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=10m  workers=yes
+[2026-08-29 01:30:04] [01:30] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=11m  workers=yes
+[2026-08-29 01:31:07] [01:31] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=12m  workers=yes
+[2026-08-29 01:32:09] [01:32] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=13m  workers=yes
+[2026-08-29 01:33:12] [01:33] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=14m  workers=yes
+[2026-08-29 01:34:15] [01:34] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=15m  workers=yes
+[2026-08-29 01:35:18] [01:35] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=16m  workers=yes
+[2026-08-29 01:36:20] [01:36] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=17m  workers=yes
+[2026-08-29 01:37:23] [01:37] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=18m  workers=yes
+[2026-08-29 01:38:26] [01:38] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=19m  workers=yes
+[2026-08-29 01:39:29] [01:39] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=21m  workers=yes
+[2026-08-29 01:40:31] [01:40] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=22m  workers=yes
+[2026-08-29 01:41:34] [01:41] Tier2-NoiseFloor: ckpt=63/70  rows=63  age=23m  workers=yes
+[2026-08-29 01:42:37] [01:42] Tier2-NoiseFloor: ckpt=64/70  rows=64  age=0m  workers=yes
+[2026-08-29 01:43:39] [01:43] Tier2-NoiseFloor: ckpt=64/70  rows=64  age=1m  workers=yes
+[2026-08-29 01:44:42] [01:44] Tier2-NoiseFloor: ckpt=64/70  rows=64  age=2m  workers=yes
+[2026-08-29 01:45:45] [01:45] Tier2-NoiseFloor: ckpt=64/70  rows=64  age=3m  workers=yes
+[2026-08-29 01:46:48] [01:46] Tier2-NoiseFloor: ckpt=65/70  rows=65  age=0m  workers=yes
+[2026-08-29 01:47:50] [01:47] Tier2-NoiseFloor: ckpt=65/70  rows=65  age=1m  workers=yes
+[2026-08-29 01:48:53] [01:48] Tier2-NoiseFloor: ckpt=65/70  rows=65  age=2m  workers=yes
+[2026-08-29 01:49:55] [01:49] Tier2-NoiseFloor: ckpt=65/70  rows=65  age=3m  workers=yes
+[2026-08-29 01:50:58] [01:50] Tier2-NoiseFloor: ckpt=65/70  rows=65  age=4m  workers=yes
+[2026-08-29 01:52:01] [01:52] Tier2-NoiseFloor: ckpt=66/70  rows=66  age=0m  workers=yes
+[2026-08-29 01:53:03] [01:53] Tier2-NoiseFloor: ckpt=66/70  rows=66  age=1m  workers=yes
+[2026-08-29 01:54:06] [01:54] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=0m  workers=yes
+[2026-08-29 01:55:08] [01:55] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=1m  workers=yes
+[2026-08-29 01:56:11] [01:56] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=2m  workers=yes
+[2026-08-29 01:57:14] [01:57] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=3m  workers=yes
+[2026-08-29 01:58:16] [01:58] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=4m  workers=yes
+[2026-08-29 01:59:19] [01:59] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=5m  workers=yes
+[2026-08-29 02:00:21] [02:00] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=6m  workers=yes
+[2026-08-29 02:01:24] [02:01] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=7m  workers=yes
+[2026-08-29 02:02:26] [02:02] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=8m  workers=yes
+[2026-08-29 02:03:29] [02:03] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=9m  workers=yes
+[2026-08-29 02:04:31] [02:04] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=10m  workers=yes
+[2026-08-29 02:05:34] [02:05] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=11m  workers=yes
+[2026-08-29 02:06:36] [02:06] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=12m  workers=yes
+[2026-08-29 02:07:39] [02:07] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=13m  workers=yes
+[2026-08-29 02:08:41] [02:08] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=14m  workers=yes
+[2026-08-29 02:09:44] [02:09] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=15m  workers=yes
+[2026-08-29 02:10:46] [02:10] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=16m  workers=yes
+[2026-08-29 02:11:49] [02:11] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=17m  workers=yes
+[2026-08-29 02:12:51] [02:12] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=18m  workers=yes
+[2026-08-29 02:13:54] [02:13] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=19m  workers=yes
+[2026-08-29 02:14:57] [02:14] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=20m  workers=yes
+[2026-08-29 02:15:59] [02:15] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=21m  workers=yes
+[2026-08-29 02:17:02] [02:17] Tier2-NoiseFloor: ckpt=67/70  rows=67  age=22m  workers=yes
+[2026-08-29 02:18:04] [02:18] Tier2-NoiseFloor: ckpt=68/70  rows=68  age=0m  workers=yes
+[2026-08-29 02:19:07] [02:19] Tier2-NoiseFloor: ckpt=68/70  rows=68  age=1m  workers=yes
+[2026-08-29 02:20:09] [02:20] Tier2-NoiseFloor: ckpt=68/70  rows=68  age=2m  workers=yes
+[2026-08-29 02:21:11] [02:21] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=0m  workers=yes
+[2026-08-29 02:22:14] [02:22] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=1m  workers=yes
+[2026-08-29 02:23:16] [02:23] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=2m  workers=yes
+[2026-08-29 02:24:19] [02:24] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=3m  workers=yes
+[2026-08-29 02:25:21] [02:25] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=5m  workers=yes
+[2026-08-29 02:26:24] [02:26] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=6m  workers=yes
+[2026-08-29 02:27:26] [02:27] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=7m  workers=yes
+[2026-08-29 02:28:28] [02:28] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=8m  workers=yes
+[2026-08-29 02:29:31] [02:29] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=9m  workers=yes
+[2026-08-29 02:30:33] [02:30] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=10m  workers=yes
+[2026-08-29 02:31:36] [02:31] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=11m  workers=yes
+[2026-08-29 02:32:38] [02:32] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=12m  workers=yes
+[2026-08-29 02:33:41] [02:33] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=13m  workers=yes
+[2026-08-29 02:34:43] [02:34] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=14m  workers=yes
+[2026-08-29 02:35:46] [02:35] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=15m  workers=yes
+[2026-08-29 02:36:48] [02:36] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=16m  workers=yes
+[2026-08-29 02:37:50] [02:37] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=17m  workers=yes
+[2026-08-29 02:38:53] [02:38] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=18m  workers=yes
+[2026-08-29 02:39:55] [02:39] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=19m  workers=yes
+[2026-08-29 02:40:58] [02:40] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=20m  workers=yes
+[2026-08-29 02:42:00] [02:42] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=21m  workers=yes
+[2026-08-29 02:43:03] [02:43] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=22m  workers=yes
+[2026-08-29 02:44:05] [02:44] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=23m  workers=yes
+[2026-08-29 02:45:07] [02:45] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=24m  workers=yes
+[2026-08-29 02:46:10] [02:46] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=25m  workers=yes
+[2026-08-29 02:47:12] [02:47] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=26m  workers=yes
+[2026-08-29 02:48:15] [02:48] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=27m  workers=yes
+[2026-08-29 02:49:17] [02:49] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=28m  workers=yes
+[2026-08-29 02:50:20] [02:50] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=29m  workers=yes
+[2026-08-29 02:51:22] [02:51] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=31m  workers=yes
+[2026-08-29 02:52:24] [02:52] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=32m  workers=yes
+[2026-08-29 02:53:27] [02:53] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=33m  workers=yes
+[2026-08-29 02:54:30] [02:54] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=34m  workers=yes
+[2026-08-29 02:55:32] [02:55] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=35m  workers=yes
+[2026-08-29 02:56:35] [02:56] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=36m  workers=yes
+[2026-08-29 02:57:37] [02:57] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=37m  workers=yes
+[2026-08-29 02:58:39] [02:58] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=38m  workers=yes
+[2026-08-29 02:59:42] [02:59] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=39m  workers=yes
+[2026-08-29 03:00:44] [03:00] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=40m  workers=yes
+[2026-08-29 03:01:47] [03:01] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=41m  workers=yes
+[2026-08-29 03:02:49] [03:02] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=42m  workers=yes
+[2026-08-29 03:03:52] [03:03] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=43m  workers=yes
+[2026-08-29 03:04:54] [03:04] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=44m  workers=yes
+[2026-08-29 03:05:56] [03:05] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=45m  workers=yes
+[2026-08-29 03:06:59] [03:06] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=46m  workers=yes
+[2026-08-29 03:08:01] [03:08] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=47m  workers=yes
+[2026-08-29 03:09:04] [03:09] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=48m  workers=yes
+[2026-08-29 03:10:06] [03:10] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=49m  workers=yes
+[2026-08-29 03:11:09] [03:11] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=50m  workers=yes
+[2026-08-29 03:12:11] [03:12] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=51m  workers=yes
+[2026-08-29 03:13:13] [03:13] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=52m  workers=yes
+[2026-08-29 03:14:16] [03:14] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=53m  workers=yes
+[2026-08-29 03:15:18] [03:15] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=54m  workers=yes
+[2026-08-29 03:16:21] [03:16] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=56m  workers=yes
+[2026-08-29 03:17:23] [03:17] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=57m  workers=yes
+[2026-08-29 03:18:26] [03:18] Tier2-NoiseFloor: ckpt=69/70  rows=69  age=58m  workers=yes
+[2026-08-29 03:19:26] Tier2-NoiseFloor: COMPLETE (70/70 rows)

@@ -1,0 +1,5 @@
+family,instance,stratum,arm_id,best_ub,obj,cert_gap_pct,own_ub,cert_gap_own_pct,stop_reason,phases,ec_gain,total_rt_s,seeds_used,best_seed,n_seed_restarts,tier_final,stall_run_final,commit,source_dirty,error
+B,B_n120_014_a25_040,hard_tail,A0,3287.0000,3241.0,1.399452,3287.0000,1.399452,RT_CAP,1,0,61.3,"42,123,456,789,1337,2024",42,1,0,0,5ef94e56e928c8c93c722971a291c3de322f0c85,True,
+B,B_n120_014_a25_040,hard_tail,B1,3287.0000,3242.0,1.369030,3287.0000,1.369030,RT_CAP,1,0,61.5,"42,123,456,789,1337,2024",42,1,0,0,5ef94e56e928c8c93c722971a291c3de322f0c85,True,
+B,B_n110_006_a50_017,closing,A0,3465.0000,3465.0,0.000000,3465.0000,0.000000,UB,1,0,35.0,"42,123,456,789,1337,2024",42,1,0,0,5ef94e56e928c8c93c722971a291c3de322f0c85,True,
+B,B_n110_006_a50_017,closing,B1,3465.0000,3457.0,0.230880,3465.0000,0.230880,GAP<threshold,1,0,65.7,"42,123,456,789,1337,2024",42,1,0,0,5ef94e56e928c8c93c722971a291c3de322f0c85,True,

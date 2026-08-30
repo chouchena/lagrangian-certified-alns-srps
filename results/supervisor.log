@@ -1,0 +1,14 @@
+﻿[2026-08-28 11:42:08] ============================================================
+[2026-08-28 11:42:08] Supervisor started - will restart watchdog.py if it ever exits
+[2026-08-28 11:42:08] ============================================================
+[2026-08-28 11:42:08] Launching watchdog.py (supervisor restart #1)
+[2026-08-28 11:44:54] watchdog.py exited (PID 21632, exit code ) - restarting in 5s
+[2026-08-28 11:45:00] Launching watchdog.py (supervisor restart #2)
+[2026-08-28 17:34:02] ============================================================
+[2026-08-28 17:34:02] Supervisor started - will restart watchdog.py if it ever exits
+[2026-08-28 17:34:02] ============================================================
+[2026-08-28 17:34:02] Launching watchdog.py (supervisor restart #1) via C:\Users\user\AppData\Local\Programs\Python\Python310\python.exe
+[2026-08-28 17:34:25] watchdog.py exited (PID 27456, exit code ) - restarting in 5s
+[2026-08-28 17:34:30] Launching watchdog.py (supervisor restart #2) via C:\Users\user\AppData\Local\Programs\Python\Python310\python.exe
+[2026-08-28 17:44:41] watchdog.py exited (PID 31620, exit code ) - restarting in 5s
+[2026-08-28 17:44:46] Launching watchdog.py (supervisor restart #3) via C:\Users\user\AppData\Local\Programs\Python\Python310\python.exe

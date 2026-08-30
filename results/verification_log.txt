@@ -1,0 +1,35 @@
+==============================================================================
+Certificate verification — primal feasibility + dual bound reconstruction
+Instances : 660   |   cross-check: results\adaptive_master.csv
+Certs dir : results\beta_certificates  (present)
+==============================================================================
+  ... 25/660 done (158s), 25 pass / 0 fail
+  ... 50/660 done (697s), 50 pass / 0 fail
+  ... 75/660 done (1324s), 75 pass / 0 fail
+  ... 100/660 done (1861s), 100 pass / 0 fail
+  ... 125/660 done (1890s), 125 pass / 0 fail
+  ... 150/660 done (1938s), 150 pass / 0 fail
+  ... 175/660 done (2078s), 175 pass / 0 fail
+  ... 200/660 done (2219s), 200 pass / 0 fail
+  ... 225/660 done (2244s), 225 pass / 0 fail
+  ... 250/660 done (2304s), 250 pass / 0 fail
+  ... 275/660 done (2438s), 275 pass / 0 fail
+  ... 300/660 done (2678s), 300 pass / 0 fail
+  ... 325/660 done (3370s), 325 pass / 0 fail
+  ... 350/660 done (3622s), 350 pass / 0 fail
+  ... 375/660 done (3944s), 375 pass / 0 fail
+  ... 400/660 done (4754s), 400 pass / 0 fail
+  ... 425/660 done (5364s), 425 pass / 0 fail
+  ... 450/660 done (5388s), 450 pass / 0 fail
+  ... 475/660 done (5434s), 475 pass / 0 fail
+  ... 500/660 done (5540s), 500 pass / 0 fail
+  ... 525/660 done (5720s), 525 pass / 0 fail
+  ... 550/660 done (5740s), 550 pass / 0 fail
+  ... 575/660 done (5784s), 575 pass / 0 fail
+  ... 600/660 done (5891s), 600 pass / 0 fail
+  ... 625/660 done (6117s), 625 pass / 0 fail
+  ... 650/660 done (6779s), 650 pass / 0 fail
+==============================================================================
+VERIFIED: 660 pass  |  0 fail   (stored mu: 0, rederived: 660)
+Elapsed : 7042s   |   report → results/verification_report.csv
+==============================================================================

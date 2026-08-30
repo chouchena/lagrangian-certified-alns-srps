@@ -1,0 +1,20 @@
+  EC_n070_023_a25_067      n= 70 n_sel= 26     15.8s / 200 iters
+  D_n065_030_a50_089       n= 65 n_sel= 48    395.0s / 200 iters
+  ED_n055_019_a50_056      n= 55 n_sel= 31     84.2s / 200 iters
+  B_n130_019_a25_055       n=130 n_sel= 49     32.2s / 200 iters
+  B_n140_024_a25_070       n=140 n_sel= 62     46.0s / 200 iters
+  C_n070_022_a50_065       n= 70 n_sel= 51     44.9s / 200 iters
+  EC_n080_033_a25_097      n= 80 n_sel= 29     24.5s / 200 iters
+  EB_n140_022_a50_065      n=140 n_sel= 97     71.5s / 200 iters
+  B_n120_014_a25_040       n=120 n_sel= 49     31.8s / 200 iters
+  ED_n065_029_a25_085      n= 65 n_sel= 20     25.4s / 200 iters
+
+per-call @200 iters: mean 77.1s  median 38.5s  min 15.8s  max 395.0s
+
+  40 inst x 3 seeds x 2 variants ->   5.1 core-h  =   0.9 h at 6 workers
+  40 inst x 6 seeds x 2 variants ->  10.3 core-h  =   1.7 h at 6 workers
+  20 inst x 3 seeds x 2 variants ->   2.6 core-h  =   0.4 h at 6 workers
+
+MEDIAN-based (robust to the tail):
+  40 inst x 3 seeds x 2 variants ->   2.6 core-h  =   0.4 h at 6 workers
+  40 inst x 6 seeds x 2 variants ->   5.1 core-h  =   0.9 h at 6 workers

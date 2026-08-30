@@ -1,0 +1,14 @@
+==========================================================================
+Verifying 137 claims  (135 Lagrangian-only optima, 2 re-caps)
+Budget per instance: 3000 iters / (3600 - solve time)
+Output: results\optimality_verification_20260826_2015.csv
+==========================================================================
+  20/137  {'CONFIRMED': 20}
+  40/137  {'CONFIRMED': 39, 'UNCONFIRMED': 1}
+  60/137  {'CONFIRMED': 59, 'UNCONFIRMED': 1}
+  80/137  {'CONFIRMED': 77, 'UNCONFIRMED': 3}
+  100/137  {'CONFIRMED': 97, 'UNCONFIRMED': 3}
+  120/137  {'CONFIRMED': 116, 'UNCONFIRMED': 4}
+  137/137  {'CONFIRMED': 131, 'UNCONFIRMED': 6}
+
+final: {'CONFIRMED': 131, 'UNCONFIRMED': 6}

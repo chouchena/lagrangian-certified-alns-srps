@@ -1,0 +1,21 @@
+Ablation study — adaptive-loop ALNS  —  20260621_0558
+Instances    : 30  (same 30-instance stratified subset as sensitivity)
+Arms         : 6  (A0 baseline + A1–A5 ablation)
+ABS_CAP      : 1800s per instance per arm
+Cert thresh  : 2.0%  (warm-mu triggered if A0 cert_gap >= this)
+Cores        : 4
+Output CSV   : results\analysis\ablation_warmmu_20260621_0558.csv
+Output TXT   : results\analysis\ablation_warmmu_20260621_0558.txt
+
+Total wall-clock : 316.1 min
+Warm-mu passes   : 0/30
+Errors           : P1=0  P2=0
+
+Arm   Description                     Mean%     Med%     P75%     Max%      D_A0  Flag
+--------------------------------------------------------------------------------
+A0    FULL adaptive loop              0.148%    0.077%    0.221%    1.659%    +0.000%
+A1    no ratio repair                 0.170%    0.078%    0.228%    1.659%    +0.022%
+A2    no tier escalation              0.150%    0.077%    0.221%    1.659%    +0.001%
+A3    no UB refresh on stall          0.148%    0.077%    0.221%    1.659%    +0.000%
+A4    single seed                     0.150%    0.077%    0.221%    1.659%    +0.002%
+A5    flat phases (A2+A3)             0.150%    0.077%    0.221%    1.659%    +0.002%

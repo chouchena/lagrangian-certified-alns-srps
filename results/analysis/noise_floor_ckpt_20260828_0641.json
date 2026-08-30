@@ -1,0 +1,1 @@
+{"D_n055_019_a25_055": {"instance": "D_n055_019_a25_055", "family": "D", "a0_obj": 1147.0, "a0_ub": 1147, "a0_stop": "UB", "a0_phases": 1, "a0_rt_s": 0.6, "ap_obj": 1147.0, "ap_ub": 1147, "ap_stop": "UB", "ap_phases": 1, "ap_rt_s": 0.8, "delta": 0.0, "delta_pct": 0.0, "abs_delta_pct": 0.0, "commit": "b1f6347b49fd", "source_dirty": false, "error": ""}}

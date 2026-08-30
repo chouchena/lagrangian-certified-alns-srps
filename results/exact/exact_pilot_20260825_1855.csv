@@ -1,0 +1,5 @@
+instance,family,n,vars,cons,cplex_obj,cplex_bound,cplex_gap_pct,proven_optimal,status,solve_s,alns_z,lag_ub,bound_looseness_pct,primal_subopt_pct,cert_gap_pct
+D_n040_001_a25_001,D,40,1283,1574,715.0,728.0000000000009,1.8181818181816911,0,time limit exceeded,120.1,715.0,715.0,0.0,0.0,0.0
+D_n040_001_a50_002,D,40,1283,1574,970.0,982.0000000000018,1.2371134020619157,0,time limit exceeded,120.2,970.0,970.0,0.0,0.0,0.0
+D_n040_001_a75_003,D,40,1283,1574,1203.0,1205.7500000000005,0.22859517871988577,0,time limit exceeded,120.2,1203.0,1203.0,0.0,0.0,0.0
+D_n040_002_a25_004,D,40,1240,1532,352.0,352.0,0.0,1,integer optimal solution,2.0,352.0,352.0,0.0,0.0,0.0

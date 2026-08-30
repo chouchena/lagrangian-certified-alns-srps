@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite the following."
+title: "SRPS-ALNS: Adaptive Large Neighborhood Search with Lagrangian Certification for the Selective Routing Problem with Synchronization"
+type: software
+authors:
+  - given-names: David
+    family-names: Chouchena
+  - given-names: Yuval
+    family-names: Ben-Abu
+    orcid: "https://orcid.org/0000-0002-6983-5730"
+version: "1.0.0"
+date-released: "2026-06-24"
+repository-code: "https://github.com/chouchena/srps-alns"
+url: "https://github.com/chouchena/srps-alns"
+license: MIT
+keywords:
+  - selective routing problem with synchronization
+  - team orienteering problem
+  - adaptive large neighborhood search
+  - Lagrangian relaxation
+  - certified primal-dual heuristic
+  - optimality certification
+preferred-citation:
+  type: article
+  title: "An Adaptive Large Neighborhood Search with Lagrangian Certification for the Selective Routing Problem with Synchronization"
+  authors:
+    - given-names: David
+      family-names: Chouchena
+    - given-names: Yuval
+      family-names: Ben-Abu
+      orcid: "https://orcid.org/0000-0002-6983-5730"
+  year: 2026
+  notes: "Under review at Computers & Operations Research. Update volume/pages/DOI on acceptance."

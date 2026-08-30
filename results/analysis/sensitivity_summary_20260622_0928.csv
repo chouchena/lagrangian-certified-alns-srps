@@ -1,0 +1,14 @@
+trial,file,n,mean,median,max,delta_baseline
+baseline,sensitivity_baseline_20260620_1959.csv,30,0.1525,0.0677,1.6896,0.0
+destroy_fracs_tight,sensitivity_destroy_fracs_tight_20260620_2317.csv,30,0.1485,0.0677,1.6281,-0.004
+destroy_fracs_wide,sensitivity_destroy_fracs_wide_20260621_0007.csv,30,0.1487,0.0643,1.6588,-0.0038
+gap_threshold_0.001,sensitivity_gap_threshold_0.001_20260620_2052.csv,30,0.1261,0.0489,1.6281,-0.0264
+gap_threshold_0.001,sensitivity_gap_threshold_0.001_20260620_2157.csv,30,0.1312,0.052,1.7204,-0.0213
+gap_threshold_0.005,sensitivity_gap_threshold_0.005_20260620_2214.csv,30,0.1543,0.0588,1.6896,0.0018
+gap_threshold_0.010,sensitivity_gap_threshold_0.010_20260620_2250.csv,30,0.1505,0.0677,1.6588,-0.002
+lag_max_iter_100,sensitivity_lag_max_iter_100_20260621_0158.csv,30,0.157,0.0677,1.7818,0.0045
+lag_max_iter_400,sensitivity_lag_max_iter_400_20260621_0242.csv,30,0.151,0.0677,1.6896,-0.0015
+lag_max_time_120,sensitivity_lag_max_time_120_20260621_0407.csv,30,0.1485,0.0677,1.6588,-0.004
+lag_max_time_30,sensitivity_lag_max_time_30_20260621_0323.csv,30,0.1566,0.0677,1.8125,0.0041
+phase_rt_150,sensitivity_phase_rt_150_20260621_0050.csv,30,0.1485,0.0677,1.6588,-0.004
+phase_rt_450,sensitivity_phase_rt_450_20260621_0114.csv,30,0.139,0.0554,1.6588,-0.0135

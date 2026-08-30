@@ -1,0 +1,23 @@
+==============================================================================
+Post-hoc bound refinement — 316 instances (offset 60), ordered loosest gap first
+Budget  : 3000 iterations / 600s   workers: 6
+Output  : results\bound_refine_20260826_1836.csv
+==============================================================================
+  20/316  improved=16  (391s)
+  40/316  improved=35  (994s)
+  60/316  improved=54  (1496s)
+  80/316  improved=73  (1894s)
+  100/316  improved=92  (2213s)
+  120/316  improved=112  (2584s)
+  140/316  improved=131  (2926s)
+  160/316  improved=150  (3387s)
+  180/316  improved=167  (3568s)
+  200/316  improved=181  (3947s)
+  220/316  improved=200  (4073s)
+  240/316  improved=217  (4284s)
+  260/316  improved=227  (4545s)
+  280/316  improved=238  (4822s)
+  300/316  improved=245  (5145s)
+  316/316  improved=249  (5781s)
+
+finished: 316 instances, 249 tightened, 5781s total

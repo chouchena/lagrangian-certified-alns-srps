@@ -1,0 +1,133 @@
+restricted to 117 instances whose final bound is the inherited one
+sample: 117 instances, 200 subgradient iterations, 6 workers
+
+  [ 1/117] B_n100_004_a50_011     ub_bks=  4102.00 ub_greedy=  4102.01  delta=   +0.01
+  [ 2/117] B_n100_001_a75_003     ub_bks=  3119.00 ub_greedy=  3119.28  delta=   +0.28
+  [ 3/117] C_n065_018_a25_052     ub_bks=  1390.42 ub_greedy=  1389.85  delta=   -0.57
+  [ 4/117] C_n055_006_a50_017     ub_bks=  1540.00 ub_greedy=  1540.57  delta=   +0.57
+  [ 5/117] C_n055_010_a75_030     ub_bks=  2048.00 ub_greedy=  2048.21  delta=   +0.21
+  [ 6/117] D_n040_001_a25_001     ub_bks=   715.00 ub_greedy=   715.00  delta=   +0.00
+  [ 7/117] D_n045_009_a50_026     ub_bks=  1540.81 ub_greedy=  1532.33  delta=   -8.48
+  [ 8/117] D_n060_024_a75_072     ub_bks=  2387.00 ub_greedy=  2387.21  delta=   +0.21
+  [ 9/117] EB_n100_002_a75_006    ub_bks=  3327.00 ub_greedy=  3327.25  delta=   +0.25
+  [10/117] EC_n060_013_a25_037    ub_bks=  1082.00 ub_greedy=  1082.52  delta=   +0.52
+  [11/117] EC_n060_015_a50_044    ub_bks=  2102.00 ub_greedy=  2102.20  delta=   +0.20
+  [12/117] EC_n050_003_a75_009    ub_bks=  1584.00 ub_greedy=  1584.00  delta=   +0.00
+  [13/117] ED_n040_001_a25_001    ub_bks=   412.00 ub_greedy=   412.00  delta=   +0.00
+  [14/117] ED_n040_003_a75_009    ub_bks=  1138.00 ub_greedy=  1140.49  delta=   +2.49
+  [15/117] B_n120_015_a50_044     ub_bks=  4004.00 ub_greedy=  4005.61  delta=   +1.61
+  [16/117] B_n110_007_a75_021     ub_bks=  3780.00 ub_greedy=  3780.00  delta=   +0.00
+  [17/117] C_n055_006_a25_016     ub_bks=   975.00 ub_greedy=   975.00  delta=   -0.00
+  [18/117] C_n070_021_a75_063     ub_bks=  2035.00 ub_greedy=  2035.73  delta=   +0.73
+  [19/117] D_n040_002_a25_004     ub_bks=   352.00 ub_greedy=   352.00  delta=   +0.00
+  [20/117] D_n060_025_a75_075     ub_bks=  2269.00 ub_greedy=  2270.93  delta=   +1.93
+  [21/117] EB_n110_009_a75_027    ub_bks=  4693.00 ub_greedy=  4693.42  delta=   +0.42
+  [22/117] EC_n050_002_a25_004    ub_bks=   355.00 ub_greedy=   355.00  delta=   +0.00
+  [23/117] EC_n060_012_a50_035    ub_bks=  1710.00 ub_greedy=  1710.47  delta=   +0.47
+  [24/117] EC_n070_022_a75_066    ub_bks=  2099.00 ub_greedy=  2100.53  delta=   +1.53
+  [25/117] ED_n045_007_a25_019    ub_bks=   253.00 ub_greedy=   253.00  delta=   +0.00
+  [26/117] ED_n040_001_a75_003    ub_bks=  1201.00 ub_greedy=  1201.12  delta=   +0.12
+  [27/117] B_n100_005_a75_015     ub_bks=  3512.00 ub_greedy=  3512.59  delta=   +0.59
+  [28/117] C_n065_017_a75_051     ub_bks=  1971.00 ub_greedy=  1971.00  delta=   +0.00
+  [29/117] D_n040_004_a25_010     ub_bks=   723.87 ub_greedy=   723.87  delta=   +0.00
+  [30/117] D_n045_009_a75_027     ub_bks=  1651.00 ub_greedy=  1651.22  delta=   +0.22
+  [31/117] EB_n100_004_a75_012    ub_bks=  4170.00 ub_greedy=  4170.18  delta=   +0.17
+  [32/117] EC_n055_007_a25_019    ub_bks=   375.00 ub_greedy=   375.00  delta=   +0.00
+  [33/117] EC_n060_013_a75_039    ub_bks=  2017.00 ub_greedy=  2017.00  delta=   -0.00
+  [34/117] ED_n040_004_a25_010    ub_bks=   422.00 ub_greedy=   422.00  delta=   +0.00
+  [35/117] ED_n040_005_a75_015    ub_bks=  1466.00 ub_greedy=  1466.29  delta=   +0.29
+  [36/117] B_n130_017_a75_051     ub_bks=  4646.00 ub_greedy=  4646.00  delta=   +0.00
+  [37/117] C_n050_005_a75_015     ub_bks=  1737.00 ub_greedy=  1737.14  delta=   +0.14
+  [38/117] D_n050_014_a75_042     ub_bks=  2061.00 ub_greedy=  2061.21  delta=   +0.21
+  [39/117] EB_n110_010_a75_030    ub_bks=  3842.00 ub_greedy=  3844.23  delta=   +2.23
+  [40/117] EC_n070_024_a75_072    ub_bks=  3008.00 ub_greedy=  3008.28  delta=   +0.28
+  [41/117] ED_n050_012_a25_034    ub_bks=   354.00 ub_greedy=   354.00  delta=   -0.00
+  [42/117] ED_n040_004_a75_012    ub_bks=  1526.00 ub_greedy=  1526.00  delta=   +0.00
+  [43/117] B_n140_024_a75_072     ub_bks=  5663.00 ub_greedy=  5663.00  delta=   +0.00
+  [44/117] C_n070_024_a75_072     ub_bks=  3009.00 ub_greedy=  3009.29  delta=   +0.29
+  [45/117] D_n040_002_a75_006     ub_bks=  1137.00 ub_greedy=  1137.28  delta=   +0.28
+  [46/117] EB_n120_015_a75_045    ub_bks=  4268.00 ub_greedy=  4269.04  delta=   +1.04
+  [47/117] EC_n055_008_a75_024    ub_bks=  1606.00 ub_greedy=  1606.21  delta=   +0.21
+  [48/117] ED_n055_017_a25_049    ub_bks=   364.00 ub_greedy=   364.00  delta=   -0.00
+  [49/117] ED_n050_014_a75_042    ub_bks=  2058.00 ub_greedy=  2059.60  delta=   +1.60
+  [50/117] B_n120_014_a75_042     ub_bks=  5038.00 ub_greedy=  5038.19  delta=   +0.19
+  [51/117] C_n065_016_a75_048     ub_bks=  1924.00 ub_greedy=  1924.36  delta=   +0.36
+  [52/117] D_n050_013_a75_039     ub_bks=  1593.00 ub_greedy=  1593.46  delta=   +0.46
+  [53/117] EB_n100_003_a75_009    ub_bks=  3277.00 ub_greedy=  3278.14  delta=   +1.14
+  [54/117] EC_n055_009_a75_027    ub_bks=  2370.00 ub_greedy=  2370.42  delta=   +0.42
+  [55/117] ED_n040_002_a25_004    ub_bks=   212.00 ub_greedy=   212.00  delta=   +0.00
+  [56/117] ED_n050_013_a75_039    ub_bks=  1582.00 ub_greedy=  1582.00  delta=   +0.00
+  [57/117] B_n100_004_a75_012     ub_bks=  4174.00 ub_greedy=  4174.16  delta=   +0.16
+  [58/117] C_n060_014_a75_042     ub_bks=  2476.00 ub_greedy=  2476.58  delta=   +0.58
+  [59/117] D_n040_003_a75_009     ub_bks=  1149.00 ub_greedy=  1149.04  delta=   +0.04
+  [60/117] EB_n100_005_a75_015    ub_bks=  3501.00 ub_greedy=  3502.78  delta=   +1.78
+  [61/117] EC_n060_011_a75_033    ub_bks=  1713.00 ub_greedy=  1713.00  delta=   -0.00
+  [62/117] ED_n060_022_a25_064    ub_bks=   864.74 ub_greedy=   865.64  delta=   +0.90
+  [63/117] ED_n045_009_a75_027    ub_bks=  1650.00 ub_greedy=  1651.53  delta=   +1.53
+  [64/117] B_n120_012_a75_036     ub_bks=  4222.00 ub_greedy=  4222.00  delta=   +0.00
+  [65/117] C_n065_019_a75_057     ub_bks=  2600.00 ub_greedy=  2600.18  delta=   +0.18
+  [66/117] D_n040_005_a75_015     ub_bks=  1467.00 ub_greedy=  1467.14  delta=   +0.14
+  [67/117] EB_n110_008_a75_024    ub_bks=  3808.00 ub_greedy=  3809.32  delta=   +1.32
+  [68/117] EC_n065_018_a75_054    ub_bks=  2146.00 ub_greedy=  2146.26  delta=   +0.26
+  [69/117] ED_n045_006_a25_016    ub_bks=   523.00 ub_greedy=   523.00  delta=   +0.00
+  [70/117] ED_n045_010_a75_030    ub_bks=  1596.00 ub_greedy=  1596.18  delta=   +0.18
+  [71/117] B_n100_002_a75_006     ub_bks=  3329.00 ub_greedy=  3329.00  delta=   +0.00
+  [72/117] C_n060_015_a75_045     ub_bks=  2190.00 ub_greedy=  2190.00  delta=   -0.00
+  [73/117] D_n060_022_a75_066     ub_bks=  1956.00 ub_greedy=  1956.16  delta=   +0.16
+  [74/117] EB_n110_007_a75_021    ub_bks=  3778.00 ub_greedy=  3778.25  delta=   +0.25
+  [75/117] EC_n070_023_a75_069    ub_bks=  2359.00 ub_greedy=  2359.00  delta=   +0.00
+  [76/117] ED_n050_011_a25_031    ub_bks=   623.00 ub_greedy=   623.00  delta=   +0.00
+  [77/117] ED_n045_006_a75_018    ub_bks=  1244.00 ub_greedy=  1244.03  delta=   +0.03
+  [78/117] B_n110_010_a75_030     ub_bks=  3853.00 ub_greedy=  3854.29  delta=   +1.29
+  [79/117] C_n060_011_a75_033     ub_bks=  1713.00 ub_greedy=  1713.12  delta=   +0.12
+  [80/117] D_n045_008_a75_024     ub_bks=  1483.00 ub_greedy=  1483.00  delta=   -0.00
+  [81/117] EB_n130_017_a75_051    ub_bks=  4644.00 ub_greedy=  4644.00  delta=   +0.00
+  [82/117] EC_n070_025_a75_075    ub_bks=  2599.00 ub_greedy=  2602.95  delta=   +3.95
+  [83/117] ED_n040_005_a25_013    ub_bks=   446.56 ub_greedy=   449.28  delta=   +2.72
+  [84/117] ED_n050_011_a75_033    ub_bks=  1464.00 ub_greedy=  1464.00  delta=   -0.00
+  [85/117] B_n110_009_a75_027     ub_bks=  4696.00 ub_greedy=  4696.20  delta=   +0.20
+  [86/117] C_n055_007_a75_021     ub_bks=  1623.00 ub_greedy=  1623.30  delta=   +0.30
+  [87/117] D_n040_001_a75_003     ub_bks=  1203.00 ub_greedy=  1203.00  delta=   +0.00
+  [88/117] EB_n120_012_a75_036    ub_bks=  4220.00 ub_greedy=  4220.07  delta=   +0.07
+  [89/117] EC_n065_020_a75_060    ub_bks=  2487.00 ub_greedy=  2488.67  delta=   +1.67
+  [90/117] ED_n065_027_a25_079    ub_bks=   876.30 ub_greedy=   879.87  delta=   +3.57
+  [91/117] ED_n045_008_a75_024    ub_bks=  1472.00 ub_greedy=  1472.00  delta=   -0.00
+  [92/117] B_n140_022_a75_066     ub_bks=  5178.00 ub_greedy=  5178.00  delta=   +0.00
+  [93/117] C_n070_022_a75_066     ub_bks=  2102.00 ub_greedy=  2102.00  delta=   +0.00
+  [94/117] D_n050_015_a75_045     ub_bks=  1635.00 ub_greedy=  1635.00  delta=   +0.00
+  [95/117] EB_n100_001_a75_003    ub_bks=  3115.00 ub_greedy=  3115.27  delta=   +0.27
+  [96/117] EC_n065_019_a75_057    ub_bks=  2599.00 ub_greedy=  2599.40  delta=   +0.40
+  [97/117] ED_n060_023_a25_067    ub_bks=  1051.00 ub_greedy=  1051.00  delta=   -0.00
+  [98/117] C_n060_013_a75_039     ub_bks=  2019.00 ub_greedy=  2019.73  delta=   +0.73
+  [99/117] D_n055_019_a75_057     ub_bks=  2173.00 ub_greedy=  2174.27  delta=   +1.27
+  [100/117] EC_n060_012_a75_036    ub_bks=  1757.00 ub_greedy=  1757.14  delta=   +0.14
+  [101/117] C_n050_004_a75_012     ub_bks=  2062.00 ub_greedy=  2062.14  delta=   +0.14
+  [102/117] D_n045_007_a75_021     ub_bks=  1369.00 ub_greedy=  1369.00  delta=   +0.00
+  [103/117] EC_n050_004_a75_012    ub_bks=  2060.00 ub_greedy=  2060.00  delta=   +0.00
+  [104/117] C_n055_009_a75_027     ub_bks=  2373.00 ub_greedy=  2373.14  delta=   +0.14
+  [105/117] D_n055_020_a75_060     ub_bks=  1958.00 ub_greedy=  1958.93  delta=   +0.93
+  [106/117] C_n065_018_a75_054     ub_bks=  2146.00 ub_greedy=  2146.28  delta=   +0.28
+  [107/117] D_n050_011_a75_033     ub_bks=  1464.00 ub_greedy=  1464.12  delta=   +0.12
+  [108/117] C_n065_020_a75_060     ub_bks=  2489.00 ub_greedy=  2489.91  delta=   +0.91
+  [109/117] D_n045_006_a75_018     ub_bks=  1245.00 ub_greedy=  1245.25  delta=   +0.25
+  [110/117] C_n055_008_a75_024     ub_bks=  1617.00 ub_greedy=  1617.36  delta=   +0.36
+  [111/117] D_n040_004_a75_012     ub_bks=  1537.00 ub_greedy=  1537.00  delta=   +0.00
+  [112/117] C_n050_003_a75_009     ub_bks=  1595.00 ub_greedy=  1595.00  delta=   -0.00
+  [113/117] D_n045_010_a75_030     ub_bks=  1613.00 ub_greedy=  1613.08  delta=   +0.08
+  [114/117] C_n050_002_a75_006     ub_bks=  1495.00 ub_greedy=  1495.43  delta=   +0.43
+  [115/117] C_n060_012_a75_036     ub_bks=  1759.00 ub_greedy=  1759.00  delta=   +0.00
+  [116/117] C_n070_023_a75_069     ub_bks=  2359.00 ub_greedy=  2359.00  delta=   +0.00
+  [117/117] C_n070_025_a75_075     ub_bks=  2601.00 ub_greedy=  2601.51  delta=   +0.51
+
+==============================================================
+BOUND DIFFERENCE (greedy-seeded minus BKS-seeded; >0 means looser)
+==============================================================
+  mean +0.350   median +0.161   min -8.475   max +3.946
+  identical: 41/117    looser: 74    tighter: 2
+  as % of bound: mean +0.0209%  max +0.6093%
+
+  currently-proven instances in sample : 113
+  still proven with a greedy-seeded bound: 93
+  survival rate: 82%
+
+written: results/analysis/bks_seeding_effect.csv

@@ -1,0 +1,83 @@
+{
+  "n": 660,
+  "cert_mean": 0.1333,
+  "cert_median": 0.0459,
+  "cert_max": 1.965,
+  "cert_max_instance": "B_n130_016_a25_046",
+  "proven_optimal": 283,
+  "tiers": {
+    "exact": 283,
+    "<0.5%": 338,
+    "0.5-1%": 29,
+    "1-2%": 10,
+    ">2%": 0
+  },
+  "within_0.5pct": 94.1,
+  "within_2pct": 100.0,
+  "beat": 24,
+  "tie": 425,
+  "gap": 12,
+  "first_ever": 196,
+  "ambiguous_partial_group": 3,
+  "with_bks": 461,
+  "beat_plus_tie": 449,
+  "beat_pct": [
+    0.173,
+    0.504,
+    11.83
+  ],
+  "gap_shortfall_pct": [
+    0.018,
+    0.024,
+    0.068
+  ],
+  "stop_reasons": {
+    "GAP<0.3%": 415,
+    "UB": 175,
+    "TIERS_EXHAUSTED": 70
+  },
+  "runtime_s": {
+    "median": 304.7,
+    "mean": 448.0,
+    "p75": 605.9,
+    "max": 2449.5
+  },
+  "per_family": {
+    "B": {
+      "count": 90.0,
+      "mean": 0.2269,
+      "median": 0.0444,
+      "max": 1.965
+    },
+    "C": {
+      "count": 105.0,
+      "mean": 0.0499,
+      "median": 0.0,
+      "max": 0.3883
+    },
+    "D": {
+      "count": 135.0,
+      "mean": 0.1266,
+      "median": 0.0365,
+      "max": 0.8643
+    },
+    "EB": {
+      "count": 90.0,
+      "mean": 0.1407,
+      "median": 0.1238,
+      "max": 0.7521
+    },
+    "EC": {
+      "count": 105.0,
+      "mean": 0.0874,
+      "median": 0.031,
+      "max": 0.4962
+    },
+    "ED": {
+      "count": 135.0,
+      "mean": 0.1733,
+      "median": 0.0881,
+      "max": 1.6421
+    }
+  }
+}

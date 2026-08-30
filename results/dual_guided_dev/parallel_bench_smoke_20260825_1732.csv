@@ -1,0 +1,2 @@
+instance,family,processors,iters,seq_s,seq_ub,w4_s,w4_speedup,w4_identical,w4_ub
+B_n140_021_a25_061,B,55,40,2.887,3346.5,2.651,1.089,1,3346.5

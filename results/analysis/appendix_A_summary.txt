@@ -1,0 +1,25 @@
+Appendix A summary — source results/analysis\ablation_warmmu_20260621_0558.csv
+Instances: 30   Arms: ['A0', 'A1', 'A2', 'A3', 'A4', 'A5']
+
+Arm aggregate mean cert gap (%):
+  A0: 0.1482   delta_A0=+0.0000
+  A1: 0.1702   delta_A0=+0.0220
+  A2: 0.1497   delta_A0=+0.0015
+  A3: 0.1482   delta_A0=+0.0000
+  A4: 0.1499   delta_A0=+0.0017
+  A5: 0.1499   delta_A0=+0.0017
+
+Per-family delta vs A0 (mean):
+          A1_d   A2_d  A3_d    A4_d    A5_d
+family                                     
+B       0.0000  0.000   0.0  0.0000  0.0000
+C      -0.0071  0.000   0.0  0.0104  0.0104
+D       0.0268  0.000   0.0  0.0000  0.0000
+EB      0.0623  0.000   0.0  0.0000  0.0000
+EC      0.0183  0.000   0.0  0.0000  0.0000
+ED      0.0317  0.009   0.0  0.0000  0.0000
+
+A0 stop-reason counts:
+  GAP<threshold      19
+  UB                 9
+  TIERS_EXHAUSTED    2

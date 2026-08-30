@@ -1,0 +1,4 @@
+instance,family,a0_obj,a0_ub,a0_stop,a0_phases,a0_rt_s,ap_obj,ap_ub,ap_stop,ap_phases,ap_rt_s,delta,delta_pct,abs_delta_pct,commit,source_dirty,error
+D_n055_019_a25_055,D,1147.0,1147,UB,1,0.6,1147.0,1147,UB,1,0.8,0.0,0.0,0.0,b1f6347b49fd,False,
+C_n070_023_a25_067,C,1628.0,1633,TIERS_EXHAUSTED,4,1209.0,1628.0,1633,TIERS_EXHAUSTED,4,1210.3,0.0,0.0,0.0,b1f6347b49fd,False,
+D_n065_028_a25_082,D,1383.0,1388,TIERS_EXHAUSTED,4,1210.5,1383.0,1388,TIERS_EXHAUSTED,4,1213.1,0.0,0.0,0.0,b1f6347b49fd,False,

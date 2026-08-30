@@ -1,0 +1,17 @@
+BPC subgroup split — run 20260827_0932   source results/adaptive_master_refined.csv
+Study set: 660 instances (B/C/D/EB/EC/ED)
+(obj_d/obj_pct = our objective minus BKS; cert% uses validity-guarded UB)
+
+                         n  obj_d  obj_pct  cert%  our_rt_s  bpc_rt_s
+A  optimal           245.0  -0.02   -0.001  0.018     316.0      32.0
+A1 recover optimum   241.0   0.00    0.000  0.017     315.0      32.0
+A2 miss optimum        4.0  -1.00   -0.044  0.056     401.0      34.0
+B  incumbent (real)  112.0   3.59    0.126  0.129     572.0    1415.0
+B1 improves BKS       15.0  27.07    0.947  0.193     718.0    1930.0
+B2 matches BKS        93.0   0.00    0.000  0.118     541.0    1324.0
+B3 below BKS           4.0  -1.00   -0.032  0.158     745.0    1609.0
+C  not reported      300.0  16.92    0.429  0.081     656.0       NaN
+(*) ambiguous, w/ C    3.0    NaN      NaN  0.166     734.0    1352.0
+
+C first-ever (no BKS): 196
+C with BKS (104): {'TIE': 91, 'BEAT': 9, 'GAP': 4}  [BEAT=improve, TIE=match, GAP=below]

@@ -1,0 +1,29 @@
+Coupling refinement suite report (20260825_0701)
+Subset: C:\Users\user\Desktop\Sapir\Full_SRPS-ALNS\configs\coupling_refine_subset12.csv
+Common runtime knobs: phase_rt=120s, abs_cap=240s, lag_max_iter=120, lag_max_time=20s
+Experiments run: 10
+Total wall-clock: 108.1 min
+
+Top experiments by mean_delta_gap_pp (lower better):
+  cut_destroy_w035: dGap=+0.1534pp dRT=-438.0s dObj=-0.250 maxGap=3.3231%
+  cut_destroy_w020: dGap=+0.1534pp dRT=-438.0s dObj=-0.250 maxGap=3.3231%
+  cut_repair_w035: dGap=+0.1548pp dRT=-422.8s dObj=-0.333 maxGap=3.3231%
+  dual_destroy_only: dGap=+0.1658pp dRT=-415.0s dObj=-0.333 maxGap=3.3231%
+  dual_control: dGap=+0.1663pp dRT=-419.4s dObj=-0.250 maxGap=3.3231%
+
+Dual family deltas vs dual_control:
+  dual_full_fb: dGap +0.0527pp, dRT +4.9s, dObj -0.500
+  dual_full_nofb: dGap +0.0898pp, dRT +4.9s, dObj -1.250
+  dual_destroy_only: dGap -0.0005pp, dRT +4.4s, dObj -0.083
+  dual_repair_only: dGap +0.0161pp, dRT +13.1s, dObj -0.417
+
+Cut family deltas vs cut_control:
+  cut_full_w035: dGap +0.0082pp, dRT -2.8s, dObj +0.000
+  cut_destroy_w035: dGap -0.0130pp, dRT -19.1s, dObj +0.000
+  cut_destroy_w020: dGap -0.0130pp, dRT -19.2s, dObj +0.000
+  cut_repair_w035: dGap -0.0116pp, dRT -4.0s, dObj -0.083
+
+Notes:
+  - This suite is a fast-screen design for iterative refinement; use the same manifest
+    and re-run selected finalists on full30/full660 budgets for publication claims.
+  - Summary CSV is ready for downstream ablation/sensitivity plotting and hypothesis tracking.

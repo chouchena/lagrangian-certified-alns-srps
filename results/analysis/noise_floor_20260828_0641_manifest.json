@@ -1,0 +1,27 @@
+{
+  "commit": "b1f6347b49fd98db8405a67d05ca1a6b2e768dd5",
+  "source_dirty": false,
+  "dirty_files": [],
+  "argv": "run_noise_floor.py --smoke --cores 6",
+  "python": "3.10.11",
+  "machine": "LAPTOP-420NB7DQ",
+  "started": "2026-08-28 06:41:01",
+  "instances": [
+    "D_n055_019_a25_055",
+    "C_n070_023_a25_067",
+    "D_n065_028_a25_082"
+  ],
+  "seeds_a0": [
+    42,
+    123,
+    456
+  ],
+  "seeds_ap": [
+    789,
+    1337,
+    2024
+  ],
+  "abs_cap": 3600.0,
+  "phase_rt": 300.0,
+  "gap_stop_disabled": true
+}

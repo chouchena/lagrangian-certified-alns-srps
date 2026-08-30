@@ -1,0 +1,6 @@
+[17:09:10] Traceback (most recent call last):
+[17:09:10]   File "C:\Users\user\Desktop\Sapir\Full_SRPS-ALNS\run_noise_floor.py", line 410, in <module>
+[17:09:10]     [17:09:10] inst_label = result.get("instance", "?")[17:09:10] 
+[17:09:10]   File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
+[17:09:10]     [17:09:10] return codecs.charmap_encode(input,self.errors,encoding_table)[0][17:09:10] 
+[17:09:10] UnicodeEncodeError[17:09:10] : [17:09:10] 'charmap' codec can't encode character '\u0394' in position 79: character maps to <undefined>[17:09:10] 

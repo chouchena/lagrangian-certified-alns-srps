@@ -1,0 +1,18 @@
+{
+  "commit": "a52e94a965aaca541f607a9aad8865a24253d92b",
+  "dirty": true,
+  "argv": "run_adaptivity_ab.py --smoke",
+  "python": "3.13.3",
+  "machine": "LAPTOP-420NB7DQ",
+  "started": "2026-08-27 15:52:50",
+  "instances": [
+    "ED_n080_042_a25_124",
+    "D_n065_030_a50_089",
+    "D_n080_044_a50_131"
+  ],
+  "seeds": [
+    42,
+    123
+  ],
+  "iters": 60
+}
